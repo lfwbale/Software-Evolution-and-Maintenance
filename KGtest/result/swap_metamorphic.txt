@@ -1,0 +1,2040 @@
+1	ST380011A的接口标准	IDE	0	0	null	null	接口标准 ST380011A	0	0	null	null
+1	Hotel Lake Avenue的房间数量	15	0	0	null	null	房间数量 Hotel Lake Avenue	0	0	null	null
+1	MSI微星 A75A-G35主板BIOS 1.6版 For DOS的中文名	MSI微星 A75A-G35主板BIOS 1.6版 For DOS	0	0	null	null	中文名 MSI微星 A75A-G35主板BIOS 1.6版 For DOS	0	0	null	null
+1	万一（话剧编导）的别名	温万镒	0	0	null	null	别名 万一（话剧编导）	0	0	null	null
+1	7月（中国电影）的语言	国语	0	0	null	null	语言 7月（中国电影）	0	0	null	null
+1	w3d（蜗牛游戏手机W3D）的中文名	蜗牛游戏手机W3D	0	0	null	null	中文名 w3d（蜗牛游戏手机W3D）	0	0	null	null
+1	东山中学（广东省梅州市东山中学）的校训	勇俭爱诚	0	0	null	null	校训 东山中学（广东省梅州市东山中学）	0	0	null	null
+1	偏牛的类别	黄牛牦牛杂交种	0	0	null	null	类别 偏牛	0	0	null	null
+1	中华对联（全四册）的出版时间	2008-11	0	1	2008年11月	null	出版时间 中华对联（全四册）	0	0	null	null
+1	何塞·纳瓦罗的外文名	Jose Navarro	0	1	Jose Navarro	null	外文名 何塞·纳瓦罗	0	0	null	null
+1	井玉龙的中文名	井玉龙	0	0	null	null	中文名 井玉龙	0	0	null	null
+1	倾史三国的作者	lanjianming20	0	0	null	null	作者 倾史三国	0	0	null	null
+1	公馆站的车站代码	G7	0	0	null	null	车站代码 公馆站	0	0	null	null
+1	公安部关于修订道路交通事故等级划分标准的通知的中文名	公安部关于修订道路交通事故等级划分标准的通知	0	0	null	null	中文名 公安部关于修订道路交通事故等级划分标准的通知	0	0	null	null
+1	全球殖道的连载网站	起点中文网	0	0	null	null	连载网站 全球殖道	0	0	null	null
+1	卢文进的朝代	五代后唐	0	1	五代	null	朝代 卢文进	0	0	null	null
+1	双齿山茉莉（原变种）的中文学名	双齿山茉莉（原变种）	0	0	null	null	中文学名 双齿山茉莉（原变种）	0	0	null	null
+1	先锋中国评论下半月刊:公共图书馆无书可读的出版社	<a>青年作家杂志社</a>。	0	0	null	null	出版社 先锋中国评论下半月刊:公共图书馆无书可读	0	0	null	null
+1	天才宝宝胎教法的ISBN	9787542749222	0	0	null	null	ISBN 天才宝宝胎教法	0	0	null	null
+1	多凶少吉的出处	《赚蒯通》	0	0	null	null	出处 多凶少吉	0	0	null	null
+1	天威兼容EPSON T0825的墨水容量	11ml	0	1	11ml	null	墨水容量 天威兼容EPSON T0825	0	0	null	null
+1	商务演讲的出版时间	2003-1-1	0	1	2003年1月1日	null	出版时间 商务演讲	0	0	null	null
+1	四物膏的药品名称	四物膏	0	0	null	null	药品名称 四物膏	0	0	null	null
+1	吉本寿司的营业时间	11:00-22:30	0	0	null	null	营业时间 吉本寿司	0	0	null	null
+1	安徽明光的公司名称	安徽明光酒业有限公司	0	1	安徽明光酒业有限公司	null	公司名称 安徽明光	0	0	null	null
+1	安托万·路易斯·巴里的外文名	Antoine Louis Barye	0	1	Antoine Louis Barye	null	外文名 安托万·路易斯·巴里	0	0	null	null
+1	山景度假屋的地理位置	康堤湖畔/市区	0	1	康堤湖畔/市区	null	地理位置 山景度假屋	0	0	null	null
+1	寻爱苦行的小说进度	连载	0	0	null	null	小说进度 寻爱苦行	0	0	null	null
+1	寅寺镇的面积	52.78平方千米	0	1	52.73平方千米	null	面积 寅寺镇	0	0	null	null
+0	宜城市博物馆的馆藏精品	铜敦、玉人	0	0	null	null	馆藏精品 宜城市博物馆	0	0	null	null
+1	恋爱等于伤害吗的小说进度	连载	0	0	null	null	小说进度 恋爱等于伤害吗	0	0	null	null
+1	拟双轮丝链轮丝菌的性质	气丝好、绒毛状、浅山茶红色	0	0	null	null	性质 拟双轮丝链轮丝菌	0	0	null	null
+1	我记得，我爱过的作者	名花彼岸	0	0	null	null	作者 我记得，我爱过	0	0	null	null
+1	截心掌的类型	武功	0	0	null	null	类型 截心掌	0	0	null	null
+1	情若挽夏的连载网站	起点中文网	0	0	null	null	连载网站 情若挽夏	0	0	null	null
+1	我的娇妻美妾的作者	大梦红尘	0	1	大梦红尘	null	作者 我的娇妻美妾	0	0	null	null
+1	方法总比问题多全集的出版社	万卷出版公司	0	0	null	null	出版社 方法总比问题多全集	0	0	null	null
+1	最新西游记外传的小说进度	连载	0	0	null	null	小说进度 最新西游记外传	0	0	null	null
+1	接驾的释义	古代指迎接皇帝	0	0	null	null	释义 接驾	1	0	null	基本解释 ◎ 接驾 jiējià[meet the emperor] 指迎接皇帝
+1	朱德同志旧居的类别	人物故居	0	0	null	null	类别 朱德同志旧居	0	0	null	null
+1	暗黑光明的连载网站	晋江文学城	0	0	null	null	连载网站 暗黑光明	0	0	null	null
+0	望都北站的建立时间	1960年	0	0	null	null	建立时间 望都北站	0	0	null	null
+1	桐城市龙眠中心学校的学生人数	384人	0	1	384	null	学生人数 桐城市龙眠中心学校	0	0	null	null
+1	染凤抱竹的小说进度	连载	0	0	null	null	小说进度 染凤抱竹	0	0	null	null
+1	泪过心田的作者	荷衣	0	0	null	null	作者 泪过心田	0	0	null	null
+1	桥门社区的行政级别	市辖区	0	1	市辖区	null	行政级别 桥门社区	0	0	null	null
+1	欧味多（浦江沃尔玛店）的人均价格	25	0	0	null	null	人均价格 欧味多（浦江沃尔玛店）	0	0	null	null
+1	深圳天之宇酒店的地理位置	深圳福田区	0	1	深圳福田区	null	地理位置 深圳天之宇酒店	0	0	null	null
+1	王丰（大学领导）的国籍	中国	0	0	null	null	国籍 王丰（大学领导）	0	0	null	null
+1	盗墓亡神的写作进程	新书上传	0	0	null	null	写作进程 盗墓亡神	0	0	null	null
+1	环球海外婚纱摄影的公司口号	让新人带着婚纱去海外旅行	0	0	null	null	公司口号 环球海外婚纱摄影	0	0	null	null
+1	湖南省旅行社价格行为规则的实施时间	2011年9月1日	0	1	2011年9月1日	null	实施时间 湖南省旅行社价格行为规则	0	0	null	null
+1	田俊（中国香港著名演员）的中文名	田俊	0	0	null	null	中文名 田俊（中国香港著名演员）	0	0	null	null
+1	玉雪（汉语词汇）的拼音	yù xuě	0	0	null	null	拼音 玉雪（汉语词汇）	0	0	null	null
+1	美的NPS10-10D的中文名	美的NPS10-10D	0	0	null	null	中文名 美的NPS10-10D	0	0	null	null
+1	翠宫鹤临轩中餐厅的餐馆名称	翠宫鹤临轩中餐厅	0	0	null	null	餐馆名称 翠宫鹤临轩中餐厅	0	0	null	null
+1	破碎之魂的作者	罪歌	0	0	null	null	作者 破碎之魂	0	0	null	null
+1	石广馨的民族	汉族	0	1	汉族	null	民族 石广馨	0	0	null	null
+0	科尔科瓦杜国家公园的地理位置	<a>哥斯达黎加</a>	0	0	null	null	地理位置 科尔科瓦杜国家公园	0	0	null	null
+1	维尼夫妇同人——绕圈的作者	疏影承欢	0	0	null	null	作者 维尼夫妇同人——绕圈	0	0	null	null
+1	虾仁凉拌粉丝的口味	辣	0	1	辣	null	口味 虾仁凉拌粉丝	0	0	null	null
+1	莱普公寓酒店的英文名称	Apartments - Laipu	0	1	Apartments - Laipu	null	英文名称 莱普公寓酒店	0	0	null	null
+1	胡奕（书法家）的出生日期	1968年3月	0	0	null	null	出生日期 胡奕（书法家）	0	0	null	null
+1	薄腾飞的国籍	中国	0	1	中国	null	国籍 薄腾飞	0	1	中国	null
+1	虾姑炒蛋的主要原料	虾姑、鸡蛋	0	0	null	null	主要原料 虾姑炒蛋	0	0	null	null
+0	茄茉菜的中文名	茄茉菜	0	0	null	null	中文名 茄茉菜	0	0	null	null
+1	郝全茂的国籍	中国	0	1	中国	null	国籍 郝全茂	0	0	null	null
+0	银行的秘密——揭开美联储的神秘面纱（第2版）的定价	52元	0	0	null	null	定价 银行的秘密——揭开美联储的神秘面纱（第2版）	0	0	null	null
+1	金盛国际家居上海银都路广场的地点	上海	1	0	null	金盛国际家居(银都路广场店),银都路2688弄-上海金盛国际家居(银都路	地点 金盛国际家居上海银都路广场	0	0	null	null
+1	郑胜宇的别名	郑承宇	0	1	郑承宇	null	别名 郑胜宇	0	1	郑承宇	null
+1	锋岩自然村的面积有	0.46平方公里	0	1	0.46平方公里	null	面积有 锋岩自然村	0	0	null	null
+1	赵家蓬的所属地区	河东镇河东村	0	1	河东镇河东村	null	所属地区 赵家蓬	0	0	null	null
+1	餐巾折花精选200例的出版社	：中国旅游出版社	0	0	null	null	出版社 餐巾折花精选200例	0	0	null	null
+1	青少年狼人的导演	<a>拉塞尔·马尔卡希</a> Russell Mulcahy	0	1	拉塞尔·马尔卡希	null	导演 青少年狼人	0	0	null	null
+1	香港电影图志的装帧	精装	0	0	null	null	装帧 香港电影图志	0	0	null	null
+0	阿比峰的地理位置	<a>印度</a>和<a>西藏</a>接壤的边境	0	0	null	null	地理位置 阿比峰	0	0	null	null
+1	黑椒拌鸡丝的调味品	醋 糖 粗黑胡椒粉	0	0	null	null	调味品 黑椒拌鸡丝	0	0	null	null
+1	阿拉伯的良心的发行时间	2008	0	1	2008年	null	发行时间 阿拉伯的良心	0	0	null	null
+1	Ｍ型社会的字数	117000	0	0	null	null	字数 Ｍ型社会	0	0	null	null
+1	Villa Mahesa的英文名称	Villa Mahesa	0	0	null	null	英文名称 Villa Mahesa	0	0	null	null
+1	Deary媞尔妮玫瑰Q10紧致面膜的适合肤质	适合各种肤质	0	0	null	null	适合肤质 Deary媞尔妮玫瑰Q10紧致面膜	0	0	null	null
+1	WayOS GQR-6400的局域网接口	1个	0	0	null	null	局域网接口 WayOS GQR-6400	0	0	null	null
+1	上海音乐家协会的会员人数	2000多人	0	1	2000多人	null	会员人数 上海音乐家协会	0	0	null	null
+0	Villa S'Ermita II的酒店地址	Foners, 34, 07300 印卡	0	0	null	null	酒店地址 Villa S'Ermita II	0	0	null	null
+1	4·4希腊老人因贫自杀事件的目的	每组谴责本国政治家	0	0	null	null	目的 4·4希腊老人因贫自杀事件	0	0	null	null
+1	NTN 16048轴承的外径	360 mm	0	1	360毫米	null	外径 NTN 16048轴承	0	0	null	null
+1	AMPON DCS-B710A的产品类型	模拟摄像机	0	0	null	null	产品类型 AMPON DCS-B710A	0	0	null	null
+1	2012地球末日的游戏大小	822K	0	1	822K	null	游戏大小 2012地球末日	0	0	null	null
+1	万补拉打村的所属地区	中国西南	0	1	中国西南	null	所属地区 万补拉打村	0	0	null	null
+1	一体化喷嘴的外文名	BYM-BP	0	1	BYM-BP	null	外文名 一体化喷嘴	0	0	null	null
+1	上课记：农村的“90后”一代大学生思想结集的作者	王小妮	0	0	null	null	作者 上课记：农村的“90后”一代大学生思想结集	0	0	null	null
+1	F·蒙泰罗的中文名	F·蒙泰罗	0	0	null	null	中文名 F·蒙泰罗	0	0	null	null
+1	hazza的星座	双子座	0	1	双子座	null	星座 hazza	0	1	双子座	null
+1	Villa Peruzzi的房间数量	12	0	0	null	null	房间数量 Villa Peruzzi	0	0	null	null
+1	2012款瑞麒G5 2.0L自动豪华型的生产厂家	瑞麒	0	0	null	null	生产厂家 2012款瑞麒G5 2.0L自动豪华型	0	0	null	null
+1	中音的相关记载	《国语·周语下》	0	0	null	null	相关记载 中音	0	0	null	null
+1	人生地理学的ISBN	7309041488	0	0	null	null	ISBN 人生地理学	0	0	null	null
+1	丝柱龙胆（原变种）的亚科	<a>龙胆亚科</a>Subfam.Gentianoideae	0	0	null	null	亚科 丝柱龙胆（原变种）	0	0	null	null
+1	东海岛屿文化与民俗的书名	东海岛屿文化与民俗	0	0	null	null	书名 东海岛屿文化与民俗	0	0	null	null
+1	伴你一生名人传记故事：武则天的书名	伴你一生名人传记故事：武则天	0	0	null	null	书名 伴你一生名人传记故事：武则天	0	0	null	null
+1	九天神降的中文名	九天神降	0	0	null	null	中文名 九天神降	0	0	null	null
+1	乌赞乡的中文名	乌赞乡	0	0	null	null	中文名 乌赞乡	0	0	null	null
+1	九里松烧烤的地区	杭州市	0	0	null	null	地区 九里松烧烤	0	0	null	null
+1	乐歌商城的研发中心数	2个	0	0	null	null	研发中心数 乐歌商城	0	0	null	null
+0	从课本到奥数·三年级第二学期A版的副标题	从课本到奥数	0	0	null	null	副标题 从课本到奥数·三年级第二学期A版	0	0	null	null
+1	倍美丛的隶属	日本千趣会	0	1	日本千趣会	null	隶属 倍美丛	0	0	null	null
+0	中国古代天文文物图录的书名	中国古代天文文物图录	0	0	null	null	书名 中国古代天文文物图录	0	0	null	null
+1	乱世俊才之巅峰之作的作者	庸人自扰	0	0	null	null	作者 乱世俊才之巅峰之作	0	0	null	null
+1	世纪英雄学院的校训	闳约深美	0	1	闳约深美	null	校训 世纪英雄学院	0	0	null	null
+1	中华饮食智慧调元·体质·食养的出版社	世界图书出版公司	0	0	null	null	出版社 中华饮食智慧调元·体质·食养	0	0	null	null
+0	亡灵天帝的小说进度	连载	0	0	null	null	小说进度 亡灵天帝	0	0	null	null
+1	刘安子的中文名	刘安子	0	0	null	null	中文名 刘安子	0	0	null	null
+1	克拉科夫老镇招待所的地理位置	老城区	0	1	老城区	null	地理位置 克拉科夫老镇招待所	0	0	null	null
+1	北海中华文化促进会的外文名	The north sea association for the advancement of the Chinese culture	0	1	The north sea association for the advancement of the Chinese culture	null	外文名 北海中华文化促进会	0	0	null	null
+1	制度才是真正的老板：一流的执行必有一流的制度的品牌	世纪传播	0	0	null	null	品牌 制度才是真正的老板：一流的执行必有一流的制度	0	0	null	null
+1	卢胜奎（山东梆子演员）的职业	山东梆子演员	0	0	null	null	职业 卢胜奎（山东梆子演员）	0	0	null	null
+1	制作开心果饼的游戏大小	834K	0	1	834K	null	游戏大小 制作开心果饼	0	0	null	null
+1	双鸭山市2012年政府信息公开工作年度报告的性质	工作报告	0	0	null	null	性质 双鸭山市2012年政府信息公开工作年度报告	0	0	null	null
+1	危机小奇兵的中文名	危机小奇兵	0	0	null	null	中文名 危机小奇兵	0	0	null	null
+1	凸优化理论的作者	博赛克斯(DimitriP.Bertsekas)	0	1	博赛克斯
+                                                                                                                 (DimitriP.Bertsekas)	null	作者 凸优化理论	1	0	null	凸优化理论 (豆瓣)
+1	北城小事的作者	夏言宜	0	0	null	null	作者 北城小事	0	0	null	null
+1	反意疑问句（汉语反意疑问句）的中文名	反意疑问句	0	0	null	null	中文名 反意疑问句（汉语反意疑问句）	0	0	null	null
+1	十二星座唯我叛逆的小说进度	连载	0	0	null	null	小说进度 十二星座唯我叛逆	0	0	null	null
+1	北京大学保险学社的中文名	北京大学保险学社	0	0	null	null	中文名 北京大学保险学社	0	0	null	null
+1	卡梅洛·因布里亚尼的出生日期	1976-02-10	0	1	1976年2月10日	null	出生日期 卡梅洛·因布里亚尼	0	0	null	null
+1	北票市旅游局的内设机构	办公室等	0	0	null	null	内设机构 北票市旅游局	0	0	null	null
+1	华为U8655 Ascend Y200的中文名	华为U8655 Ascend Y200	0	0	null	null	中文名 华为U8655 Ascend Y200	0	0	null	null
+1	复灭之爱的小说进度	连载	0	0	null	null	小说进度 复灭之爱	0	0	null	null
+1	图卢兹国立建筑学院的教学员人数	临时雇佣70员、全职53员	0	0	null	null	教学员人数 图卢兹国立建筑学院	0	0	null	null
+0	天堂里的笑声的上映时间	1951年6月13日	0	0	null	null	上映时间 天堂里的笑声	0	0	null	null
+1	国色天香舞红尘的作者	草浅睡	0	1	草浅睡	null	作者 国色天香舞红尘	0	0	null	null
+0	基里库梅埃湖的中文名	基里库梅埃湖	0	0	null	null	中文名 基里库梅埃湖	0	0	null	null
+1	基础摄影的页数	: 143页	0	1	143页	null	页数 基础摄影	0	0	null	null
+1	图拉斯钩丝壳的定名人	(DC.) Sacc. var. (Fuck.) Salm	0	0	null	null	定名人 图拉斯钩丝壳	0	0	null	null
+1	大宅门（新北京餐厅）的地区	北京市	0	0	null	null	地区 大宅门（新北京餐厅）	0	0	null	null
+1	古剑奇谭贰的装帧	平装	0	0	null	null	装帧 古剑奇谭贰	0	0	null	null
+1	天为峰阁的开发商	四川天为房地产开发有限公司	0	1	四川天为房地产开发有限公司	null	开发商 天为峰阁	0	0	null	null
+1	大山中的女孩的歌曲语言	国语	0	0	null	null	歌曲语言 大山中的女孩	0	0	null	null
+1	叶矩吾的出生日期	1923年2月	0	1	1923年2月	null	出生日期 叶矩吾	0	0	null	null
+1	大英雄鳌拜的连载网站	起点中文网	0	0	null	null	连载网站 大英雄鳌拜	0	0	null	null
+1	国科知识产权的所属行业	知识产权、专利、法律、商标	0	0	null	null	所属行业 国科知识产权	0	0	null	null
+1	变压器功率容量分析仪的电压测量范围	AC 0～750V	0	0	null	null	电压测量范围 变压器功率容量分析仪	0	0	null	null
+1	古城墙与大梁门的地理位置	西门大街大梁门	0	1	西门大街大梁门	null	地理位置 古城墙与大梁门	0	0	null	null
+1	常州市武进五洋纺织机械有限公司的荣誉	江苏省专利百强企业	0	0	null	null	荣誉 常州市武进五洋纺织机械有限公司	0	0	null	null
+0	奇古拉国王的猪朋鸡友的出版时间	第1版(2010年9月1日)	0	0	null	null	出版时间 奇古拉国王的猪朋鸡友	0	0	null	null
+0	小妹别淘气的作者	鲲鹏之志	0	0	null	null	作者 小妹别淘气	0	0	null	null
+1	常德古城的中文名	常德古城	0	0	null	null	中文名 常德古城	0	0	null	null
+1	小学生日常对话英语听力林克妈妈的听力直通车的定价	32.80元	0	0	null	null	定价 小学生日常对话英语听力林克妈妈的听力直通车	0	0	null	null
+1	完美杀手玩转都市的连载网站	好123小说	0	0	null	null	连载网站 完美杀手玩转都市	0	0	null	null
+1	孙成哲的出生日期	1987-02-14	0	1	1987年2月14日(水瓶座)	null	出生日期 孙成哲	0	1	1987年2月14日(水瓶座)	null
+1	太化集团有限公司焦化厂的公司性质	有限公司	0	0	null	null	公司性质 太化集团有限公司焦化厂	0	0	null	null
+1	安徽奇嘉电脑有限公司的员工数	185人	0	0	null	null	员工数 安徽奇嘉电脑有限公司	0	0	null	null
+1	希望的碎片的作者	水凝飞舞	0	0	null	null	作者 希望的碎片	0	0	null	null
+1	天籁车系电路分析与维修案例集锦的页数	83页	0	1	83页	null	页数 天籁车系电路分析与维修案例集锦	0	0	null	null
+1	宗夬的出生地	南阳涅阳	0	1	南阳涅阳	null	出生地 宗夬	0	0	null	null
+1	属蛇女的书名	属蛇女	0	0	null	null	书名 属蛇女	0	0	null	null
+1	山西万荣技师学院的类别	公立	0	0	null	null	类别 山西万荣技师学院	0	0	null	null
+1	孟凡楼的出生日期	1968年6月	0	0	null	null	出生日期 孟凡楼	0	0	null	null
+1	如梦江湖月牙湾的小说进度	连载	0	0	null	null	小说进度 如梦江湖月牙湾	0	0	null	null
+1	德朗：世界名画家全集的书名	德朗：世界名画家全集	0	0	null	null	书名 德朗：世界名画家全集	0	0	null	null
+1	户型的参考资料	错层、跃层和复式	0	0	null	null	参考资料 户型	0	0	null	null
+1	康福特经济型旅馆的中文名	康福特经济型旅馆	0	0	null	null	中文名 康福特经济型旅馆	0	0	null	null
+1	手机维修入门的ISBN	9787533729318	0	0	null	null	ISBN 手机维修入门	0	0	null	null
+1	庄园主的作者	梦幻调酒师	0	1	梦幻调酒师	null	作者 庄园主	0	0	null	null
+1	影视包装特效--3ds max制作技法的作者	徐灏	0	1	徐灏	null	作者 影视包装特效--3ds max制作技法	0	0	null	null
+1	微观经济理论的开本	16开	0	0	null	null	开本 微观经济理论	0	0	null	null
+1	我赖定你了的作者	小丫头31	0	0	null	null	作者 我赖定你了	0	0	null	null
+1	心魔噬的小说进度	连载	0	0	null	null	小说进度 心魔噬	0	0	null	null
+1	志茂站的车站编号	N-18	0	0	null	null	车站编号 志茂站	0	0	null	null
+1	微软HD-5000高清摄像头的驱动类型	无驱版	0	0	null	null	驱动类型 微软HD-5000高清摄像头	0	0	null	null
+0	扁担钩的科	蝗科(学名：Acrididae)	0	0	null	null	科 扁担钩	0	0	null	null
+1	德昂族博物馆的传统歌舞	水鼓舞、象鼓舞、赛鼓	0	0	null	null	传统歌舞 德昂族博物馆	0	0	null	null
+1	德清县水利局的隶属	德清县人民政府	0	1	德清县人民政府	null	隶属 德清县水利局	0	0	null	null
+1	恒宇星途的连载网站	起点中文网	0	0	null	null	连载网站 恒宇星途	0	0	null	null
+1	我是夏壳壳的页数	214	0	1	214页	null	页数 我是夏壳壳	0	0	null	null
+1	昌先绪的毕业院校	沔阳师范	0	0	null	null	毕业院校 昌先绪	0	0	null	null
+1	时代的冲击的连载网站	烟雨红尘	0	0	null	null	连载网站 时代的冲击	0	0	null	null
+1	曾玉惠的中文名	曾玉惠	0	0	null	null	中文名 曾玉惠	0	0	null	null
+0	最令人奋进的26位创业女性的ISBN	10位[7504456748] 13位[9787504456748]	0	0	null	null	ISBN 最令人奋进的26位创业女性	0	0	null	null
+1	最新即学即用地道办公室英语口语的出版社	北京语言大学出版社	0	0	null	null	出版社 最新即学即用地道办公室英语口语	0	0	null	null
+1	暴力姻缘的作者	祁悠	0	0	null	null	作者 暴力姻缘	0	0	null	null
+1	李静芝（超级演说家选手）的别名	微博打拐妈妈	0	0	null	null	别名 李静芝（超级演说家选手）	0	0	null	null
+1	李合林的国籍	中国	0	1	中国	null	国籍 李合林	0	0	null	null
+1	星游记传的中文名	星游记传	0	0	null	null	中文名 星游记传	0	0	null	null
+1	暴发者的出版社	<a>大众文艺出版社</a>	0	0	null	null	出版社 暴发者	0	0	null	null
+1	未来FM电台的软件版本	2.0.5	0	0	null	null	软件版本 未来FM电台	0	0	null	null
+1	李豫成的性别	男	0	1	男	null	性别 李豫成	0	1	男	null
+1	替身传奇乐翻天的中文名	替身传奇乐翻天	0	0	null	null	中文名 替身传奇乐翻天	0	0	null	null
+1	曹慧君的民族	汉族	0	1	汉族	null	民族 曹慧君	0	0	null	null
+1	无限穿越：逃离灾难之书的连载网站	晋江文学城	0	0	null	null	连载网站 无限穿越：逃离灾难之书	0	0	null	null
+1	文莱阁菜馆的地区	上海市	0	0	null	null	地区 文莱阁菜馆	0	0	null	null
+1	毛洲岛村的中文名	毛洲岛村	0	0	null	null	中文名 毛洲岛村	0	0	null	null
+1	法治及其本土资源的出版社	中国政法大学出版社	0	1	中国政法大学出版社	null	出版社 法治及其本土资源	0	0	null	null
+1	梦想之塔的制片地区	中国	0	0	null	null	制片地区 梦想之塔	0	0	null	null
+1	沈海明的性别	男	0	1	男	null	性别 沈海明	0	0	null	null
+1	江苏省农业科学院农业资源与环境研究所的中文名	江苏省农业科学院农业资源与环境研究所	0	0	null	null	中文名 江苏省农业科学院农业资源与环境研究所	0	0	null	null
+0	淡翡翠的颜料	陶瓷粉彩	0	0	null	null	颜料 淡翡翠	0	0	null	null
+1	汉升新传的中文名	汉升新传	0	0	null	null	中文名 汉升新传	0	0	null	null
+1	武澄的出生地	岐山县凤鸣镇杏园	0	1	岐山县凤鸣镇杏园	null	出生地 武澄	0	0	null	null
+1	永和大王（控江店）的营业时间	24小时营业	0	0	null	null	营业时间 永和大王（控江店）	0	0	null	null
+1	浪潮英信网通NL100的CPU型号	奔腾 0.933GHz	0	1	奔腾 0.933GHz	null	CPU型号 浪潮英信网通NL100	0	0	null	null
+1	欲+望的小说进度	连载	0	0	null	null	小说进度 欲+望	0	0	null	null
+1	梵净山凤仙花的界	植物界	0	1	植物界	null	界 梵净山凤仙花	0	0	null	null
+0	汉拿山韩式烤肉（凯德广场店）的地区	西安市	0	0	null	null	地区 汉拿山韩式烤肉（凯德广场店）	0	0	null	null
+1	格力FD-4015Bg5的定时	7.5小时	0	0	null	null	定时 格力FD-4015Bg5	0	0	null	null
+1	江山为君的作者	旭尧	0	0	null	null	作者 江山为君	0	0	null	null
+1	永恒回忆的制作发行	追漫社	0	0	null	null	制作发行 永恒回忆	0	0	null	null
+1	爱以命中注定的作者	婷婷玉丽	0	0	null	null	作者 爱以命中注定	0	0	null	null
+1	漠然*锦瑟的连载网站	新小说吧	0	0	null	null	连载网站 漠然*锦瑟	0	0	null	null
+1	现代HYY-C720（8GB）的屏幕尺寸	7英寸	0	1	7英寸	null	屏幕尺寸 现代HYY-C720（8GB）	0	0	null	null
+1	疲惫的心的填词	菡露（徐晓露）	0	1	菡露
+                                                                                                                 (徐晓露)	null	填词 疲惫的心	0	0	null	null
+1	百度百科2011年12月十大热词的群体	广大网民	0	0	null	null	群体 百度百科2011年12月十大热词	0	0	null	null
+1	特诊特治不孕症的出版时间	2008-1-1	0	1	2008年1月1日	null	出版时间 特诊特治不孕症	0	0	null	null
+1	漫画黄帝内经素问：经穴脏腑卷的出版社	<a>文汇出版社</a>	0	0	null	null	出版社 漫画黄帝内经素问：经穴脏腑卷	0	0	null	null
+1	王村镇西铺村的行政区类别	山东省淄博市王村镇	0	0	null	null	行政区类别 王村镇西铺村	0	0	null	null
+1	王家村（陕西省永寿县甘井镇下辖村）的中文名	王家村	0	0	null	null	中文名 王家村（陕西省永寿县甘井镇下辖村）	0	0	null	null
+1	玛雅HD2608的最佳分辨率	1920x1200	0	0	null	null	最佳分辨率 玛雅HD2608	0	0	null	null
+1	焚天仙境〈原焚天仙界〉的作者	翩高飞	0	1	翩高飞	null	作者 焚天仙境〈原焚天仙界〉	0	0	null	null
+1	王忠宾的性别	男	0	1	男	null	性别 王忠宾	0	1	男	null
+1	白宫血案的统一书号	15006-507	0	0	null	null	统一书号 白宫血案	0	0	null	null
+1	物理课程与教学论的出版社	科学出版社	0	1	科学出版社	null	出版社 物理课程与教学论	0	0	null	null
+1	湖北省孔子学术研究会的业务范围	孔子学术研究等	0	0	null	null	业务范围 湖北省孔子学术研究会	0	0	null	null
+1	熔岩巨兽的价格美服	975点券3150金币	0	0	null	null	价格美服 熔岩巨兽	0	0	null	null
+1	者吉村委会的中文名	者吉村委会	0	0	null	null	中文名 者吉村委会	0	0	null	null
+1	网游之争霸巅峰的作者	回忆如夏	0	0	null	作者：哥玩的是寂寞	作者 网游之争霸巅峰	0	0	null	null
+1	网游之极品武者的中文名	网游之极品武者	0	0	null	null	中文名 网游之极品武者	0	0	null	null
+0	美国阿玛利特AR-18式5.56mm步枪的弹药	M193式5．56mm枪弹	0	0	null	null	弹药 美国阿玛利特AR-18式5.56mm步枪	0	0	null	null
+1	第一次做布艺的ISBN	9787535759443	0	0	null	null	ISBN 第一次做布艺	0	0	null	null
+1	程明荣的职业	董事长	0	0	null	null	职业 程明荣	0	0	null	null
+1	精卫填海-好孩子·绘本馆的副标题	精卫填海	0	0	null	null	副标题 精卫填海-好孩子·绘本馆	0	0	null	null
+1	红眼金鲫鱼的别名	泰国鲃	0	1	泰国鲃	null	别名 红眼金鲫鱼	0	0	null	null
+1	硅剑的影响	给中国读者的想像力带来震	0	0	null	null	影响 硅剑	0	0	null	null
+1	睿姿的中文名	睿姿	0	0	null	null	中文名 睿姿	0	0	null	null
+1	美国凤凰号火星探测器的所属国家	美国	0	1	美国	null	所属国家 美国凤凰号火星探测器	0	0	null	null
+1	秋元龙太郎的国籍	日本	0	1	日本	null	国籍 秋元龙太郎	0	0	null	null
+1	竹蓬村（云南省景东彝族自治县文井镇竹蓬村）的中文名	竹蓬村	0	0	null	null	中文名 竹蓬村（云南省景东彝族自治县文井镇竹蓬村）	0	0	null	null
+1	网吧版迅雷的开发商	迅雷	0	1	迅雷	null	开发商 网吧版迅雷	0	0	null	null
+1	移动饮用水设备的适用范围	战地医院各种用水	0	0	null	null	适用范围 移动饮用水设备	0	0	null	null
+1	耐火粘土模的耐火度	高于 19 号的高岭土	0	0	null	null	耐火度 耐火粘土模	0	0	null	null
+1	诱惑歧途的中文名	诱惑歧途	0	0	null	null	中文名 诱惑歧途	0	0	null	null
+1	药源性心血管疾病的定价	33.0	0	0	null	null	定价 药源性心血管疾病	0	0	null	null
+1	西北·中国的出版时间	2013-1	0	1	2013年1月	null	出版时间 西北·中国	0	0	null	null
+1	蓝精灵消防员的中文名	蓝精灵消防员	0	0	null	null	中文名 蓝精灵消防员	0	0	null	null
+1	行在仙途的连载网站	起点中文网	0	0	null	null	连载网站 行在仙途	0	0	null	null
+1	衡山县检察院的检察长、书记	王一平	0	0	null	null	检察长、书记 衡山县检察院	0	0	null	null
+1	让梦飞翔：携手镇江高专，塑造完美人生的语种	中文	0	1	中文	null	语种 让梦飞翔：携手镇江高专，塑造完美人生	0	0	null	null
+1	衡阳市体育馆的建立时间	1973年3月24日	0	1	1973年3月24日	null	建立时间 衡阳市体育馆	0	0	null	null
+1	薛雪的出生日期	公元1661年	0	1	1661年	null	出生日期 薛雪	0	1	1661年	null
+1	装配式衬砌的特点	即可承受围岩压力、一经装配	0	0	null	null	特点 装配式衬砌	0	0	null	null
+1	诸比的外文名	zhū bǐ	0	1	zhū bǐ	null	外文名 诸比	0	0	null	null
+1	蜀香阁的餐馆名称	蜀香阁	0	0	null	null	餐馆名称 蜀香阁	0	0	null	null
+1	膨润石的也叫	白土、<a>瓷土</a>	0	1	syderolife、陶土	null	也叫 膨润石	0	0	null	null
+1	血帝之。魔修的小说进度	连载	0	0	null	null	小说进度 血帝之。魔修	0	0	null	null
+1	菜肴围边集的出版社	上海科学普及出版社	0	0	null	null	出版社 菜肴围边集	0	0	null	null
+1	语文阅读与活动（初一分册）的出版时间	1995-10	0	1	1995年10月	null	出版时间 语文阅读与活动（初一分册）	0	0	null	null
+1	邪皇选妃：妖孽歌后的中文名	邪皇选妃:妖孽歌后	0	0	null	null	中文名 邪皇选妃：妖孽歌后	0	0	null	null
+1	辜学武的毕业院校	武汉大学	0	1	武汉大学	null	毕业院校 辜学武	0	0	null	null
+1	邓小平纪念堂的中文名	邓小平纪念堂	0	0	null	null	中文名 邓小平纪念堂	0	0	null	null
+1	银屑病合理用药113问的开本	22.4x15x1cm 16开	0	0	null	null	开本 银屑病合理用药113问	0	0	null	null
+1	锦绣餐厅的餐馆名称	锦绣餐厅	0	0	null	null	餐馆名称 锦绣餐厅	0	0	null	null
+1	路透杰富瑞商品期货指数的介绍	美国商品研究局编的商品价格指数	0	0	null	null	介绍 路透杰富瑞商品期货指数	0	0	null	null
+1	金品KU2510-S的标配CPU数量	1颗	0	1	1颗	null	标配CPU数量 金品KU2510-S	0	0	null	null
+1	赵成荣的中文名	赵成荣	0	0	null	null	中文名 赵成荣	0	0	null	null
+1	赵零的出生日期	1942年8月	0	0	null	null	出生日期 赵零	0	0	null	null
+1	长发造型与梳理的页数	144	0	1	144页	null	页数 长发造型与梳理	0	0	null	null
+1	赖上你不是我的错的连载网站	小说阅读网	0	0	null	null	连载网站 赖上你不是我的错	0	0	null	null
+1	输血与血液保护的书名	输血与血液保护	0	0	null	null	书名 输血与血液保护	0	0	null	null
+1	遥远的桥的发行公司	联美电影公司	0	1	联美电影公司	null	发行公司 遥远的桥	0	0	null	null
+1	长乐市兄弟针织有限公司的经营范围	针织	0	0	null	null	经营范围 长乐市兄弟针织有限公司	0	0	null	null
+1	钢尺的又称	<a>钢卷尺</a>	0	1	钢卷尺	null	又称 钢尺	1	0	null	1.钢尺:钢尺又称钢卷尺,为薄钢制的带状尺。钢尺可以卷放在圆形的尺壳内,也可以卷放在金属的尺架上。钢尺的长度有20m,30m及50m等数种,其基本分划为厘米,最小分划为毫米。在每分米和每米的分划线...
+1	送王尊师归湖州的作品名称	送王尊师归湖州	0	0	null	null	作品名称 送王尊师归湖州	0	0	null	null
+0	风云书院·番外篇之一·女武师的少年太子的丛书	風雲書院	0	0	null	null	丛书 风云书院·番外篇之一·女武师的少年太子	0	0	null	null
+1	魂断篮坛的中文名	魂断篮坛	0	0	null	null	中文名 魂断篮坛	0	0	null	null
+1	鹢首的释义	1.船头。2.泛指船	0	0	null	null	释义 鹢首	0	0	null	null
+1	青春的叛逆得以谅解的连载网站	小说阅读网	0	0	null	null	连载网站 青春的叛逆得以谅解	0	0	null	null
+1	高考高频应考素材的定价	16.80	0	0	null	null	定价 高考高频应考素材	0	0	null	null
+1	青岛龙丰木工机械有限公司的公司名称	青岛龙丰木工机械有限公司	0	0	null	null	公司名称 青岛龙丰木工机械有限公司	0	0	null	null
+1	零九棋牌的游戏	竞猜游戏、牛牛、德i州扑克	1	0	null	零九棋牌游戏下载-零九棋牌安卓版下载v1.0-游迅网	游戏 零九棋牌	0	0	null	null
+1	黑水泥的中文名	黑水泥	0	0	null	null	中文名 黑水泥	0	0	null	null
+1	青树寨自然村（镇康县勐堆乡勐堆村委会青树寨自然村）的中文名	青树寨自然村	0	0	null	null	中文名 青树寨自然村（镇康县勐堆乡勐堆村委会青树寨自然村）	0	0	null	null
+1	龙高中学的所属地区	陕西省咸阳市	0	1	陕西省咸阳市	null	所属地区 龙高中学	0	0	null	null
+1	预算外财政收入的中文名	预算外财政收入	0	0	null	null	中文名 预算外财政收入	0	0	null	null
+1	马明德（汉明帝刘庄皇后）的国籍	中国	0	0	null	null	国籍 马明德（汉明帝刘庄皇后）	0	0	null	null
+1	高德欣的职业	副教授	0	0	null	null	职业 高德欣	0	0	null	null
+1	魔女殿下的猎爱游戏的连载网站	小说阅读网	0	0	null	null	连载网站 魔女殿下的猎爱游戏	0	0	null	null
+1	黑锯盖鱼的亚门	脊椎动物亚门	0	1	脊椎动物亚门	null	亚门 黑锯盖鱼	0	0	null	null
+1	高尔夫球场场地养护管理的出版时间	2012-5	0	1	2012年5月	null	出版时间 高尔夫球场场地养护管理	0	0	null	null
+1	：勇敢的心的其它译名	英雄本色 / 惊世未了缘	0	0	null	null	其它译名 ：勇敢的心	0	0	null	null
+1	（鱼旁）（鱼皮）指环虫的分布区域	四川	0	0	null	null	分布区域 （鱼旁）（鱼皮）指环虫	0	0	null	null
+1	bcd（美国广播公司简称）的外文名	AmericanBroadcastingCompany,Inc	0	0	null	null	外文名 bcd（美国广播公司简称）	0	0	null	null
+1	2013款阿斯顿马丁Vanquish 6.0L基本款的生产厂家	阿斯顿-马丁	0	0	null	null	生产厂家 2013款阿斯顿马丁Vanquish 6.0L基本款	0	0	null	null
+1	一次函数的性质的表达式	y=kx+b	0	1	y=kx+b
+                                                                                                                 (k，b为常数，且k≠0)	null	表达式 一次函数的性质	1	0	null	1.函数性质 1.y的变化值与对应的x的变化值成正比例,比值为k,即:y=kx+b(k≠0)(k不等于0,且k,b为常数); 2.当x=0时,b为函数在y轴上的,坐标为(0,b)。当y=0时,该函数图像在x轴上的...
+1	3M467的制成	丙希酸胶直接涂布	0	0	null	null	制成 3M467	0	0	null	null
+0	PowerPoint2000教程（中文版）/办公自动化新世纪培训教程丛书的装帧	平装(无盘)	0	0	null	null	装帧 PowerPoint2000教程（中文版）/办公自动化新世纪培训教程丛书	0	0	null	null
+1	下一站辉煌的中文名	下一站辉煌	0	0	null	null	中文名 下一站辉煌	0	0	null	null
+1	万能佣兵的作者	霖破晓	0	0	null	null	作者 万能佣兵	0	0	null	null
+1	一个人的抵抗的作者	商裔	0	1	商裔	null	作者 一个人的抵抗	0	0	null	null
+1	ESET NOD32安全套装教育套装版（150用户包）使用年限3年的中文名	ESET NOD32安全套装教育套装版（150用户包）使用年限3年	0	0	null	null	中文名 ESET NOD32安全套装教育套装版（150用户包）使用年限3年	0	0	null	null
+1	OK?OK!的谱曲	Yoon Il-sang	0	1	Yoon Il-sang	null	谱曲 OK?OK!	0	0	null	null
+1	万强（竹笛专业委员常务理事）的中文名	万强	0	0	null	null	中文名 万强（竹笛专业委员常务理事）	0	0	null	null
+1	5sing的服务范围	伴奏、原创、翻唱、电台	0	0	null	null	服务范围 5sing	0	0	null	null
+1	SD高达G世纪Curse的小说进度	连载	0	0	null	null	小说进度 SD高达G世纪Curse	0	0	null	null
+1	PQI U265(32GB)的重量(g)	13	0	0	null	null	重量(g) PQI U265(32GB)	0	0	null	null
+1	HTC TyTN II(P4500)的型号	TyTN II(P4550)	0	0	null	null	型号 HTC TyTN II(P4500)	0	0	null	null
+1	HTC EVO 4G（Sprint版）的主屏尺寸	4.300 480×800像素	0	1	4.300 480*800像素	null	主屏尺寸 HTC EVO 4G（Sprint版）	0	0	null	null
+1	中国广播电视协会电视文艺工作委员会的中文名	中国广播电视协会电视文艺工作委员会	0	0	null	null	中文名 中国广播电视协会电视文艺工作委员会	0	0	null	null
+1	丧失记忆的中文名	丧失记忆	0	0	null	null	中文名 丧失记忆	0	0	null	null
+1	会宁县农业技术推广中心的固定资产	96万元	0	1	96万人民币	null	固定资产 会宁县农业技术推广中心	0	0	null	null
+1	中国少年儿童必读探秘故事的装帧	简裝本	0	0	null	null	装帧 中国少年儿童必读探秘故事	0	0	null	null
+1	人造脂肪的中文名	人造脂肪	0	0	null	null	中文名 人造脂肪	0	0	null	null
+1	中国古代军事文化大辞典的定价	27.00	0	0	null	null	定价 中国古代军事文化大辞典	0	0	null	null
+1	九龙山（湖南常德九龙山）的位于	湖南<a>花岩溪景区</a>南端	1	0	null	常德九龙山-常德市鼎城区常德九龙山旅游指南	位于 九龙山（湖南常德九龙山）	1	0	null	常德九龙山-常德市鼎城区常德九龙山旅游指南
+1	东滩水盆羊肉桃园南路分店的地区	西安市	0	0	null	null	地区 东滩水盆羊肉桃园南路分店	0	0	null	null
+1	中国文娱特色旅游的定价	￥9.50元	0	0	null	null	定价 中国文娱特色旅游	0	0	null	null
+1	中国儿童早期教养工程（零岁-半岁方案）的ISBN	9787801318367	0	0	null	null	ISBN 中国儿童早期教养工程（零岁-半岁方案）	0	0	null	null
+1	企业高层财务管理的书名	企业高层财务管理	0	0	null	null	书名 企业高层财务管理	0	0	null	null
+1	丝须深巨口鱼的中文学名	丝须深巨口鱼	0	0	null	null	中文学名 丝须深巨口鱼	0	0	null	null
+1	企业间接税的相关数据	GDP	0	0	null	null	相关数据 企业间接税	0	0	null	null
+1	中国作家协会新浪博客圈的中文名	中国作家协会新浪博客圈	0	0	null	null	中文名 中国作家协会新浪博客圈	0	0	null	null
+1	中亚的第二次机会的作者	（美）玛莎·布瑞尔·奥卡特	0	0	null	null	作者 中亚的第二次机会	0	0	null	null
+1	伦格耶尔的出生日期	1978-11-03	0	1	1978年11月3日	null	出生日期 伦格耶尔	0	0	null	null
+1	全博士学位的中文名	全博士学位	0	0	null	null	中文名 全博士学位	0	0	null	null
+1	几度影像的核心理念	高品质、有内容	0	0	null	null	核心理念 几度影像	0	0	null	null
+1	凉瓜浸田鸡的口味	麻辣	0	1	麻辣	null	口味 凉瓜浸田鸡	0	0	null	null
+1	凤凰寺（江苏省苏州市凤凰寺）的地址	苏州浒墅关经济开发区阳山环山路	0	0	null	null	地址 凤凰寺（江苏省苏州市凤凰寺）	0	0	null	null
+1	北京文化史举要的出版时间	2010年12月1	0	1	2010年12月	null	出版时间 北京文化史举要	0	0	null	null
+1	元代晋南寺观壁画群研究的书名	元代晋南寺观壁画群研究	0	0	null	null	书名 元代晋南寺观壁画群研究	0	0	null	null
+1	冕宁老号火盆烧烤的地区	凉山彝族自治州	0	0	null	null	地区 冕宁老号火盆烧烤	0	0	null	null
+1	别哭，就算我们已老去的中文名	别哭,就算我们已老去	0	0	null	null	中文名 别哭，就算我们已老去	0	0	null	null
+0	农时话农事-种植篇·畜牧篇·园艺篇68.00的ISBN	9787807670353	0	0	null	null	ISBN 农时话农事-种植篇·畜牧篇·园艺篇68.00	0	0	null	null
+1	北京联创佳艺影像材料技术有限公司的经营范围	喷墨打印耗材的研发和生产	0	0	null	null	经营范围 北京联创佳艺影像材料技术有限公司	0	0	null	null
+1	参赛作品火焰青春的中文名	参赛作品火焰青春	0	0	null	null	中文名 参赛作品火焰青春	0	0	null	null
+1	光之变革的中文名	光之变革	0	0	null	null	中文名 光之变革	0	0	null	null
+1	北方少数民族服饰色彩与图案的出版时间	2011-6	0	1	2011年6月	null	出版时间 北方少数民族服饰色彩与图案	0	0	null	null
+1	刘卫星（中国工商银行河南省分行行长）的中文名	刘卫星	0	0	null	null	中文名 刘卫星（中国工商银行河南省分行行长）	0	0	null	null
+1	北京指环虫的门	节肢动物门	0	0	null	null	门 北京指环虫	0	0	null	null
+1	办案十二堂的小说进度	连载	0	0	null	null	小说进度 办案十二堂	0	0	null	null
+1	台电P73(8GB)的屏幕尺寸	7英寸	0	1	7英寸	null	屏幕尺寸 台电P73(8GB)	0	0	null	null
+1	大城县飞亚密封材料有限公司的地址	河北省廊坊市<a>大城县</a>	0	0	null	null	地址 大城县飞亚密封材料有限公司	0	0	null	null
+1	夏志浩的性别	男	0	1	男	null	性别 夏志浩	0	0	null	null
+1	吴卡（浙江师范大学法政学院法学系主任）的性别	男	0	0	null	null	性别 吴卡（浙江师范大学法政学院法学系主任）	0	0	null	null
+1	周允基的职业	<a>香港理工大学</a>建筑科学及消防工程讲座教授	0	0	null	null	职业 周允基	0	0	null	null
+1	周文凤的性别	女	0	1	女	null	性别 周文凤	0	1	女	null
+1	埃尔贡·特贝尔的中文名	埃尔贡·特贝尔	0	0	null	null	中文名 埃尔贡·特贝尔	0	0	null	null
+1	叶保平的中文名	叶保平	0	0	null	null	中文名 叶保平	0	0	null	null
+1	地刺（《植物大战僵尸》角色）的攻击范围	所有踩到它的僵尸	0	0	null	null	攻击范围 地刺（《植物大战僵尸》角色）	0	0	null	null
+1	复方电解质葡萄糖注射液-M3A的英文名称	Electrolytes and Glucose Composition Injection-M3A	0	0	null	null	英文名称 复方电解质葡萄糖注射液-M3A	0	0	null	null
+1	地下工事内部遗址的版本	黑龙江省图书馆 2012年6月	0	0	null	null	版本 地下工事内部遗址	0	0	null	null
+1	复刻岛中文版的安卓游戏授权	共享软件	0	0	null	null	安卓游戏授权 复刻岛中文版	0	0	null	null
+1	同等学力·..英语水平全国统一考试应试指南的ISBN	9787040083378	0	0	null	null	ISBN 同等学力·..英语水平全国统一考试应试指南	0	0	null	null
+1	吕书文的中文名	吕书文	0	0	null	null	中文名 吕书文	0	0	null	null
+1	台州雅晶电子有限公司的性质	高科技企业	0	0	null	null	性质 台州雅晶电子有限公司	0	0	null	null
+1	吉守斌的国籍	中国	0	1	中国	null	国籍 吉守斌	0	1	中国	null
+1	屯玉49的引种编号	黔引玉2005010号	0	0	null	null	引种编号 屯玉49	0	0	null	null
+1	巫玥梭的作者	我是一棵菠菜	0	0	null	null	作者 巫玥梭	0	0	null	null
+1	实用沟通英语综合教程1的出版社	高等教育出版社	0	0	null	null	出版社 实用沟通英语综合教程1	0	0	null	null
+1	姚凯（南京理工大学讲师）的出生日期	1980年4月	0	0	null	null	出生日期 姚凯（南京理工大学讲师）	0	0	null	null
+1	天纵狂尊的作者	漏月幽影	0	0	null	null	作者 天纵狂尊	0	0	null	null
+1	巧剪百寿的出版时间	2006年01月	0	1	2006年1月	null	出版时间 巧剪百寿	0	0	null	null
+1	小猎物，你是我的的中文名	小猎物,你是我的	0	0	null	null	中文名 小猎物，你是我的	0	0	null	null
+1	安庆市电控设备厂的员工数	212人	0	1	212	null	员工数 安庆市电控设备厂	0	0	null	null
+1	实用英语综合教程学习辅导2的页数	429	0	1	429页	null	页数 实用英语综合教程学习辅导2	0	0	null	null
+1	少儿频道（黑龙江电视台少儿频道）的中文名	黑龙江电视台少儿频道	0	0	null	null	中文名 少儿频道（黑龙江电视台少儿频道）	0	0	null	null
+1	安庆攻略战的结果	中国安徽安庆败	0	0	null	null	结果 安庆攻略战	0	0	null	null
+1	安雅（漫画《谜之魔盒》中人物）的特点	外表可爱乖巧	0	0	null	null	特点 安雅（漫画《谜之魔盒》中人物）	0	0	null	null
+1	宿州学院化学化工学院的学院类型	二级学院	0	0	null	null	学院类型 宿州学院化学化工学院	0	0	null	null
+1	家常美食06:大厨拿手家常菜的书名	家常美食06:大厨拿手家常菜	0	0	null	null	书名 家常美食06:大厨拿手家常菜	0	0	null	null
+1	小课落村的海拔	1500米	0	1	1500米	null	海拔 小课落村	0	0	null	null
+1	山水兰庭的建筑类型	小高层	0	0	null	null	建筑类型 山水兰庭	0	0	null	null
+1	惜时（汉语词语）的文学体裁	诗、<a>诗</a>	0	0	null	null	文学体裁 惜时（汉语词语）	0	0	null	null
+1	我在等我的秦含含的小说进度	连载	0	0	null	null	小说进度 我在等我的秦含含	0	0	null	null
+1	彼德·凯尔纳的中文名	彼德·凯尔纳	0	0	null	null	中文名 彼德·凯尔纳	0	0	null	null
+1	张超慧的中文名	张超慧	0	0	null	null	中文名 张超慧	0	0	null	null
+1	平邑蒙阳新星学校的始建于	2001年	0	1	2001年	null	始建于 平邑蒙阳新星学校	0	0	null	null
+1	当天使遇上狼的连载网站	晋江文学城	0	0	null	null	连载网站 当天使遇上狼	0	0	null	null
+1	恰比盒子的软件授权	免费	0	0	null	null	软件授权 恰比盒子	0	0	null	null
+1	我做不到不想你的歌曲原唱	<a>小贱</a>	0	0	null	null	歌曲原唱 我做不到不想你	0	0	null	null
+1	心灵舞蹈的作者	王仲尧  著	0	1	王仲尧	null	作者 心灵舞蹈	0	0	null	null
+1	弹簧减震器的中文名	弹簧减震器	0	0	null	null	中文名 弹簧减震器	0	0	null	null
+1	总裁的傲娇老婆的小说进度	连载	0	0	null	作者：污龙茶	小说进度 总裁的傲娇老婆	0	0	null	作者：污龙茶
+1	总铺师（2013年陈玉勋导演台湾本土电影）的编剧	陈玉勋	0	0	null	null	编剧 总铺师（2013年陈玉勋导演台湾本土电影）	0	0	null	null
+1	拆石村的别名	拆石	0	1	拆石	null	别名 拆石村	0	0	null	null
+1	异界之拜月神教的连载网站	起点中文网	0	0	null	null	连载网站 异界之拜月神教	0	0	null	null
+1	德龙AC 75的额定电压	220V	0	1	220V	null	额定电压 德龙AC 75	0	0	null	null
+1	持灵的连载网站	起点中文网	0	0	null	null	连载网站 持灵	0	0	null	null
+1	无偿交易的对象	无偿的单方转移	0	0	null	null	对象 无偿交易	0	0	null	null
+1	探险女孩换装的游戏大小	113K	0	1	113K	null	游戏大小 探险女孩换装	0	0	null	null
+1	期待与幸福的作者	莫晓童	0	1	莫晓童	null	作者 期待与幸福	0	0	null	null
+1	智利葡萄酒射手系列美乐的中文名	智利葡萄酒射手系列美乐	0	0	null	null	中文名 智利葡萄酒射手系列美乐	0	0	null	null
+1	时价的拼音	shí jìa	0	0	null	null	拼音 时价	0	0	null	null
+1	斯钰林的中文名	斯钰林	0	0	null	null	中文名 斯钰林	0	0	null	null
+1	李万鹏（中央音乐学院民族音乐研究所主任技师）的出生地	河北省博野县	0	0	null	null	出生地 李万鹏（中央音乐学院民族音乐研究所主任技师）	0	0	null	null
+1	李跃松的政治面貌	中共党员	0	0	null	null	政治面貌 李跃松	0	0	null	null
+1	本命珠的中文名	本命珠	0	0	null	null	中文名 本命珠	0	0	null	null
+1	日名明日香的CV	<a>野川樱</a>	0	1	野川樱	null	CV 日名明日香	0	0	null	null
+1	无限同化的中文名	无限同化	0	0	null	null	中文名 无限同化	0	0	null	null
+1	无痕丰胸术的优势	实现大而自然、微创切口小	0	0	null	null	优势 无痕丰胸术	0	0	null	null
+1	李延青（山东大学齐鲁医院副院长）的性别	男	0	0	null	null	性别 李延青（山东大学齐鲁医院副院长）	0	0	null	null
+1	政坛高层动态的作者	<a>杜导正</a>、<a>廖盖隆</a>	0	1	廖盖隆、杜导正	null	作者 政坛高层动态	0	0	null	null
+1	月遗香的连载网站	起点中文网	0	0	null	null	连载网站 月遗香	0	0	null	null
+1	有趣的科学-少年趣味科学图鉴的ISBN	9787533261863	0	0	null	null	ISBN 有趣的科学-少年趣味科学图鉴	0	0	null	null
+1	泡泡龙：双重射击的游戏平台	NDS	0	0	null	null	游戏平台 泡泡龙：双重射击	0	0	null	null
+1	汉末175的连载网站	起点中文网	0	0	null	null	连载网站 汉末175	0	0	null	null
+1	模拟驾驶2的中文名	模拟驾驶2	0	0	null	null	中文名 模拟驾驶2	0	0	null	null
+1	海因的场上位置	门将	0	1	门将	null	场上位置 海因	0	0	null	null
+1	泰国指孢囊菌的拉丁学名	Dactylosporangiumthailandense	0	0	null	null	拉丁学名 泰国指孢囊菌	0	0	null	null
+1	河南省郑州鼎正电子科技有限公司的总部地点	河南省	0	1	河南省	null	总部地点 河南省郑州鼎正电子科技有限公司	0	0	null	null
+1	武都花椒的认证时间	2012年3月	0	0	null	null	认证时间 武都花椒	0	0	null	null
+1	水样流年的小说进度	连载	0	0	null	null	小说进度 水样流年	0	0	null	null
+1	汉塞尔和格雷特尔（含VCD）的定价	27.0	0	0	null	null	定价 汉塞尔和格雷特尔（含VCD）	0	0	null	null
+1	林景尧的性别	男	0	1	男	null	性别 林景尧	0	0	null	null
+1	海南楼变的ISBN	9787030278562	0	0	null	null	ISBN 海南楼变	0	0	null	null
+1	深圳市伟林科科技有限公司的相关产品概述	NM803-T网络寻呼话筒等	0	0	null	null	相关产品概述 深圳市伟林科科技有限公司	0	0	null	null
+1	毛泽东思想概论课教学案例解析的页数	316页	0	1	316页	null	页数 毛泽东思想概论课教学案例解析	0	0	null	null
+1	汉庭快捷酒店（上海南丹路店）的地理位置	徐家汇商圈	0	1	徐家汇商圈	null	地理位置 汉庭快捷酒店（上海南丹路店）	0	0	null	null
+1	林旭（博士生导师）的职业	分子医学研究中心主任、<a>福建省</a>高校感染与肿瘤重点实验室主任	0	0	null	null	职业 林旭（博士生导师）	0	0	null	null
+1	法洛毛舌菌的目	蜡钉菌目	0	0	null	null	目 法洛毛舌菌	0	0	null	null
+1	狐媚王妃之我是狐狸我怕谁的连载网站	小说阅读网	0	0	null	null	连载网站 狐媚王妃之我是狐狸我怕谁	0	0	null	null
+1	熊彼特选集：对十大经济学家的评析的作者	（美）<a>熊彼特</a>	0	1	熊彼特	null	作者 熊彼特选集：对十大经济学家的评析	0	0	null	null
+1	百折不挠――做好创业的心理准备的页数	160	0	1	160页	null	页数 百折不挠――做好创业的心理准备	0	0	null	null
+1	濮阳天主教堂的明柱	内有十二明柱	0	0	null	null	明柱 濮阳天主教堂	0	0	null	null
+1	烟肺清的产品名	龙泽源牌益元片	0	0	null	null	产品名 烟肺清	0	0	null	null
+1	独立人格的中文名	独立人格	0	0	null	null	中文名 独立人格	0	0	null	null
+1	炒股胜经的作者	杨剑著	0	1	杨剑	null	作者 炒股胜经	0	0	null	null
+1	湖北区域发展研究院的首期投入	100万元	0	0	null	null	首期投入 湖北区域发展研究院	0	0	null	null
+1	白领健康多面体：没有阳痿的页数	95页	0	1	95页	null	页数 白领健康多面体：没有阳痿	0	0	null	null
+1	灵翔九天的作者	一甲	0	0	null	null	作者 灵翔九天	0	0	null	null
+1	牛头人之王巴菲门特的所属	深渊魔神	0	0	null	null	所属 牛头人之王巴菲门特	0	0	null	null
+1	王楚利的籍贯	湖北黄陂	0	1	湖北黄陂	null	籍贯 王楚利	0	0	null	null
+1	皇家山谷度假村的周围景观	普吉岛大佛、查龙码头、查龙寺	0	0	null	null	周围景观 皇家山谷度假村	0	0	null	null
+1	现代股份制企业生产运作国际标准化管理全书的中文名	现代股份制企业生产运作国际标准化管理全书	0	0	null	null	中文名 现代股份制企业生产运作国际标准化管理全书	0	0	null	null
+1	理财智慧王1：省钱家族脱贫记的包装	平装	0	0	null	null	包装 理财智慧王1：省钱家族脱贫记	0	0	null	null
+1	王中杰（北京连城国际顾问有限公司董事长）的民族	汉族	0	0	null	null	民族 王中杰（北京连城国际顾问有限公司董事长）	0	0	null	null
+1	立体农业与庭院经济的ISBN	9787109094772	0	0	null	null	ISBN 立体农业与庭院经济	0	0	null	null
+1	神湾港的开发	中山港航企业集团有限公司	0	1	中山港航企业集团有限公司	null	开发 神湾港	0	0	null	null
+1	翔升GTX650 终结版 1G D5的核心频率	1058MHz	0	1	1058MHz	null	核心频率 翔升GTX650 终结版 1G D5	0	0	null	null
+1	美的炫弛空调的特点	强劲、快速的控温	0	0	null	null	特点 美的炫弛空调	0	0	null	null
+1	美的KF-32GW/Y-JH(E3)的能效等级	3级能效	0	0	null	null	能效等级 美的KF-32GW/Y-JH(E3)	0	0	null	null
+1	禁区之域的连载网站	起点中文网	0	0	null	null	连载网站 禁区之域	0	0	null	null
+1	石家庄市友谊大街小学的类别	学校	0	0	null	null	类别 石家庄市友谊大街小学	0	0	null	null
+1	神医情事的作者	枯	0	0	null	null	作者 神医情事	0	0	null	null
+1	穿越草包小姐：天赐良缘逃不开的作者	兮颜璃	0	1	兮颜璃	null	作者 穿越草包小姐：天赐良缘逃不开	0	0	null	null
+1	盛世草寇的作者	西风醉马	0	0	null	null	作者 盛世草寇	0	0	null	null
+1	禁止出口商品的外文名	Export Forbidden Items	0	1	Export Forbidden Items	null	外文名 禁止出口商品	0	0	null	null
+1	策勒蒲公英的亚科	舌状花亚科	0	0	null	null	亚科 策勒蒲公英	0	0	null	null
+1	糯达上村的主要作物	水稻、玉米	0	0	null	null	主要作物 糯达上村	0	0	null	null
+1	祖尔厄霍朗酒店的英文名称	Hotel Zur Erholung	0	1	Hotel Zur Erholung	null	英文名称 祖尔厄霍朗酒店	0	0	null	null
+1	网游之灼玥之夜的作者	小潴	0	0	null	null	作者 网游之灼玥之夜	0	0	null	null
+1	网游之天下归一的中文名	网游之天下归一	0	0	null	null	中文名 网游之天下归一	0	0	null	null
+1	说岳三国的中文名	说岳三国	0	0	null	null	中文名 说岳三国	0	0	null	null
+1	虎目豕喙的中文名	虎目豕喙	0	0	null	null	中文名 虎目豕喙	0	0	null	null
+1	谢尔盖·尼基弗若维奇·瓦西连科的出生日期	<a>1872年</a><a>3月30日</a>	0	1	1872年3月30日	null	出生日期 谢尔盖·尼基弗若维奇·瓦西连科	0	0	null	null
+1	莫谟的国籍	中国	0	1	中国	null	国籍 莫谟	0	0	null	null
+1	蝙蝠侠：黎明前的黑暗的区域	<a>欧美</a>	0	0	null	null	区域 蝙蝠侠：黎明前的黑暗	0	0	null	null
+1	视连生的中文名	视连生	0	0	null	null	中文名 视连生	0	0	null	null
+1	计算机鬼才传的连载网站	起点中文网	0	0	null	null	连载网站 计算机鬼才传	0	0	null	null
+1	胡英（作家）的民族	汉族	0	0	null	null	民族 胡英（作家）	0	0	null	null
+1	衡荣生态农场的经营范围	种植、销售、养殖、加工	0	0	null	null	经营范围 衡荣生态农场	0	0	null	null
+0	蒙缘烤羊腿的餐馆名称	蒙缘烤羊腿	0	0	null	null	餐馆名称 蒙缘烤羊腿	0	0	null	null
+1	营养午餐计划的标准	每生每天3元	0	0	null	null	标准 营养午餐计划	0	0	null	null
+1	花样女孩的男孩的连载网站	小说阅读网	0	0	null	null	连载网站 花样女孩的男孩	0	0	null	null
+1	英国都铎王朝议会研究的ISBN	9787810395397	0	0	null	null	ISBN 英国都铎王朝议会研究	0	0	null	null
+1	芳香美容的类别	<a>SPA美容</a>	0	0	null	null	类别 芳香美容	0	0	null	null
+1	西基利亚壁画的类型	佛教艺术遗迹	0	0	null	null	类型 西基利亚壁画	0	0	null	null
+1	肖柏林的民族	汉族	0	1	汉族	null	民族 肖柏林	0	1	汉族	null
+1	郭诚德的中文名	郭诚德	0	0	null	null	中文名 郭诚德	0	0	null	null
+1	重庆小天鹅景洪店的地区	西双版纳傣族自治州	0	0	null	null	地区 重庆小天鹅景洪店	0	0	null	null
+1	遥远的家（伊丽莎白·拜格雷图书）的作者	伊丽莎白·拜格雷	0	0	null	null	作者 遥远的家（伊丽莎白·拜格雷图书）	0	0	null	null
+1	迈克尔杰克逊：独一无二的影片片长	60分钟	0	1	60分钟	null	影片片长 迈克尔杰克逊：独一无二	0	0	null	null
+1	贯通JavaWeb轻量级应用开发：JSP+Struts+Hibernate+Spring的ISBN	9787121068409	0	0	null	null	ISBN 贯通JavaWeb轻量级应用开发：JSP+Struts+Hibernate+Spring	0	0	null	null
+1	赤剥的示例	明 汤显祖 《南柯记·侍猎》	0	0	null	null	示例 赤剥	0	0	null	null
+1	郭新荣的出生日期	1964年8月	0	0	null	null	出生日期 郭新荣	0	0	null	null
+1	郑文成（韩国音乐剧演员）的中文名	郑文成	0	0	null	null	中文名 郑文成（韩国音乐剧演员）	0	0	null	null
+1	赵广润的别名	赵金阳	0	1	;赵金阳	null	别名 赵广润	0	1	;赵金阳	null
+1	重生之悠扬人生的中文名	重生之悠扬人生	0	0	null	null	中文名 重生之悠扬人生	0	0	null	null
+1	鄙视爱情与迷恋爱情的作者	呓尔	0	1	呓尔	null	作者 鄙视爱情与迷恋爱情	0	0	null	null
+1	迪帕斯卡尔的外文名	Arnaud Di Pasquale	0	1	Arnaud Di Pasquale	null	外文名 迪帕斯卡尔	0	0	null	null
+1	走出迷惘：增强你的人格魅力的页数	183 页	0	0	null	null	页数 走出迷惘：增强你的人格魅力	0	0	null	null
+1	邵阳市大祥区统一玻璃钢厂的经营范围	中央空调通风管道	0	0	null	null	经营范围 邵阳市大祥区统一玻璃钢厂	0	0	null	null
+1	重生之途的小说进度	连载	0	0	null	null	小说进度 重生之途	0	0	null	null
+1	赫连中巍的职业	<a>内蒙古美术家协会</a>会员	0	1	内蒙古美术家协会会员	null	职业 赫连中巍	0	1	内蒙古美术家协会会员	null
+1	黑道少主们的拽女友的连载网站	看书网	0	0	null	null	连载网站 黑道少主们的拽女友	0	0	null	null
+1	霸道总裁追女不商量的小说进度	连载	0	0	null	null	小说进度 霸道总裁追女不商量	0	0	null	null
+1	韦斯特定理的中文名	韦斯特定理	0	0	null	null	中文名 韦斯特定理	0	0	null	null
+1	雪蛤银耳炖燕窝的中文名	雪蛤银耳炖燕窝	0	0	null	null	中文名 雪蛤银耳炖燕窝	0	0	null	null
+1	马河村（山西运城市平陆县下辖村）的所属地区	中国	0	0	null	null	所属地区 马河村（山西运城市平陆县下辖村）	0	0	null	null
+1	颖子沙画的品牌创始人	颖子	0	0	null	null	品牌创始人 颖子沙画	0	0	null	null
+1	飘遥的风的连载网站	新小说吧	0	0	null	null	连载网站 飘遥的风	0	0	null	null
+1	黄沂民的时间	二○一○年十二月三十日	0	0	null	null	时间 黄沂民	0	0	null	null
+1	黄美华的性别	女	0	1	女	null	性别 黄美华	0	1	女	null
+1	鹰不泊的采集	全年可采	0	0	null	null	采集 鹰不泊	0	0	null	null
+1	高职高专财经系列实用规划教材·基础会计的出版社	立信会计出版社	0	0	null	null	出版社 高职高专财经系列实用规划教材·基础会计	0	0	null	null
+1	集束弹药的中文名	集束弹药	0	0	null	null	中文名 集束弹药	0	0	null	null
+1	麻类作物育种学的ISBN	9787802337282 [十位:7802337283]	0	0	null	null	ISBN 麻类作物育种学	0	0	null	null
+1	青岛长涧村的中文名	青岛长涧村	0	0	null	null	中文名 青岛长涧村	0	0	null	null
+1	霹雳贝贝（1988年宋崇执导电影）的导演	宋崇	0	0	null	null	导演 霹雳贝贝（1988年宋崇执导电影）	0	0	null	null
+1	马加丹度假村的中文名	马加丹度假村	0	0	null	null	中文名 马加丹度假村	0	0	null	null
+1	：第三届全国大学生广告艺术大赛获奖作品集的开本	16	0	0	null	null	开本 ：第三届全国大学生广告艺术大赛获奖作品集	0	0	null	null
+1	～明暗～的中文名	～明暗～	0	0	null	null	中文名 ～明暗～	0	0	null	null
+0	Backdoor/Agent.guq的影响平台	Win 9X/ME/NT/2000/XP/2003	0	0	null	null	影响平台 Backdoor/Agent.guq	0	0	null	null
+1	M·瓦拉西乌斯的身高	190厘米	0	1	190厘米	null	身高 M·瓦拉西乌斯	0	0	null	null
+0	FAG K25X29X17轴承的中文名	FAG K25X29X17轴承	0	0	null	null	中文名 FAG K25X29X17轴承	0	0	null	null
+1	2011年教育学考研模拟试题的出版社	<a>厦门大学出版社</a>	0	0	null	null	出版社 2011年教育学考研模拟试题	0	0	null	null
+1	Big Sandy机枪射击盛典的地址	<a>亚利桑那州</a><a>索诺兰沙漠</a>	0	0	null	null	地址 Big Sandy机枪射击盛典	0	0	null	null
+1	不朽的雏菊的中文名	不朽的雏菊	0	0	null	null	中文名 不朽的雏菊	0	0	null	null
+1	不许说对不起的作者	念恩	0	1	念恩	null	作者 不许说对不起	0	0	null	null
+1	N·卡尔臣的出生日期	1979年11月13日	0	1	1979年11月13日	null	出生日期 N·卡尔臣	0	0	null	null
+1	KB660002的发布方	安全软件金山卫士	0	0	null	null	发布方 KB660002	0	0	null	null
+1	ThinkPad SL410 2842KUC的屏幕尺寸	14.0英寸	0	1	14.0英寸	null	屏幕尺寸 ThinkPad SL410 2842KUC	0	0	null	null
+0	Marino Orlandi的中文名	马连奴．奥兰迪	0	0	null	null	中文名 Marino Orlandi	0	0	null	null
+1	丁乃扬的中文名	丁乃扬	0	0	null	null	中文名 丁乃扬	0	0	null	null
+1	一指禅点穴技击养生术的出版社	北京体育学院出版社	0	0	null	null	出版社 一指禅点穴技击养生术	0	0	null	null
+1	nVIDIA nForce Pro 2050的标准南桥	无	0	0	null	null	标准南桥 nVIDIA nForce Pro 2050	0	0	null	null
+1	CECT Q86的外形尺寸	93×47.5×24.9mm	0	1	93*47.5*24.9毫米	null	外形尺寸 CECT Q86	0	0	null	null
+1	NODDY创新思维练习册的出版时间	2006-7	0	1	2006年7月	null	出版时间 NODDY创新思维练习册	0	0	null	null
+1	人参果绵疫病的主要为害部位	主要为害未成熟的果实	0	0	null	null	主要为害部位 人参果绵疫病	0	0	null	null
+1	云淡风轻（汉语词语）的亦作	“<a>风轻云淡</a>”	0	0	null	null	亦作 云淡风轻（汉语词语）	0	0	null	null
+1	乌龙女校的类型	喜剧	0	0	null	null	类型 乌龙女校	0	0	null	null
+1	伊历王的别名	伊历王	0	1	伊厉王	null	别名 伊历王	0	1	伊厉王	null
+1	丹香（沧口体育场店）的地区	青岛市	0	0	null	null	地区 丹香（沧口体育场店）	0	0	null	null
+1	云梦经济开发区的时间	2002年9月	0	1	2002年9月	null	时间 云梦经济开发区	0	0	null	null
+1	东莞隆兴天然橡胶经营部的中文名	东莞隆兴天然橡胶经营部	0	0	null	null	中文名 东莞隆兴天然橡胶经营部	0	0	null	null
+0	中等职业学校素质训练手册--一年级暑假 （平装）的定价	8.0	0	0	null	null	定价 中等职业学校素质训练手册--一年级暑假 （平装）	0	0	null	null
+1	丙酸糠酯的外文名	furfuryl propionate	0	1	furan-2-ylmethyl propanoate	null	外文名 丙酸糠酯	0	0	null	null
+1	债券到期收益率的影响	银广厦等事件的影响	0	1	银广厦等事件的影响	null	影响 债券到期收益率	0	0	null	null
+1	保洁蛋的国外地位	受立法保护	0	0	null	null	国外地位 保洁蛋	0	0	null	null
+1	丹巴黄毛槭（亚种）的界	植物界	0	0	null	null	界 丹巴黄毛槭（亚种）	0	0	null	null
+1	中药学专业知识（一）（中药学部分·中药药剂学部分）的ISBN	9787117060103	0	0	null	null	ISBN 中药学专业知识（一）（中药学部分·中药药剂学部分）	0	0	null	null
+1	假如要有学习单-学习单设计的原则与实例的ISBN	9789575747190	0	0	null	null	ISBN 假如要有学习单-学习单设计的原则与实例	0	0	null	null
+1	倾尽天下：与你相依的连载网站	17k小说网	0	0	null	null	连载网站 倾尽天下：与你相依	0	0	null	null
+1	五通站的中文名	五通站	0	0	null	null	中文名 五通站	0	0	null	null
+1	华硕K50X33IE-SL的中文名	华硕K50X33IE-SL	0	0	null	null	中文名 华硕K50X33IE-SL	0	0	null	null
+1	华莱士玫瑰园东路店的人均价格	14	0	0	null	null	人均价格 华莱士玫瑰园东路店	0	0	null	null
+1	兽星的中文名	兽星	0	0	null	null	中文名 兽星	0	0	null	null
+1	力杰C803 指纹加密移动硬盘 (120GB)的中文名	力杰C803 指纹加密移动硬盘 (120GB)	0	0	null	null	中文名 力杰C803 指纹加密移动硬盘 (120GB)	0	0	null	null
+1	剑道唯一的中文名	剑道唯一	0	0	null	null	中文名 剑道唯一	0	0	null	null
+1	再见，亲爱的薄凉少年的小说进度	已完结	0	0	null	null	小说进度 再见，亲爱的薄凉少年	0	0	null	null
+1	全面掌握Dreamweaver 4.0 可视化网页设计的作者	王定                       /            朱冬梅                       /            甘登岱	0	1	朱冬梅、王定、甘登岱	null	作者 全面掌握Dreamweaver 4.0 可视化网页设计	0	0	null	null
+1	千里寻妹记的作者	写得慢	0	0	null	null	作者 千里寻妹记	0	0	null	null
+1	南安玉兴鞋服有限公司的经营范围	鞋服	0	0	null	null	经营范围 南安玉兴鞋服有限公司	0	0	null	null
+1	冯秀华（河北省承德市农业局高级农艺师）的出生日期	1955年	0	0	null	null	出生日期 冯秀华（河北省承德市农业局高级农艺师）	0	0	null	null
+1	再没完美的连载网站	烟雨红尘	0	0	null	null	连载网站 再没完美	0	0	null	null
+1	剑川组的分类	地理岩石	0	0	null	null	分类 剑川组	0	0	null	null
+1	剑·情仇的小说进度	连载	0	0	null	null	小说进度 剑·情仇	0	0	null	null
+1	八关十六子的时期	唐	0	1	唐朝	null	时期 八关十六子	0	0	null	null
+1	养贤学校的服务理念	“不是父母、胜似父母”	0	0	null	null	服务理念 养贤学校	0	0	null	null
+1	克劳斯·温克勒的外文名	Klaus Winkler	0	1	Klaus Winkler	null	外文名 克劳斯·温克勒	0	0	null	null
+1	君堂镇的行政区类别	镇	0	0	null	null	行政区类别 君堂镇	0	0	null	null
+1	吴蕾（舞台服装设计专业导师）的毕业院校	中央戏剧学院	0	0	null	null	毕业院校 吴蕾（舞台服装设计专业导师）	0	0	null	null
+1	塔拉兹的行政区类别	<a>哈萨克斯坦</a><a>江布尔州</a>	0	0	null	null	行政区类别 塔拉兹	0	0	null	null
+1	史努比效率手册的书名	史努比效率手册	0	0	null	null	书名 史努比效率手册	0	0	null	null
+1	天定风流3（套装上下册）的出版时间	2013-5	0	1	2013年5月	null	出版时间 天定风流3（套装上下册）	0	0	null	null
+1	古代历史文化研究辑刊-初编的定价	12400.00元	0	0	null	null	定价 古代历史文化研究辑刊-初编	0	0	null	null
+1	叶赫那拉·小楼的作者	小楼汀枫	0	1	小楼汀枫	null	作者 叶赫那拉·小楼	0	0	null	null
+1	叶廖缅科元帅：战争回忆录的页数	325页	0	1	325页	null	页数 叶廖缅科元帅：战争回忆录	0	0	null	null
+1	口马的泛指	良马	0	0	null	null	泛指 口马	0	0	null	null
+1	周羲的本名	周羲	0	0	null	null	本名 周羲	0	0	null	null
+1	塞莱希·斯海恩的体重	52公斤	0	1	52kg	null	体重 塞莱希·斯海恩	0	1	52kg	null
+1	咒书的作者	樱花下的腹黑君	0	1	樱花下的腹黑君	null	作者 咒书	1	0	null	•第一章:石碑(改)
+0	哈达夫的外文名	Zakarya Hadaf	0	0	null	null	外文名 哈达夫	0	0	null	null
+1	台湾经济的苦难与成长的出版社	大塊文化	0	0	null	null	出版社 台湾经济的苦难与成长	0	0	null	null
+1	哑巴王爷俏王妃的连载网站	红袖添香网	0	0	null	null	连载网站 哑巴王爷俏王妃	0	0	null	null
+1	古伦加斯特的作用	对<a>外星人（人类对地球以外智慧生物的统称）</a>战斗用<a>超级机器人</a>	0	0	null	null	作用 古伦加斯特	0	0	null	null
+1	宋晋武的中文名	宋晋武	0	0	null	null	中文名 宋晋武	0	0	null	null
+1	尖椒猪肉馅饺子的中文名	尖椒猪肉馅饺子	0	0	null	null	中文名 尖椒猪肉馅饺子	0	0	null	null
+1	安迪·比克维奇的经典作品	加勒比海盗	0	0	null	null	经典作品 安迪·比克维奇	0	0	null	null
+1	小天鹅冰箱 BCD-216TEL的制冷剂	R600a	0	0	null	null	制冷剂 小天鹅冰箱 BCD-216TEL	0	0	null	null
+1	家族基金的起源	美国	0	1	美国	null	起源 家族基金	0	0	null	null
+1	安定麦地平村的知名产业	种植业、林业、养殖业	0	0	null	null	知名产业 安定麦地平村	0	0	null	null
+1	尖山小学的现有学生	436人	0	0	null	null	现有学生 尖山小学	0	0	null	null
+1	夺婚的小说进度	连载	0	0	null	null	小说进度 夺婚	0	0	null	null
+1	定点供应的适用条件	供需企业产品质量高、消耗低	0	0	null	null	适用条件 定点供应	0	0	null	null
+1	孙兆荣的国籍	中华人民共和国	0	1	中国	null	国籍 孙兆荣	0	0	null	null
+1	孙淑生的出生日期	1968	0	0	null	null	出生日期 孙淑生	0	0	null	null
+1	孔敏（皖西学院副教授）的国籍	中国	0	0	null	null	国籍 孔敏（皖西学院副教授）	0	0	null	null
+1	巴格纳伊的国籍	意大利	0	1	意大利	null	国籍 巴格纳伊	0	0	null	null
+1	安布罗修斯·勃鲁盖尔的出生日期	1617年	0	1	1617年	null	出生日期 安布罗修斯·勃鲁盖尔	0	1	1617年	null
+1	女朋友们的片长	114分钟	0	1	1小时54分钟	null	片长 女朋友们	0	0	null	null
+1	太平馆西餐厅的营业时间	08-00-24-00	0	0	null	null	营业时间 太平馆西餐厅	0	0	null	null
+1	彭援军的中文名	彭援军	0	0	null	null	中文名 彭援军	0	0	null	null
+1	张华（平昌县委副书记）的中文名	张华	0	0	null	null	中文名 张华（平昌县委副书记）	0	0	null	null
+1	御龙巅峰的小说进度	连载	0	0	null	作者：小木五子	小说进度 御龙巅峰	0	0	null	null
+1	彼时旧日的小说进度	连载	0	0	null	null	小说进度 彼时旧日	0	0	null	null
+1	怀王制参的文学体裁	七言律诗	0	0	null	null	文学体裁 怀王制参	0	0	null	null
+1	手心的光年的连载网站	晋江文学城	0	0	null	null	连载网站 手心的光年	0	0	null	null
+1	心理药理学的定义	神经系统而影响行为的化学物质的科学	0	0	null	null	定义 心理药理学	0	0	null	null
+1	徐习军的民族	汉族	0	1	汉族	null	民族 徐习军	0	0	null	null
+1	必胜客（津沽餐厅）的餐馆名称	必胜客(津沽餐厅)	0	0	null	null	餐馆名称 必胜客（津沽餐厅）	0	0	null	null
+1	惠普ProCurve 6108(J4902A)的交换方式	存储-转发	0	0	null	null	交换方式 惠普ProCurve 6108(J4902A)	0	0	null	null
+1	戚夫人歌的创作年代	<a>西汉</a>	0	1	西汉	null	创作年代 戚夫人歌	0	0	null	null
+1	徐隆亚的出生地	湖南临湘	0	1	湖南临湘	null	出生地 徐隆亚	0	0	null	null
+1	扑倒总裁，请离婚的中文名	扑倒总裁,请离婚	0	0	null	null	中文名 扑倒总裁，请离婚	0	0	null	null
+1	心痛的终结的中文名	心痛的终结	0	0	null	null	中文名 心痛的终结	0	0	null	null
+1	战地的怀念的中文名	战地的怀念	0	0	null	null	中文名 战地的怀念	0	0	null	null
+1	戴云山的方言	闽南语	0	0	null	null	方言 戴云山	0	0	null	null
+1	星火英语·新题型大学英语6级考试一本全的出版社	齐鲁电子音像出版社	0	0	null	null	出版社 星火英语·新题型大学英语6级考试一本全	0	0	null	null
+1	杭州科润数码科技有限公司的成立时间	2005年	0	1	2005年	null	成立时间 杭州科润数码科技有限公司	0	0	null	null
+1	李秉国（教师）的民族	汉族	0	0	null	null	民族 李秉国（教师）	0	0	null	null
+1	李世铭的主要成就	<br>中国幼儿体育运动推动者、冠军教练、运动健将	0	0	null	null	主要成就 李世铭	0	0	null	null
+1	最怕女人温柔的中文名	最怕女人温柔	0	0	null	null	中文名 最怕女人温柔	0	0	null	null
+1	明清瓦罐煨汤馆曾厝埯西路的人均价格	30	0	0	null	null	人均价格 明清瓦罐煨汤馆曾厝埯西路	0	0	null	null
+1	月下的恩底弥翁的作者	月褪	0	1	月褪	null	作者 月下的恩底弥翁	0	0	null	null
+1	杨德昌（中国作家协会会员）的籍贯	江苏<a>东台</a>	0	0	null	null	籍贯 杨德昌（中国作家协会会员）	0	0	null	null
+1	材料利用率的领域	生产管理	0	0	null	null	领域 材料利用率	0	0	null	null
+1	曹占麟的代表作品	《医疗护理技术操作常规》	0	1	医疗护理技术操作常规	null	代表作品 曹占麟	0	0	null	null
+1	明智和命运的类别	图书	0	0	null	null	类别 明智和命运	0	0	null	null
+1	朱光（东汉末年庐江太守）的职位	庐江太守	0	0	null	null	职位 朱光（东汉末年庐江太守）	0	0	null	null
+1	无限之飞蓬临世的作者	归于虚无	0	0	null	null	作者 无限之飞蓬临世	0	0	null	null
+1	杜工部行次昭陵诗的作品名称	杜工部行次昭陵诗	1	0	null	鲜于枢 杜工部行次昭陵诗卷 书法作品欣赏_书法爱	作品名称 杜工部行次昭陵诗	1	0	null	1.杜工部行次昭陵诗卷:这是鲜于枢以行书大字录写的杜甫五言《行次昭陵诗》。此帖结体疏朗,笔势雄浑,与鲜于枢个人性情正相吻合。如柳贯所评:“公毅然美大夫,面带河朔伟气,每酒酣骜放,挥毫结字,奇态横生,势有不可遏者。”...
+1	无不想3的页数	191页	0	1	191页	null	页数 无不想3	0	0	null	null
+1	新水令·代马诉冤的文学体裁	元曲	0	1	元曲	null	文学体裁 新水令·代马诉冤	0	0	null	null
+1	泰昌通宝的中文名	泰昌通宝	0	0	null	null	中文名 泰昌通宝	0	0	null	null
+1	活得潇洒的填词	蔡国权	0	1	蔡国权	null	填词 活得潇洒	0	0	null	null
+1	沙罗双树园的类型	隐喻	0	0	null	null	类型 沙罗双树园	0	0	null	null
+1	检查机构认可的作用	增强了实验室的市场竞争能力	0	0	null	null	作用 检查机构认可	0	0	null	null
+1	深圳市茜雅科技有限公司的经营范围	微信公众号定制开发、整合服务平台、整合营销平台	0	0	null	null	经营范围 深圳市茜雅科技有限公司	0	0	null	null
+1	棉花蛋糕的调料	<a>蛋黄</a>3个、细砂糖50克	0	0	null	null	调料 棉花蛋糕	0	0	null	null
+1	欧洲一体化的悖论的书名	欧洲一体化的悖论	0	0	null	null	书名 欧洲一体化的悖论	0	0	null	null
+1	梁少松的代表作品	双孝子月宫救母 (1960) .... 雷神阖家有喜 (1959)	0	1	双孝子月宫救母 .雷神阖家有喜
+                                                                                                                 (1959)	null	代表作品 梁少松	0	0	null	null
+1	江苏省家政学会的行业	家政	0	0	null	null	行业 江苏省家政学会	0	0	null	null
+1	深圳市卓胜时代科技有限公司的公司名称	深圳市卓胜时代科技有限公司	0	0	null	null	公司名称 深圳市卓胜时代科技有限公司	0	0	null	null
+1	泰康食品（南京东路店）的营业时间	8:30-22:00	0	0	null	null	营业时间 泰康食品（南京东路店）	0	0	null	null
+1	洞山渡水图的中文名	洞山渡水图	0	0	null	null	中文名 洞山渡水图	0	0	null	null
+1	梦噬：霸情冷王的十三弃妃的小说进度	连载	0	0	null	null	小说进度 梦噬：霸情冷王的十三弃妃	0	0	null	null
+1	海城市感王镇业深小学的办学理念	面向全体、全面提高	0	0	null	null	办学理念 海城市感王镇业深小学	0	0	null	null
+1	水灵之旅的连载网站	红袖添香网	0	0	null	null	连载网站 水灵之旅	0	0	null	null
+1	水仙雕刻造型的出版时间	2001-1	0	1	2001年1月	null	出版时间 水仙雕刻造型	0	0	null	null
+1	生命动力（李强著图书）的出版社	<a>天津教育出版社</a>	0	0	null	null	出版社 生命动力（李强著图书）	0	0	null	null
+1	疯狂周星迟的中文名	疯狂周星迟	0	0	null	null	中文名 疯狂周星迟	0	0	null	null
+0	爱、我该如何面对的中文名	我该如何面对、爱	0	0	null	null	中文名 爱、我该如何面对	0	0	null	null
+1	瓦尔拉卡布戴瓦尔班酒店的地理位置	布达中心区	0	1	布达中心区	null	地理位置 瓦尔拉卡布戴瓦尔班酒店	0	0	null	null
+1	理情教育课程设计的出版社	世界图书出版公司	0	0	null	null	出版社 理情教育课程设计	0	0	null	null
+1	田坎落自然村的所属地区	西川乡 界马村委会	0	1	西川乡界马村委会	null	所属地区 田坎落自然村	0	0	null	null
+1	男仆物语的作者	御流离	0	0	null	null	作者 男仆物语	0	0	null	null
+1	电机维修工快速入门的出版社	国防工业出版社	0	0	null	null	出版社 电机维修工快速入门	0	0	null	null
+1	火锅料灌装机的中文名	火锅料灌装机	0	0	null	null	中文名 火锅料灌装机	0	0	null	null
+1	烧结工艺规程的对象	原材料	0	0	null	null	对象 烧结工艺规程	0	0	null	null
+1	王爷的弃妃宝贝的连载网站	红袖添香网	0	0	null	null	连载网站 王爷的弃妃宝贝	0	0	null	null
+1	玩转格林岛的类型	手机游戏	0	0	null	null	类型 玩转格林岛	0	0	null	null
+1	牛耳教育的公司口号	专注、专心、专业	0	0	null	null	公司口号 牛耳教育	0	0	null	null
+1	白花珀菊的纲	<a>双子叶植物纲</a> Dicotyledoneae	0	1	双子叶植物纲	null	纲 白花珀菊	0	0	null	null
+1	玉观音（2003年孙俪、佟大为、何润东主演电视剧）的上映时间	2003年5月27日	0	0	null	null	上映时间 玉观音（2003年孙俪、佟大为、何润东主演电视剧）	0	0	null	null
+1	玉米笋炒蒟蒻的调料	鸡粉、盐	0	0	null	null	调料 玉米笋炒蒟蒻	0	0	null	null
+1	眼光学相干断层扫描成像术原理和临床应用的出版社	世界图书出版公司	0	0	null	null	出版社 眼光学相干断层扫描成像术原理和临床应用	0	0	null	null
+1	纨绔杀手的连载网站	纵横中文网	0	0	null	null	连载网站 纨绔杀手	0	0	null	null
+0	硫化氢防护培训教材的ISBN	9787802299122	0	0	null	null	ISBN 硫化氢防护培训教材	0	0	null	null
+1	美国郡温泉的中文名	美国郡温泉	0	0	null	null	中文名 美国郡温泉	0	0	null	null
+1	耿发云的民族	汉族	0	1	汉族	null	民族 耿发云	0	0	null	null
+1	美洲鮟鱇的分布区域	世界暖海及温带海洋	0	0	null	null	分布区域 美洲鮟鱇	0	0	null	null
+0	笑傲天下之隋主沉浮的记叙了	从公元560年北周武帝即位	0	0	null	null	记叙了 笑傲天下之隋主沉浮	0	0	null	null
+0	美蒂娜·拉·露根西斯·伊莱克特的登场作品	《蓝宝石之谜》	0	0	null	null	登场作品 美蒂娜·拉·露根西斯·伊莱克特	0	0	null	null
+1	美丽的星空的中文名	美丽的星空	0	0	null	null	中文名 美丽的星空	0	0	null	null
+1	网游之岁月浮华的连载网站	起点中文网	0	0	null	null	连载网站 网游之岁月浮华	0	0	null	null
+0	禁例的中文名	禁例	0	0	null	null	中文名 禁例	0	0	null	null
+1	耐高温防腐底漆的中文名	耐高温防腐底漆	0	0	null	null	中文名 耐高温防腐底漆	0	0	null	null
+1	米哈尔·米希凯维奇的国籍	波兰	0	1	波兰	null	国籍 米哈尔·米希凯维奇	0	1	波兰	null
+1	石燕（中医药材）的别名	<a>石燕子</a>	0	0	null	null	别名 石燕（中医药材）	0	0	null	null
+1	网页设计三合一案例教程的定价	35.00元	0	0	null	null	定价 网页设计三合一案例教程	0	0	null	null
+1	绿屋的安妮的书名	绿屋的安妮	0	0	null	null	书名 绿屋的安妮	0	0	null	null
+1	职称计算机考试模块的考试性质	专业技术人员资格考试	0	0	null	null	考试性质 职称计算机考试模块	0	0	null	null
+1	荣耀塔防的游戏站点	4399小游戏	0	0	null	null	游戏站点 荣耀塔防	0	0	null	null
+1	荷花涟雨晴的连载网站	红袖添香网	0	0	null	null	连载网站 荷花涟雨晴	0	0	null	null
+1	萨莉亚（腾飞大厦店）的人均价格	33	0	0	null	null	人均价格 萨莉亚（腾飞大厦店）	0	0	null	null
+1	褐顶噪鹛的亚门	脊椎动物亚门	0	1	脊椎动物亚门	null	亚门 褐顶噪鹛	0	0	null	null
+0	草坪地被植物观赏草的ISBN	9787810508360	0	0	null	null	ISBN 草坪地被植物观赏草	0	0	null	null
+1	肝气郁结型消化不良的治法	疏肝解郁、理气降逆	0	0	null	null	治法 肝气郁结型消化不良	0	0	null	null
+1	菜洲村的地理位置	广东省英德市大站北面,距离镇政府约3公里	0	1	广东省英德市大站北面,距离镇政府约3公里	null	地理位置 菜洲村	0	0	null	null
+1	请跟我一起做的原版名称	Replica	0	0	null	null	原版名称 请跟我一起做	0	0	null	null
+1	设佩的中文名	设佩	0	0	null	null	中文名 设佩	0	0	null	null
+1	肿瘤学杂志的邮发代号	32-37	0	1	32-37	null	邮发代号 肿瘤学杂志	0	0	null	null
+1	谪连州书春牛榜子的创作年代	唐朝	0	1	唐朝	null	创作年代 谪连州书春牛榜子	0	0	null	null
+1	艾弗莎抗皱精华的产品品牌	<a>艾弗莎</a>（<a>Afusa</a>)	0	0	null	null	产品品牌 艾弗莎抗皱精华	1	0	null	AFUSA艾弗莎_艾弗莎抗皱眼霜_蝶丝商城旗舰专卖店-价格表查询、评价
+1	自槜李至毗陵道中的作者	<a>杨冠卿</a>	0	1	杨冠卿	null	作者 自槜李至毗陵道中	0	0	null	null
+1	葬海绝爱的小说进度	连载	0	0	null	null	小说进度 葬海绝爱	0	0	null	null
+1	蓝色天际宾馆的酒店地址	Kamari, 卡马利, 84700, 希腊	0	0	null	null	酒店地址 蓝色天际宾馆	0	0	null	null
+1	轮胎拔圈机的中文名	轮胎拔圈机	0	0	null	null	中文名 轮胎拔圈机	0	0	null	null
+1	遗忘的传说-诸神的游戏的中文名	遗忘的传说-诸神的游戏	0	0	null	null	中文名 遗忘的传说-诸神的游戏	0	0	null	null
+1	贡茶三村的所属地区	云南省楚雄市元谋县姜驿乡贡茶村委会	0	1	云南省楚雄市元谋县姜驿乡贡茶村委会	null	所属地区 贡茶三村	0	0	null	null
+1	钮其吉的国籍	中国	0	1	中国	null	国籍 钮其吉	0	0	null	null
+1	阳春市河口中学的占地面积	3600平方米	0	1	3600平方米	null	占地面积 阳春市河口中学	0	0	null	null
+1	赶屍家族6·密支那基地的丛书	趕屍家族	0	0	null	null	丛书 赶屍家族6·密支那基地	0	0	null	null
+1	金霓GH-8DNP-C 8寸的输出接口	USB2.0	0	0	null	null	输出接口 金霓GH-8DNP-C 8寸	0	0	null	null
+1	进口代理手续费的中文名	进口代理手续费	0	0	null	null	中文名 进口代理手续费	0	0	null	null
+1	都市天堂的中文名	都市天堂	0	0	null	null	中文名 都市天堂	0	0	null	null
+1	都市浮生的连载网站	17k小说网	0	0	null	null	连载网站 都市浮生	0	0	null	null
+1	郑锦扬的中文名	郑锦扬	0	0	null	null	中文名 郑锦扬	0	0	null	null
+1	这冬季里我的初恋的中文名	这冬季里我的初恋	0	0	null	null	中文名 这冬季里我的初恋	0	0	null	null
+1	进出口单证实训教程的中文名	进出口单证实训教程	0	0	null	null	中文名 进出口单证实训教程	0	0	null	null
+1	酸辣开胃豆腐的主要食材	豆腐	1	0	null	1.豆腐切片,番茄切碎粒,姜切丝,葱切末	主要食材 酸辣开胃豆腐	0	0	null	null
+1	银泉郡的外文名	은천군	0	1	은천군	null	外文名 银泉郡	0	0	null	null
+1	邪魅王爷霸道爱：小妾很嚣张的作者	东宫浅笑	0	0	null	null	作者 邪魅王爷霸道爱：小妾很嚣张	0	0	null	null
+1	马凯酒店的英文名称	The Marque Hotel	0	1	The Marque Hotel	null	英文名称 马凯酒店	0	0	null	null
+1	高效执行的5个关键/经理人职业培训的ISBN	9787111133025	0	0	null	null	ISBN 高效执行的5个关键/经理人职业培训	0	0	null	null
+1	鸿冥传的小说进度	连载	0	0	null	null	小说进度 鸿冥传	0	0	null	null
+1	香菇瘦肉的中文名	香菇瘦肉	0	0	null	null	中文名 香菇瘦肉	0	0	null	null
+1	黄强（厦门市政府副市长、党组成员）的信仰	共产主义	0	0	null	null	信仰 黄强（厦门市政府副市长、党组成员）	0	0	null	null
+1	青岛茂祥橡胶有限公司的经营范围	集设计、生产、销售及贸易于一体	0	0	null	null	经营范围 青岛茂祥橡胶有限公司	0	0	null	null
+1	马戏团公约的歌曲原唱	<a>棉花糖</a>	0	0	null	null	歌曲原唱 马戏团公约	0	0	null	null
+1	鬼眼特工的小说进度	连载	0	0	null	null	小说进度 鬼眼特工	0	0	null	null
+1	阿尔穆塔迪·比拉的性别	男	0	1	男	null	性别 阿尔穆塔迪·比拉	0	0	null	null
+1	马泉工笔重彩的ISBN	9787514905588	0	0	null	null	ISBN 马泉工笔重彩	0	0	null	null
+1	陈沙雷的主要成就	2010<a>花儿朵朵</a>选手	0	0	null	null	主要成就 陈沙雷	0	0	null	null
+1	马仕健的职业	歌手、演员	0	1	歌手,演员	null	职业 马仕健	0	1	歌手,演员	null
+1	阿西姑娘和魔法街-五叶草文丛的开本	235mmX170mm	0	0	null	null	开本 阿西姑娘和魔法街-五叶草文丛	0	0	null	null
+1	香奈儿大图鉴的出版时间	2012-9	0	1	2012年9月	null	出版时间 香奈儿大图鉴	0	0	null	null
+1	默基特希腊礼天主教埃及暨苏丹宗主教直辖区的外文名	Archieparchia Alexandrina Melchitarum	0	1	Archieparchia Alexandrina Melchitarum	null	外文名 默基特希腊礼天主教埃及暨苏丹宗主教直辖区	0	0	null	null
+1	霆皇传说的小说进度	连载	0	0	null	null	小说进度 霆皇传说	0	0	null	null
+1	（高职高专）韩国语听力初级（下）的出版时间	2009-10	0	1	2009年10月	null	出版时间 （高职高专）韩国语听力初级（下）	0	0	null	null
+1	（鱼旁）（鱼皮）指环虫的中文学名	（鱼旁）（鱼皮）指环虫	0	0	null	null	中文学名 （鱼旁）（鱼皮）指环虫	0	0	null	null
+1	Miss树的餐馆名称	Miss树	0	0	null	null	餐馆名称 Miss树	0	0	null	null
+1	上海金盾的总部地点	上海	0	1	上海	null	总部地点 上海金盾	0	0	null	null
+1	Vacation Village at Bonaventure的酒店星级	5星级	0	1	五星级	null	酒店星级 Vacation Village at Bonaventure	0	0	null	null
+1	“好运北京”2007青岛国际帆船赛的时间	2007年8月9日-24日	0	1	2007年8月9日-24日	null	时间 “好运北京”2007青岛国际帆船赛	0	0	null	null
+1	My Paper Plane 3的游戏类型	休闲	0	0	null	null	游戏类型 My Paper Plane 3	0	0	null	null
+1	下王沟村的下辖地区	4个自然庄	0	0	null	null	下辖地区 下王沟村	0	0	null	null
+1	三维地震资料微机解释性处理技术的书名	三维地震资料微机解释性处理技术	0	0	null	null	书名 三维地震资料微机解释性处理技术	0	0	null	null
+1	ACE 许你一生的连载网站	晋江文学城	0	0	null	null	连载网站 ACE 许你一生	0	0	null	null
+1	三素烧鸡块的中文名	三素烧鸡块	0	0	null	null	中文名 三素烧鸡块	0	0	null	null
+1	RGZ-95 里歇尔的中文名	RGZ-95 里歇尔	0	0	null	null	中文名 RGZ-95 里歇尔	0	0	null	null
+1	I-Worm/Sasser.e的病毒类型	<a>网络蠕虫</a>	0	0	null	null	病毒类型 I-Worm/Sasser.e	0	0	null	null
+1	BCN巴塞罗那公寓套房酒店的酒店地址	Different Locations, 埃桑普勒, 08007 巴塞罗那	0	0	null	null	酒店地址 BCN巴塞罗那公寓套房酒店	0	0	null	null
+1	“十二五”：城乡一体化的趋势与挑战的出版时间	2010-10-01	0	0	null	null	出版时间 “十二五”：城乡一体化的趋势与挑战	0	0	null	null
+1	JVES掌微的中文名	JVES掌微	0	0	null	null	中文名 JVES掌微	0	0	null	null
+1	sumdex的总部	美国	0	0	null	null	总部 sumdex	0	0	null	null
+1	AMD Phenom X4 9500的核心代号	<a>Agena</a>	0	0	null	null	核心代号 AMD Phenom X4 9500	0	0	null	null
+1	RAFT的中文名	可逆加成-断裂链转移聚合	0	1	可逆加成-断裂链转移聚合	null	中文名 RAFT	0	0	null	null
+1	80年代以来的文化论争的作者	郭双林	0	1	郭双林	null	作者 80年代以来的文化论争	0	0	null	null
+1	LG Optimus LTE II F160L的主屏尺寸	4.7英寸	0	1	4.7英寸	null	主屏尺寸 LG Optimus LTE II F160L	0	0	null	null
+0	The SpacePimps的外文名	The SpacePimps	0	0	null	null	外文名 The SpacePimps	0	0	null	null
+1	Aconchego Carioca的英文名称	Aconchego Carioca	0	0	null	null	英文名称 Aconchego Carioca	0	0	null	null
+1	丁一探案集的连载网站	起点中文网	0	0	null	null	连载网站 丁一探案集	0	0	null	null
+1	90度碳烧咖啡的地区	北京市	1	0	null	90度炭烧咖啡_全国网点分布_电话_地址	地区 90度碳烧咖啡	0	0	null	null
+1	A·穆塔里的国籍	新加坡	0	1	新加坡	null	国籍 A·穆塔里	0	0	null	null
+1	crazy kids的所属专辑	<a>Warrior</a>	1	0	null	crazy kids 中的rop部分_百度知道	所属专辑 crazy kids	1	0	null	crazy kids 中的rop部分_百度知道
+1	Lanopearl 朗沛柔的所属行业	护肤产品	0	0	null	null	所属行业 Lanopearl 朗沛柔	0	0	null	null
+1	Amaranten AS-F300Plus-9-512k的网络端口	9个接口	0	0	null	null	网络端口 Amaranten AS-F300Plus-9-512k	0	0	null	null
+1	MOOK发展中国的副标题	会理	0	0	null	null	副标题 MOOK发展中国	0	0	null	null
+1	osa.exe的出品者	Microsoft Corp.	0	0	null	null	出品者 osa.exe	0	0	null	null
+1	上海申宾保慧贸易发展有限公司的经营范围	贸易	0	0	null	null	经营范围 上海申宾保慧贸易发展有限公司	0	0	null	null
+1	ANB的原名	a&amp;B studio	0	1	a&B studio	null	原名 ANB	1	0	null	ANB_百度百科
+1	上海辉腾门业有限公司的产品	<a>电动卷帘门</a>、自动道闸	1	0	null	上海辉腾门业有限公司--首页	产品 上海辉腾门业有限公司	0	0	null	null
+1	lxsupmon.exe的进程文件	lxsupmon 或者 lxsupmon.exe	0	0	null	null	进程文件 lxsupmon.exe	0	0	null	null
+1	一晌半夏的小说进度	连载	0	0	null	null	小说进度 一晌半夏	0	0	null	null
+1	endlicheri的门	脊索动物门	0	0	null	null	门 endlicheri	0	0	null	null
+1	Apartments Royal的房间数量	3	0	0	null	null	房间数量 Apartments Royal	0	0	null	null
+1	X战警：进化的其它译名	超能战士	0	0	null	null	其它译名 X战警：进化	0	0	null	null
+1	——请你告诉我的中文名	——请你告诉我	0	0	null	null	中文名 ——请你告诉我	0	0	null	null
+1	IBM ThinkPad X31 2672PBC的屏幕尺寸	12.1英寸	0	1	12.1英寸	null	屏幕尺寸 IBM ThinkPad X31 2672PBC	0	0	null	null
+1	2523年轻导航的宗旨	用心服务、诚信第一	0	0	null	null	宗旨 2523年轻导航	0	0	null	null
+1	一代师表：经亨颐传的ISBN	10位[7213035282]13位[9787213035289]	0	0	null	null	ISBN 一代师表：经亨颐传	0	0	null	null
+1	三菱RDT231WLM的产品定位	：全高清电视	0	0	null	null	产品定位 三菱RDT231WLM	0	0	null	null
+1	TIMKEN A6075/A6157-B轴承的型号	A6075/A6157-B	0	0	null	null	型号 TIMKEN A6075/A6157-B轴承	0	0	null	null
+1	4·3女教师从政府楼坠亡事件的中文名	4·3女教师从政府楼坠亡事件	0	0	null	null	中文名 4·3女教师从政府楼坠亡事件	0	0	null	null
+1	Purple Slate的颜色	淡紫色	0	0	null	null	颜色 Purple Slate	0	0	null	null
+1	LINE Play的开发商	NAVER JAPAN	0	1	NAVER JAPAN	null	开发商 LINE Play	0	0	null	null
+1	2012重庆最美新娘大赛的中文名	2012重庆最美新娘大赛	0	0	null	null	中文名 2012重庆最美新娘大赛	0	0	null	null
+1	下坡店村的人口	共577人	0	1	共577人	null	人口 下坡店村	0	0	null	null
+1	MaK家庭式酒店的酒店地址	ul. Grochowska 37, 格伦瓦, 60-277 波兹南	0	0	null	null	酒店地址 MaK家庭式酒店	0	0	null	null
+1	office control.ocx的简述	OCX文件 - 即为对象类别	0	0	null	null	简述 office control.ocx	0	0	null	null
+1	Grove Lane Glamping Tented Camp的房间数量	4	0	0	null	null	房间数量 Grove Lane Glamping Tented Camp	0	0	null	null
+1	101探咒的连载网站	起点中文网	0	0	null	null	连载网站 101探咒	0	0	null	null
+1	Apartment Ca Rovereto Mestre的周围景观	威尼斯梅斯特雷火车站	0	0	null	null	周围景观 Apartment Ca Rovereto Mestre	0	0	null	null
+1	CAXA PDM的中文名	CAXA PDM	0	0	null	null	中文名 CAXA PDM	0	0	null	null
+1	APC SURT6000XLI的额定功率	6KVA	0	1	6KVA	null	额定功率 APC SURT6000XLI	0	0	null	null
+1	TD-SCDMA联盟的时间	2002年10月30日	0	1	2002年10月30日	null	时间 TD-SCDMA联盟	0	0	null	null
+1	XFX讯景HD-695A-CNF 中将版的芯片厂商	AMD	0	0	null	null	芯片厂商 XFX讯景HD-695A-CNF 中将版	0	0	null	null
+1	psp管的中文名	psp管	0	0	null	null	中文名 psp管	0	0	null	null
+0	Backdoor/Fluxay.b的病毒类型	后门	0	0	null	null	病毒类型 Backdoor/Fluxay.b	0	0	null	null
+0	丁海涛（内蒙古医学院研究生学院教授）的国籍	中国	0	0	null	null	国籍 丁海涛（内蒙古医学院研究生学院教授）	0	0	null	null
+1	2013年1月西北太平洋炸弹低气压的外文名	2013 January Pacific northwest bomb infrabar	0	1	2013 January Pacific northwest bomb infrabar	null	外文名 2013年1月西北太平洋炸弹低气压	0	0	null	null
+1	T恤（Super Junior的演唱歌曲《shirt》）的发行时间	2014-09-01	0	0	null	null	发行时间 T恤（Super Junior的演唱歌曲《shirt》）	0	0	null	null
+1	TCL锐翔K9511的内存大小	512MB	0	1	512MB	null	内存大小 TCL锐翔K9511	0	0	null	null
+1	the trendy shop的品牌所属国家	中国香港	0	0	null	null	品牌所属国家 the trendy shop	0	0	null	null
+1	80后爱情游戏里流逝的青春岁月：当年华未曾老去的作者	碧珊	0	0	null	null	作者 80后爱情游戏里流逝的青春岁月：当年华未曾老去	0	0	null	null
+1	Frank Abagnale的中文名	<a>弗兰克·阿巴奈尔</a>	0	1	弗兰克·阿巴奈尔	null	中文名 Frank Abagnale	0	0	null	null
+1	2011年中国谢岗登山旅游节的中文名	2011年中国谢岗登山旅游节	0	0	null	null	中文名 2011年中国谢岗登山旅游节	0	0	null	null
+1	7点管理系统的特点	具有很强的体统扩展性和<a>兼容性</a>	0	0	null	null	特点 7点管理系统	0	0	null	null
+1	DNF机械吧的关联游戏	<a>地下城与勇士</a>	0	0	null	null	关联游戏 DNF机械吧	0	0	null	null
+1	一只鬼的时间的作者	小渣	0	1	小渣	null	作者 一只鬼的时间	0	0	null	null
+1	E2别墅的酒店地址	Jalan Raya Seminyak, Gang Bima 2X &amp; 3X, 水明漾	0	0	null	null	酒店地址 E2别墅	0	0	null	null
+1	一世媚罗的中文名	一世媚罗	0	0	null	null	中文名 一世媚罗	0	0	null	null
+1	《超级整理术：工作效率是整理出来的》扫描版的作者	泉正人	0	0	null	null	作者 《超级整理术：工作效率是整理出来的》扫描版	0	0	null	null
+1	HP xp7010的中文名	HP xp7010	0	0	null	null	中文名 HP xp7010	0	0	null	null
+1	10·18西藏日喀则地震的震中位置	西藏自治区日喀则地区	0	0	null	null	震中位置 10·18西藏日喀则地震	0	0	null	null
+1	Empress Residence Resort & Spa的周围景观	吴哥王城南门、神牛寺、东湄本寺、暹粒公园、沃密寺、柬埔寨国家陶艺博物馆、空邦鲁、巴空寺、塔内寺、洛雷寺、吴哥国家博物馆	0	0	null	null	周围景观 Empress Residence Resort & Spa	0	0	null	null
+1	WIR 系列导丝的产品标准	进口产品注册标准YZB/GEM0259	0	0	null	null	产品标准 WIR 系列导丝	0	0	null	null
+1	32进8出监控矩阵的1	采用大规模音视频切换专用芯片	0	0	null	null	1 32进8出监控矩阵	0	0	null	null
+1	Barack Obama In His Own Words奥巴马演讲和言论集的作者	Lisa Rogak	0	1	Lisa Rogak	null	作者 Barack Obama In His Own Words奥巴马演讲和言论集	0	0	null	null
+1	万人城遗址的中文名	万人城遗址	0	0	null	null	中文名 万人城遗址	0	0	null	null
+1	上海中考化学随身测的出版时间	2012年2月1日	0	1	2012年2月1日	null	出版时间 上海中考化学随身测	0	0	null	null
+1	Effie Perine Studios的酒店地址	Prešernova 45, 4260 布莱德	0	0	null	null	酒店地址 Effie Perine Studios	0	0	null	null
+1	FAG 81102-TV轴承的品牌	FAG	0	0	null	null	品牌 FAG 81102-TV轴承	0	0	null	null
+1	serverance的类型	恐怖、喜剧、剧情、惊悚	0	0	null	null	类型 serverance	0	0	null	null
+1	1942年7月5日行动的时间	<a>第二次世界大战</a><a>阿留申群岛战役</a>	0	0	null	null	时间 1942年7月5日行动	0	0	null	null
+1	Xilinx FPGA数字电路设计的作者	郑群星	0	1	郑群星	null	作者 Xilinx FPGA数字电路设计	0	0	null	null
+1	SKF YAR207-104-2F轴承的类型	轴承	0	0	null	null	类型 SKF YAR207-104-2F轴承	0	0	null	null
+1	mrp软件的运行内存大小	1KB~700KB	0	0	null	null	运行内存大小 mrp软件	0	0	null	null
+1	IQ+EQ提升·趣味找不同：动物王国的开本	20	0	0	null	null	开本 IQ+EQ提升·趣味找不同：动物王国	0	0	null	null
+1	LG1-I枪挂式榴弹发射器的全枪重	0．8千克	0	1	0.8千克	null	全枪重 LG1-I枪挂式榴弹发射器	0	0	null	null
+1	与张枢密的作品名称	与张枢密	0	0	null	null	作品名称 与张枢密	0	0	null	null
+1	不死不朽的作者	六点半起床	0	0	null	null	作者 不死不朽	0	0	null	null
+1	万人迷（电视剧《粉红女郎》剧中人物）的本名	<a>万玲</a>	0	0	null	null	本名 万人迷（电视剧《粉红女郎》剧中人物）	0	0	null	null
+1	上海物位帝国际贸易有限公司的经营范围	集研发、设计、生产为一体	0	0	null	null	经营范围 上海物位帝国际贸易有限公司	0	0	null	null
+1	M·迈特科维克的国籍	克罗地亚	0	1	克罗地亚	null	国籍 M·迈特科维克	0	0	null	null
+1	J·杜格拉的职业	运动员 足球	0	0	null	null	职业 J·杜格拉	0	0	null	null
+1	Mirandoalaconcha Donostia的房间数量	5	0	0	null	null	房间数量 Mirandoalaconcha Donostia	0	0	null	null
+1	E.席勒速写的ISBN	9787538617405	0	0	null	null	ISBN E.席勒速写	0	0	null	null
+1	万韬隃的国籍	中国	0	1	中国	null	国籍 万韬隃	0	0	null	null
+1	三星YP-N30S（64MB)的中文名	三星YP-N30S（64MB)	0	0	null	null	中文名 三星YP-N30S（64MB)	0	0	null	null
+1	上海如家快捷酒店大木桥店的中文名	上海如家快捷酒店大木桥店	0	0	null	null	中文名 上海如家快捷酒店大木桥店	0	0	null	null
+1	中华人民共和国临时居民身份证管理办法的实施日期	20051001	0	1	2005年10月1日	null	实施日期 中华人民共和国临时居民身份证管理办法	0	0	null	null
+1	亚当·巴克斯顿的出生日期	1992-05-12	0	1	1992年5月12日	null	出生日期 亚当·巴克斯顿	0	0	null	null
+1	亲亲我的恶魔王子的作者	殇、℡冷	0	0	null	null	作者 亲亲我的恶魔王子	0	0	null	null
+1	代嫁王妃：相公别太冷的中文名	代嫁王妃:相公别太冷	0	0	null	null	中文名 代嫁王妃：相公别太冷	0	0	null	null
+1	二里河公园的历史	4500年	0	0	null	null	历史 二里河公园	0	0	null	null
+1	中小学生基础素质培养丛书的作者	《如何坚持自己的信念》编写组 编	0	0	null	null	作者 中小学生基础素质培养丛书	0	0	null	null
+1	五灵封魔的中文名	五灵封魔	0	0	null	null	中文名 五灵封魔	0	0	null	null
+1	两汉文献与两汉文学（精）的书名	两汉文献与两汉文学(精)	0	0	null	null	书名 两汉文献与两汉文学（精）	0	0	null	null
+1	交往请往深处去的连载网站	起点中文网	0	0	null	null	连载网站 交往请往深处去	0	0	null	null
+1	世纪飞扬CF-PD304(4GB)的存储容量	8GB	0	1	8GB	null	存储容量 世纪飞扬CF-PD304(4GB)	0	0	null	null
+1	乖宝宝毛衣编织3500的出版社	<a>中国纺织出版社</a>	0	0	null	null	出版社 乖宝宝毛衣编织3500	0	0	null	null
+1	中国历代文章学论著选的书名	中国历代文章学论著选	0	0	null	null	书名 中国历代文章学论著选	0	0	null	null
+1	仁钦楞寺的藏语称	“江拉仁钦楞”	0	0	null	null	藏语称 仁钦楞寺	0	0	null	null
+1	仁明和尚的别名	张池长	0	1	张池长	null	别名 仁明和尚	0	0	null	null
+1	丫口自然村（云南省昭通市镇雄县牛场镇丫口自然村）的人口	57户、205口	0	0	null	null	人口 丫口自然村（云南省昭通市镇雄县牛场镇丫口自然村）	0	0	null	null
+1	你微笑时那么悲凉的连载网站	云中书城	0	0	null	null	连载网站 你微笑时那么悲凉	0	0	null	null
+1	中国博物馆机构的机构设置	业务和行政两大部门	1	0	null	1.负责处理博物馆的一切内、外日常行政管理事务;	机构设置 中国博物馆机构	1	0	null	1.负责处理博物馆的一切内、外日常行政管理事务;
+1	中华民国文化的出版社	南京出版社	0	1	南京出版社	null	出版社 中华民国文化	0	0	null	null
+1	伫足静待的作者	仰望青鸟	0	0	null	null	作者 伫足静待	0	0	null	null
+1	伯顿西餐厅（新南路店）的地区	东莞市	0	0	null	null	地区 伯顿西餐厅（新南路店）	0	0	null	null
+1	侠中虾的连载网站	起点中文网	0	0	null	null	连载网站 侠中虾	0	0	null	null
+1	东莞红源薄膜有限公司的公司性质	独资	0	0	null	null	公司性质 东莞红源薄膜有限公司	0	0	null	null
+1	云瑶若水的连载网站	红袖添香网	0	0	null	null	连载网站 云瑶若水	0	0	null	null
+1	中共华亭县委宣传部的国籍	中国	0	1	中国	null	国籍 中共华亭县委宣传部	0	0	null	null
+1	丽台A360 UTDH(128MB)的中文名	丽台A360 UTDH(128MB)	0	0	null	null	中文名 丽台A360 UTDH(128MB)	0	0	null	null
+1	介质谐振器的微波测量的书名	介质谐振器的微波测量	0	0	null	null	书名 介质谐振器的微波测量	0	0	null	null
+1	伊万坎波美拉的身高	179厘米	0	1	179厘米	null	身高 伊万坎波美拉	0	0	null	null
+1	俞吾金讲演录：时代的哲学沉思的出版社	<a>长春出版社</a>	0	0	null	null	出版社 俞吾金讲演录：时代的哲学沉思	0	0	null	null
+1	仙女公园的地理位置	江苏省扬州市江都区	0	1	江苏省扬州市江都区	null	地理位置 仙女公园	0	0	null	null
+1	九龙山国家森林公园（浙江平湖九龙山国家森林公园）的面积	613.33公顷	0	0	null	null	面积 九龙山国家森林公园（浙江平湖九龙山国家森林公园）	0	0	null	null
+1	伊陕盾地的别名	伊陕盆地	0	1	伊陕盆地	null	别名 伊陕盾地	0	0	null	null
+1	于家英的中文名	于家英	0	0	null	null	中文名 于家英	0	0	null	null
+1	中国绿色农业的定价	36.0	0	0	null	null	定价 中国绿色农业	0	0	null	null
+1	俄罗斯成教的中文名	俄罗斯成教	0	0	null	null	中文名 俄罗斯成教	0	0	null	null
+1	保罗·安德烈斯·加尔塞斯·孔特雷拉斯的性别	男	0	1	男	null	性别 保罗·安德烈斯·加尔塞斯·孔特雷拉斯	0	0	null	null
+1	你的眼泪触痛我的殇的连载网站	红袖添香网	0	0	null	null	连载网站 你的眼泪触痛我的殇	0	0	null	null
+1	中国古代珐琅器的定价	39.80元	0	0	null	null	定价 中国古代珐琅器	0	0	null	null
+1	东洋塭村的中文名	东洋塭村	0	0	null	null	中文名 东洋塭村	0	0	null	null
+1	倾世特工庶女的小说进度	连载	0	0	null	null	小说进度 倾世特工庶女	0	0	null	null
+1	倪文东书法作品的装帧	平装	0	0	null	null	装帧 倪文东书法作品	0	0	null	null
+1	你的世界，我在对岸的作者	君初见	0	0	null	null	作者 你的世界，我在对岸	0	0	null	null
+1	乳脂链霉菌的中文名	乳脂链霉菌	0	0	null	null	中文名 乳脂链霉菌	0	0	null	null
+1	仁怀市人民政府办公室关于对2007年度项目争取和项目建设管理工作先进单位进行表彰的通知的发布单位	仁怀市人民政府办公室	0	0	null	null	发布单位 仁怀市人民政府办公室关于对2007年度项目争取和项目建设管理工作先进单位进行表彰的通知	0	0	null	null
+1	位面系统的作者	云风弑海	0	1	云风弑海	null	作者 位面系统	0	0	null	null
+1	乌海市人民政府2011年政府信息公开工作年度报告的时间	2011年	0	1	2011年	null	时间 乌海市人民政府2011年政府信息公开工作年度报告	0	0	null	null
+1	东莞文盛国际学校的所属地区	东莞市	0	1	东莞市	null	所属地区 东莞文盛国际学校	0	0	null	null
+1	中国摩托联盟的中文名	中国摩托联盟	0	0	null	null	中文名 中国摩托联盟	0	0	null	null
+1	乱神志的小说进度	连载	0	0	null	null	小说进度 乱神志	0	0	null	null
+1	亚卿的中文名	亚卿	0	0	null	null	中文名 亚卿	0	0	null	null
+1	值日班长是流氓的中文名	值日班长是流氓	0	0	null	null	中文名 值日班长是流氓	0	0	null	null
+1	以琳披萨店（南湖花园店）的营业时间	11:00-21:30	0	0	null	null	营业时间 以琳披萨店（南湖花园店）	0	0	null	null
+1	中财管道的属性	中国驰名商标	0	0	null	null	属性 中财管道	0	0	null	null
+1	东石古寨的称号	江防要塞	0	1	江防要塞	null	称号 东石古寨	0	0	null	null
+1	中国哲学与文化（第五辑）的出版社	<a>广西师范大学出版社</a>	0	0	null	null	出版社 中国哲学与文化（第五辑）	0	0	null	null
+1	从愤青到思想家的书名	从愤青到思想家	0	0	null	null	书名 从愤青到思想家	0	0	null	null
+1	九重农仙的连载网站	起点中文网	0	0	null	null	连载网站 九重农仙	0	0	null	null
+0	东渡铁板烧日本料理（花都店）的人均价格	137	0	0	null	null	人均价格 东渡铁板烧日本料理（花都店）	0	0	null	null
+1	中国流动人口发展报告2013的中文名	中国流动人口发展报告2013	0	0	null	null	中文名 中国流动人口发展报告2013	0	0	null	null
+1	中医肝胆病良方的出版时间	第1版 (2005年6月1日)	0	1	2005年6月1日
+                                                                                                                 (第1版)	null	出版时间 中医肝胆病良方	0	0	null	null
+1	你再哭我就生气了的连载网站	小说阅读网	0	0	null	null	连载网站 你再哭我就生气了	0	0	null	null
+1	临夏市街子村后街清真寺的现任学董	周锦文	0	0	null	null	现任学董 临夏市街子村后街清真寺	0	0	null	null
+1	云雨巫娥的中文名	云雨巫娥	0	0	null	null	中文名 云雨巫娥	0	0	null	null
+1	倾城月冷如霜的中文名	倾城月冷如霜	0	0	null	null	中文名 倾城月冷如霜	0	0	null	null
+1	么下自然村的行政区类别	村	0	0	null	null	行政区类别 么下自然村	0	0	null	null
+1	付小芳的主要奖项	2010第四届全国体育大会九单冠军、2005「太田杯」女子普尔8球冠军	0	0	null	null	主要奖项 付小芳	0	0	null	null
+1	你的态度，决定你的高度的页数	184	0	1	184页	null	页数 你的态度，决定你的高度	0	0	null	null
+1	低碳生活读本的作者	<a>王素英</a>	0	1	王素英	null	作者 低碳生活读本	0	0	null	null
+1	中国法治建设的出版时间	2008-12	0	0	null	null	出版时间 中国法治建设	0	0	null	null
+1	传是楼书目的别名	字原一、号建庵	0	1	徐乾学	null	别名 传是楼书目	0	0	null	null
+1	伊弗科·斯特姆的国籍	荷兰	0	1	荷兰	null	国籍 伊弗科·斯特姆	0	1	荷兰	null
+1	云南交通职业技术学院学生社团联合会的中文名	云南交通职业技术学院学生社团联合会	0	0	null	null	中文名 云南交通职业技术学院学生社团联合会	0	0	null	null
+1	保鲜心情的页数	155	0	1	155页	null	页数 保鲜心情	0	0	null	null
+1	中国当代版权史的作者	常青、李明山	0	1	常青、李明山	null	作者 中国当代版权史	0	0	null	null
+1	亚努绍斯卡斯的出生地	立陶宛	0	1	立陶宛	null	出生地 亚努绍斯卡斯	0	0	null	null
+0	东莞市好百年纸业有限公司的成立时间	1803年	0	0	null	null	成立时间 东莞市好百年纸业有限公司	0	0	null	null
+1	你有家吗？的连载网站	幻剑书盟	0	0	null	null	连载网站 你有家吗？	0	0	null	null
+1	任民武的职业	教授、博士生导师	0	1	教授,博士生导师	null	职业 任民武	0	1	教授,博士生导师	null
+1	亿达东方圣克拉的园林	7万平米	0	0	null	null	园林 亿达东方圣克拉	0	0	null	null
+1	传统建筑的ISBN	9787506036436	0	0	null	null	ISBN 传统建筑	0	0	null	null
+1	亭湖区物价局的职责	价格鉴证、开展价格咨询	0	0	null	null	职责 亭湖区物价局	0	0	null	null
+1	人与道的中文名	人与道	0	0	null	null	中文名 人与道	0	0	null	null
+1	休伦角石的别名	鹦鹉螺	0	1	鹦鹉螺	null	别名 休伦角石	0	0	null	null
+1	交通行政执法人员岗位培训教材的页数	145	0	0	null	null	页数 交通行政执法人员岗位培训教材	0	0	null	null
+1	传感器应用电路400例的书名	传感器应用电路400例	0	0	null	null	书名 传感器应用电路400例	0	0	null	null
+1	世界贸易组织法律教程的出版时间	2003年01月	0	1	2003年1月	null	出版时间 世界贸易组织法律教程	0	0	null	null
+1	中央豪华酒店的周围景观	红桥、伊拉斯谟桥(天鹅桥)、荷兰建筑协会总部、Willemswerf大厦、立体方块屋、鹿特丹中心火车站、欧洲星光大道、昆莎美术馆、太空塔/欧洲塔、老港口、海港博物馆	0	0	null	null	周围景观 中央豪华酒店	0	0	null	null
+1	世纪前沿·真实与惟一的天堂：进步及其评论家的定价	50 元	0	0	null	null	定价 世纪前沿·真实与惟一的天堂：进步及其评论家	0	0	null	null
+1	伏家凹村的海拔	1600米	0	1	1600米	null	海拔 伏家凹村	0	0	null	null
+1	人性缺陷与文化控制的作者	傅吉元	0	1	傅吉元	null	作者 人性缺陷与文化控制	0	0	null	null
+0	中学生入团积极分子培训教材的ISBN	10位[7801891546]13位[9787801891549]	0	0	null	null	ISBN 中学生入团积极分子培训教材	0	0	null	null
+1	企业标准化管理体系GMS2002表单范本的页数	860	0	1	860页	null	页数 企业标准化管理体系GMS2002表单范本	0	0	null	null
+1	乐枫团的网站特色	每天帮您推荐优质的本地生活服务	0	0	null	null	网站特色 乐枫团	0	0	null	null
+1	俄国经典中篇小说的丛书	名家·名篇·名译经典小说丛书	0	0	null	null	丛书 俄国经典中篇小说	0	0	null	null
+1	世界是我的床：加菲猫的生活艺术的中文名	世界是我的床:加菲猫的生活艺术	0	0	null	null	中文名 世界是我的床：加菲猫的生活艺术	0	0	null	null
+1	人像摄影教程的作者	唐东平	0	1	唐东平	null	作者 人像摄影教程	1	0	null	人像摄影经典教程(第3版) (豆瓣)
+1	乾坤七彩塔的小说进度	连载	0	0	null	null	小说进度 乾坤七彩塔	0	0	null	null
+1	云端悦读的定位	免费阅读工具	0	0	null	null	定位 云端悦读	0	0	null	null
+1	中华适用民历的书名	中华适用民历	0	0	null	null	书名 中华适用民历	0	0	null	null
+1	俞晶（女歌手）的性别	女	0	0	null	null	性别 俞晶（女歌手）	0	0	null	null
+1	仙缘奇府的小说进度	连载	0	0	null	null	小说进度 仙缘奇府	0	0	null	null
+1	佩滕鳄的门	脊索动物门	0	0	null	null	门 佩滕鳄	0	0	null	null
+1	叐的笔顺	撇横撇折捺	0	1	撇横撇折捺	null	笔顺 叐	0	0	null	null
+1	制导导弹的特点	制导	1	0	null	导弹有几种制导方式,有何区别,有何特点_百度知道	特点 制导导弹	1	0	null	1.寻的式制导 寻的式(又称自动寻找式)制导系统是通过弹上的导引系统(导引头或寻的头)感...
+1	华夏任逍遥的连载网站	起点中文网	0	0	null	null	连载网站 华夏任逍遥	0	0	null	null
+1	公馆原著的开发商	顺德区兴顺房地产有限公司	0	1	顺德区兴顺房地产有限公司	null	开发商 公馆原著	0	0	null	null
+1	刘菲菲 VS 花花世界的作者	漏网之鱼	0	1	漏网之鱼	null	作者 刘菲菲 VS 花花世界	0	0	null	null
+0	冲绳小芙蓉的类型	喜剧	0	0	null	null	类型 冲绳小芙蓉	0	0	null	null
+1	兰波彩图集的译者	: 叶汝琏 / 何家炜	0	1	何家炜、叶汝琏	null	译者 兰波彩图集	0	0	null	null
+1	南京网行通信息技术有限公司的公司性质	有限责任公司	0	0	null	null	公司性质 南京网行通信息技术有限公司	0	0	null	null
+1	全国高职高专公共基础课规划教材：商务礼仪的开本	16开	0	0	null	null	开本 全国高职高专公共基础课规划教材：商务礼仪	0	0	null	null
+1	全世界孩子都爱看的经典故事游戏书：玩出智慧的书名	全世界孩子都爱看的经典故事游戏书：玩出智慧	0	0	null	null	书名 全世界孩子都爱看的经典故事游戏书：玩出智慧	0	0	null	null
+1	南平市延平区工商行政管理局的地点	南平市延平区	0	0	null	null	地点 南平市延平区工商行政管理局	0	0	null	null
+1	克拉玛依市国中建筑安装有限公司的公司名称	克拉玛依市国中建筑安装有限公司	0	0	null	null	公司名称 克拉玛依市国中建筑安装有限公司	0	0	null	null
+1	冈査那雅旅馆的中文名	冈査那雅旅馆	0	0	null	null	中文名 冈査那雅旅馆	0	0	null	null
+1	全科医生处方手册的书名	全科医生处方手册	0	0	null	null	书名 全科医生处方手册	0	0	null	null
+1	卡罗莱纳黑豹的晋身超级碗	2003	0	1	2003	null	晋身超级碗 卡罗莱纳黑豹	0	0	null	null
+1	卡尔-海因茨·科贝尔的国籍	德国	0	1	德国	null	国籍 卡尔-海因茨·科贝尔	0	0	null	null
+1	华硕L3820-DR的CPU主频	2GHz	0	0	null	null	CPU主频 华硕L3820-DR	0	0	null	null
+1	印虹的国籍	中国	0	1	中国	null	国籍 印虹	0	0	null	null
+0	凡心微漾的中文名	凡心微漾	0	0	null	null	中文名 凡心微漾	0	0	null	null
+1	内蒙古绿岭瀚漠农业发展股份有限公司的公司性质	有限公司	0	0	null	null	公司性质 内蒙古绿岭瀚漠农业发展股份有限公司	0	0	null	null
+1	双生第二季的主演	Angie Harmon Sasha A	0	0	null	null	主演 双生第二季	0	0	null	null
+1	列凛的连载网站	晋江文学城	0	0	null	null	连载网站 列凛	0	0	null	null
+1	刘八里乡的拼音	Liubali Xiang	0	0	null	null	拼音 刘八里乡	0	0	null	null
+1	北京村邦信息技术有限公司的员工数	20人（2012年）	0	1	20人
+                                                                                                                 (2012年)	null	员工数 北京村邦信息技术有限公司	0	0	null	null
+1	剁椒莲藕鸡丁的口味	清香爽脆	0	1	清香爽脆	null	口味 剁椒莲藕鸡丁	0	0	null	null
+1	八琼室金石补正的定价	28元	0	0	null	null	定价 八琼室金石补正	0	0	null	null
+1	农一师三团的面积	255平方公里	0	1	255平方千米	null	面积 农一师三团	0	0	null	null
+1	南京泛亚商品交易中心的中文名	南京泛亚商品交易中心	0	0	null	null	中文名 南京泛亚商品交易中心	0	0	null	null
+1	历史活着的开本	16开	0	0	null	null	开本 历史活着	0	0	null	null
+1	刘作云的职业	天津市人大常委会原办公厅副主任	0	0	null	null	职业 刘作云	0	0	null	null
+1	出行英语会话想说就会说的开本	16	0	0	null	null	开本 出行英语会话想说就会说	0	0	null	null
+1	华为U8800 刷机包的ROM大小	164.41MB	0	0	null	null	ROM大小 华为U8800 刷机包	0	0	null	null
+1	凤和村的中文名	凤和村	0	0	null	null	中文名 凤和村	0	0	null	null
+1	刘静（湖南省儿童医院感染科主任医师）的毕业院校	华中科技大学	0	0	null	null	毕业院校 刘静（湖南省儿童医院感染科主任医师）	0	0	null	null
+1	南汇县泥城中学的中文名	南汇县泥城中学	0	0	null	null	中文名 南汇县泥城中学	0	0	null	null
+1	华嘉茶品的品牌	杭州华嘉茶品茶叶有限公司	0	0	null	null	品牌 华嘉茶品	0	0	null	null
+1	南郑佛兰的分布区域	汉中南郑县小南海	0	1	汉中南郑县小南海	null	分布区域 南郑佛兰	0	0	null	null
+1	卡拉迪亚之鹰旗的小说性质	公众作品	0	0	null	null	小说性质 卡拉迪亚之鹰旗	0	0	null	null
+1	华西石杉的界	植物界	0	1	植物界	null	界 华西石杉	0	0	null	null
+1	原谅我真的很爱你的连载网站	红袖添香网	0	0	null	null	连载网站 原谅我真的很爱你	0	0	null	null
+1	前贾铁路的建成时间	1917年	0	1	1917年	null	建成时间 前贾铁路	0	0	null	null
+1	再见如初的导演	杜宇 李峰 张祎	0	1	杜宇，李峰，张祎	null	导演 再见如初	0	0	null	null
+1	初三数学（双色版）/海淀名师点击考必胜 （平装）的作者	单志秀编	0	1	单志秀	null	作者 初三数学（双色版）/海淀名师点击考必胜 （平装）	0	0	null	null
+1	刀神决杀1945的独家签约网站	<a>17k小说网</a>	0	0	null	null	独家签约网站 刀神决杀1945	0	0	null	null
+1	克里马擦世界杯的歌曲语言	陕西方言	0	0	null	null	歌曲语言 克里马擦世界杯	0	0	null	null
+1	全息光学的出版社	化学工业出版社	0	1	化学工业出版社	null	出版社 全息光学	0	0	null	null
+1	兽破的小说进度	连载	0	0	null	null	小说进度 兽破	0	0	null	null
+1	北京晋朗博远科技发展有限公司的公司性质	有限公司	0	0	null	null	公司性质 北京晋朗博远科技发展有限公司	0	0	null	null
+1	冰焰王座的连载网站	起点中文网	0	0	null	null	连载网站 冰焰王座	0	0	null	null
+1	凡尘落世的小说进度	连载	0	0	null	null	小说进度 凡尘落世	0	0	null	null
+1	冯国梁的出生地	重庆垫江	0	1	重庆垫江	null	出生地 冯国梁	0	0	null	null
+1	卫生微生物学的ISBN	9787117087452	0	0	null	null	ISBN 卫生微生物学	0	0	null	null
+1	创生健身系统的包括	时段卡	0	0	null	null	包括 创生健身系统	0	0	null	null
+1	卧龙湖冬捕节的主办单位	县政府、<a>康平县</a>委	0	1	县政府、康平县委	null	主办单位 卧龙湖冬捕节	0	0	null	null
+1	卡穆河的全长	约80公里	0	1	约80公里	null	全长 卡穆河	0	0	null	null
+1	前苏联MT—ЛБ多用途装甲输送-牵引车的前型/级	E923.192	0	0	null	null	前型/级 前苏联MT—ЛБ多用途装甲输送-牵引车	0	0	null	null
+1	南京市金融发展办公室的地理位置	江苏省南京市	0	1	江苏省南京市	null	地理位置 南京市金融发展办公室	0	0	null	null
+1	关于在严厉打击非法行医和非法采供血工作中加强衔接配合的暂行规定的发文单位	卫生部、公安部	0	0	null	null	发文单位 关于在严厉打击非法行医和非法采供血工作中加强衔接配合的暂行规定	0	0	null	null
+1	卫城誓言的作者	宛上紫墨	0	1	宛上紫墨	null	作者 卫城誓言	0	0	null	null
+1	南通市燃气管理处的性质	政府机构	0	0	null	null	性质 南通市燃气管理处	0	0	null	null
+1	冷冽狂妃的作者	墨雪凌霜	0	0	null	null	作者 冷冽狂妃	0	0	null	null
+1	公园蓝波湾的售楼地址	夏邑县孔祖大道与北街交叉口	0	0	null	null	售楼地址 公园蓝波湾	0	0	null	null
+1	准爸准妈全程孕产手册的ISBN	9787508054179	0	0	null	null	ISBN 准爸准妈全程孕产手册	0	0	null	null
+1	反h萌葱总部吧的简要介绍	现任吧主为 KYO98 _小	0	0	null	null	简要介绍 反h萌葱总部吧	0	0	null	null
+1	南京国泰怡安网络科技有限公司的总部地点	南京	0	1	南京	null	总部地点 南京国泰怡安网络科技有限公司	0	0	null	null
+1	双（二甲基膦）甲烷的中文名	双（二甲基膦）甲烷	0	0	null	null	中文名 双（二甲基膦）甲烷	0	0	null	null
+1	双坝村委会的面积	23.67平方公里	0	0	null	null	面积 双坝村委会	0	0	null	null
+1	北京贵州大厦酒店的位置	北三环中路	0	1	北三环中路	null	位置 北京贵州大厦酒店	0	0	null	null
+1	创世鼎的中文名	创世鼎	0	0	null	null	中文名 创世鼎	0	0	null	null
+1	华硕X20G83SG-SL的硬盘容量	250GB	0	1	250GB	null	硬盘容量 华硕X20G83SG-SL	0	0	null	null
+1	公路列车的导演	Dean Francis	0	1	Dean Francis	null	导演 公路列车	0	0	null	null
+1	前坛村的面积	1500余亩	0	1	1500亩	null	面积 前坛村	0	0	null	null
+1	刺青设计大师的发行日期	2010-11-20	0	1	2010年11月20日	null	发行日期 刺青设计大师	0	0	null	null
+1	别望着我离开的演唱	<a>周慧敏</a>	0	0	null	null	演唱 别望着我离开	0	0	null	null
+1	八仙桌的成型年代	<a>明代</a>	0	0	null	null	成型年代 八仙桌	0	0	null	null
+1	北流市经信局的类型	政府部门	0	0	null	null	类型 北流市经信局	0	0	null	null
+1	兰州高新技术产业开发区的方言	<a>兰银官话</a>-金城片-<a>兰州话</a>	0	1	兰银官话-金城片-兰州话	null	方言 兰州高新技术产业开发区	0	0	null	null
+1	刘秉粹的国籍	中国	0	1	中国	null	国籍 刘秉粹	0	0	null	null
+1	十二个淘气的故事的页数	105	0	1	105页	null	页数 十二个淘气的故事	0	0	null	null
+1	历届考题名家解析政治理论的作者	余学本	0	1	余学本	null	作者 历届考题名家解析政治理论	0	0	null	null
+1	北京海利高科环保技术有限公司的成立时间	2008-11-12	0	1	2008年11月12日	null	成立时间 北京海利高科环保技术有限公司	0	0	null	null
+1	南京理工大学紫金学院人文与社会科学系的中文名	南京理工大学紫金学院人文与社会科学系	0	0	null	null	中文名 南京理工大学紫金学院人文与社会科学系	0	0	null	null
+1	公主的百草园的连载网站	云中书城	0	0	null	null	连载网站 公主的百草园	0	0	null	null
+1	千古大运河的书名	千古大运河	0	0	null	null	书名 千古大运河	0	0	null	null
+1	刘宗骐的职业	昆明书画院山水画家	0	1	昆明书画院山水画家	null	职业 刘宗骐	0	1	昆明书画院山水画家	null
+1	儿时记忆之初到新疆的小说进度	连载	0	0	null	null	小说进度 儿时记忆之初到新疆	0	0	null	null
+1	六西格玛在中国企业的实施质量与流程能力的双重提升的出版时间	2006年12月	0	0	null	null	出版时间 六西格玛在中国企业的实施质量与流程能力的双重提升	0	0	null	null
+1	刘凤山（沈阳师范大学教授）的职业	沈阳师范大学教授	0	0	null	null	职业 刘凤山（沈阳师范大学教授）	0	0	null	null
+1	军阀趣史的上映时间	1979年2月9日	0	1	1979-02-08，1979-02-09	null	上映时间 军阀趣史	0	0	null	null
+1	先天性心脏病/临床常见病诊疗丛书的开本	32	0	0	null	null	开本 先天性心脏病/临床常见病诊疗丛书	0	0	null	null
+1	内分泌科主治医生245问的作者	张巾超 编	0	1	张巾超	null	作者 内分泌科主治医生245问	0	0	null	null
+1	冥王之恋的中文名	冥王之恋	0	0	null	null	中文名 冥王之恋	0	0	null	null
+1	协整理论与波动模型的出版社	<a>清华大学出版社</a>	0	0	null	null	出版社 协整理论与波动模型	0	0	null	null
+1	初洛尘炎的连载网站	晋江文学城	0	0	null	null	连载网站 初洛尘炎	0	0	null	null
+1	前轮外倾的主要作用	使转向轻便	0	1	使转向轻便	null	主要作用 前轮外倾	1	0	null	1.前轮外倾主要作用是使转向轻便,使车轮紧靠轮毂内轴承,以减少外轴承及轮毂螺母的负荷,有利于安全行驶。
+1	叉尾鮠的亚纲	<a>辐鳍亚纲</a>	0	0	null	null	亚纲 叉尾鮠	0	0	null	null
+1	动画大师宫崎骏：国内首部系统解读宫崎骏动画的着作的作者	杨晓林	0	0	null	null	作者 动画大师宫崎骏：国内首部系统解读宫崎骏动画的着作	0	0	null	null
+1	卤化木质素的英文名	halogenated lignin	0	1	halogenated lignin	null	英文名 卤化木质素	0	0	null	null
+1	刘布民的民族	汉族	0	1	汉族	null	民族 刘布民	0	0	null	null
+1	博天糖业股份有限公司的公司名称	博天糖业股份有限公司	0	0	null	null	公司名称 博天糖业股份有限公司	1	0	null	博天糖业股份有限公司
+1	南瓜红豆粥的中文名	南瓜红豆粥	0	0	null	null	中文名 南瓜红豆粥	0	0	null	null
+1	四川广播电视大学的邮政区码	610021	0	1	610021	null	邮政区码 四川广播电视大学	0	0	null	null
+1	吴本芳的毕业院校	华东理工大学	0	1	华东理工大学	null	毕业院校 吴本芳	0	0	null	null
+1	叶舫的主要成就	参与制作过的电影：千里送京娘	0	0	null	null	主要成就 叶舫	0	0	null	null
+1	台儿庄特大桥的始建时间	1952年	0	1	1952年	null	始建时间 台儿庄特大桥	0	0	null	null
+1	垂枝欧洲山毛榉的分布区域	原产欧洲	0	0	null	null	分布区域 垂枝欧洲山毛榉	0	0	null	null
+1	天地劫序传：幽城幻剑录的出版社	智冠电子	0	0	null	null	出版社 天地劫序传：幽城幻剑录	0	0	null	null
+1	大丛藓的属	大丛藓属	0	1	大丛藓属	null	属 大丛藓	0	0	null	null
+1	叶豪的中文名	叶豪	0	0	null	null	中文名 叶豪	0	0	null	null
+1	后安岭村（河南省开封市通许县玉皇庙镇下辖村）的所属地区	中国华中	0	0	null	null	所属地区 后安岭村（河南省开封市通许县玉皇庙镇下辖村）	0	0	null	null
+1	天帷巨兽：赤龙板甲胸铠的需要等级	LV30级以上	0	0	null	null	需要等级 天帷巨兽：赤龙板甲胸铠	0	0	null	null
+1	大学自主招生试题解析与模拟：语文的中文名	大学自主招生试题解析与模拟:语文	0	0	null	null	中文名 大学自主招生试题解析与模拟：语文	0	0	null	null
+1	大沙头小学的创办时间	1951年	0	1	1951年	null	创办时间 大沙头小学	0	0	null	null
+1	吸功神决的连载网站	起点中文网	0	0	null	null	连载网站 吸功神决	0	0	null	null
+1	古铜黄灰蝶的亚纲	有翅亚纲	0	0	null	null	亚纲 古铜黄灰蝶	0	0	null	null
+1	天才生物家的连载网站	起点中文网	0	0	null	null	连载网站 天才生物家	0	0	null	null
+1	叶氏宗祠（广东省东莞市宗祠）的景点级别	古迹	0	0	null	null	景点级别 叶氏宗祠（广东省东莞市宗祠）	0	0	null	null
+1	地产大厦的占地面积	3572.57平方米	0	1	3572.57平方米	null	占地面积 地产大厦	0	0	null	null
+1	天津宝通达钢铁贸易有限公司的经营范围	无缝钢管	0	0	null	null	经营范围 天津宝通达钢铁贸易有限公司	0	0	null	null
+1	埃德蒙·格温的中文名	埃德蒙·格温	0	0	null	null	中文名 埃德蒙·格温	0	0	null	null
+1	吴官田村的海拔	1990米	0	1	1990米	null	海拔 吴官田村	0	0	null	null
+1	天堂里多了一把白雨伞的连载网站	好123小说	0	0	null	null	连载网站 天堂里多了一把白雨伞	0	0	null	null
+1	多伦多机场皮尔逊会议酒店的酒店星级	3星级	0	1	三星级	null	酒店星级 多伦多机场皮尔逊会议酒店	0	0	null	null
+1	台北中山足球场的面积	面积约55000平方米	0	1	面积约55000平方米	null	面积 台北中山足球场	0	0	null	null
+1	品膳房精菜坊的营业时间	全天10:30-20:30	0	0	null	null	营业时间 品膳房精菜坊	0	0	null	null
+1	嘿！狼看上你了的小说进度	连载	0	0	null	null	小说进度 嘿！狼看上你了	0	0	null	null
+1	另一个晴空的约定的作者	书者馨天下	0	1	书者馨天下	null	作者 另一个晴空的约定	0	0	null	null
+1	商务英语口语宝典配套带（2盒）的装帧	精装	0	0	null	null	装帧 商务英语口语宝典配套带（2盒）	0	0	null	null
+1	天地（黄家驹作曲歌曲）的填词	刘卓辉	0	0	null	null	填词 天地（黄家驹作曲歌曲）	1	0	null	1.林子祥-《天地》田震-《千秋思念》《天地》原曲是黄家驹留下的一个Demo，它的概念名称为...
+1	基因修者的中文名	基因修者	0	0	null	null	中文名 基因修者	0	0	null	null
+1	吴意的中文名	吴意	0	0	null	null	中文名 吴意	0	0	null	null
+1	天国爱人的作者	武德明	0	0	null	null	作者 天国爱人	0	0	null	null
+1	夏露娜·阿拉姆吉露的登场作品	《旋风管家》	0	1	旋风管家	null	登场作品 夏露娜·阿拉姆吉露	0	0	null	null
+1	吴自强（银川市第一人民医院副院长）的出生日期	1944-06-01	0	0	null	null	出生日期 吴自强（银川市第一人民医院副院长）	0	0	null	null
+1	夏后启得乐图的中文名	夏后启得乐图	0	0	null	null	中文名 夏后启得乐图	0	0	null	null
+1	夏也依然的中文名	夏也依然	0	0	null	null	中文名 夏也依然	0	0	null	null
+1	回家 （平装）的出版时间	1997年1月1日	0	1	1997年1月1日	null	出版时间 回家 （平装）	0	0	null	null
+1	和姚给事寓直之作的作品名称	<a>和姚给事寓直之作</a>	0	0	null	null	作品名称 和姚给事寓直之作	0	0	null	null
+1	周围神经外科病例分析的书名	周围神经外科病例分析	0	0	null	null	书名 周围神经外科病例分析	0	0	null	null
+1	多味滋肠粉机的公司	多味滋膳食管理服务部的一个公司	0	1	多味滋膳食管理服务部的一个公司	null	公司 多味滋肠粉机	0	0	null	null
+1	城子东口的外文名	Chengzidong Kou	0	1	Chengzidong Kou	null	外文名 城子东口	0	0	null	null
+1	大荞山自然村的面积	4.03平方公里	0	1	4.03平方千米	null	面积 大荞山自然村	0	0	null	null
+1	埃立特X6016的可选颜色	黑色	0	0	null	null	可选颜色 埃立特X6016	0	0	null	null
+1	图解经络穴位按摩快查手册的出版时间	2009-5-1	0	1	2009年5月1日	null	出版时间 图解经络穴位按摩快查手册	0	0	null	null
+1	基础美术阶梯训练：结构几何的出版时间	2011-7-1	0	1	2011年7月1日	null	出版时间 基础美术阶梯训练：结构几何	0	0	null	null
+1	吸血鬼学院-喵呜的连载网站	晋江文学城	0	0	null	null	连载网站 吸血鬼学院-喵呜	0	0	null	null
+1	呼叫中心的恋人的出品公司	朝日电视台	0	1	朝日电视台	null	出品公司 呼叫中心的恋人	0	0	null	null
+1	大剧院一室公寓的酒店地址	3 cours du Chapeau Rouge, 33000 波尔多	0	0	null	null	酒店地址 大剧院一室公寓	0	0	null	null
+1	圆明社区的所属地区	<a>广东省</a>珠海市	0	1	广东省珠海市	null	所属地区 圆明社区	0	0	null	null
+1	境外紧急救援保险的中文名	境外紧急救援保险	0	0	null	null	中文名 境外紧急救援保险	0	0	null	null
+1	商业票据印制标准解读的ISBN	9787800009396	0	0	null	null	ISBN 商业票据印制标准解读	0	0	null	null
+1	国际经济法学刊：第14卷第3期(2007)的定价	￥38.00元	0	0	null	null	定价 国际经济法学刊：第14卷第3期(2007)	0	0	null	null
+1	吴毅刚的民族	汉族	0	1	汉族	null	民族 吴毅刚	0	0	null	null
+1	喜迎国庆62周年的单位	：　套	0	0	null	null	单位 喜迎国庆62周年	0	0	null	null
+1	大学英语四级考试高分突破的页数	240	0	1	240页	null	页数 大学英语四级考试高分突破	0	0	null	null
+1	周策的职业	画家、作家	0	1	作家,画家	null	职业 周策	0	0	null	null
+1	咸宁学院信息网的学校	咸宁学院	0	0	null	null	学校 咸宁学院信息网	0	0	null	null
+1	喵星人的探险之旅的连载网站	17k小说网	0	0	null	null	连载网站 喵星人的探险之旅	0	0	null	null
+1	天津中远远大钢铁有限公司的总部地点	天津	0	1	天津	null	总部地点 天津中远远大钢铁有限公司	0	0	null	null
+1	噩梦之忆的中文名	噩梦之忆	0	0	null	null	中文名 噩梦之忆	0	0	null	null
+1	圣地摩坊公馆的物业公司	广州圣地物业管理有限公司	0	1	广州圣地物业管理有限公司	null	物业公司 圣地摩坊公馆	0	0	null	null
+1	地柑的界	植物界	0	1	植物界	null	界 地柑	0	0	null	null
+1	夏槐茶的功能	凉血止血、清泄肝热	0	0	null	null	功能 夏槐茶	0	0	null	null
+1	大崎义宣的出生日期	1526年	0	0	null	null	出生日期 大崎义宣	0	0	null	null
+1	大学意大利语教程2教师用书•生活面面观的ISBN	7513510636, 9787513510639	0	0	null	null	ISBN 大学意大利语教程2教师用书•生活面面观	0	0	null	null
+1	嘉职院论坛的类型	综合网络媒体平台	0	0	null	null	类型 嘉职院论坛	0	0	null	null
+1	天津如君商务酒店的酒店地址	天津市红桥区西站前街3号	0	0	null	null	酒店地址 天津如君商务酒店	0	0	null	null
+1	史密斯日记的日期	1863年10月16日起至11月29日止	0	1	1863年10月16日	null	日期 史密斯日记	0	0	null	null
+1	大乡里酒楼农家庄的地区	江门市	0	0	null	null	地区 大乡里酒楼农家庄	0	0	null	null
+1	大富翁！集合！的中文名	大富翁!集合!	0	0	null	null	中文名 大富翁！集合！	0	0	null	null
+1	地瓜游戏中心的专注方向	专注于<a>Android</a>精品游戏	0	0	null	null	专注方向 地瓜游戏中心	0	0	null	null
+1	坑东村（福建晋江县宝盖镇下辖村）的下辖地区	华南	0	0	null	null	下辖地区 坑东村（福建晋江县宝盖镇下辖村）	0	0	null	null
+1	城北村（安徽淮南市潘集区芦集镇下辖村）的耕地面积	2584亩	0	0	null	null	耕地面积 城北村（安徽淮南市潘集区芦集镇下辖村）	0	0	null	null
+1	天团de养成计划的小说进度	连载	0	0	null	null	小说进度 天团de养成计划	0	0	null	null
+1	塔峰镇的地理位置	蓝山县	0	1	蓝山县	null	地理位置 塔峰镇	0	0	null	null
+1	哈尔滨松北毅腾的中文名	哈尔滨松北毅腾	0	0	null	null	中文名 哈尔滨松北毅腾	0	0	null	null
+1	国学旨归的出版社	清华大学出版社	0	0	null	null	出版社 国学旨归	0	0	null	null
+1	图解中国学生解题方法全书·初中物理的出版社	辽宁教育出版社	0	0	null	null	出版社 图解中国学生解题方法全书·初中物理	0	0	null	null
+1	周松发（潮剧鼓师）的代表作品	《扫窗会》、《闹钗》、《辩十本》	0	0	null	null	代表作品 周松发（潮剧鼓师）	0	0	null	null
+1	多功能提取器的中文名	多功能提取器	0	0	null	null	中文名 多功能提取器	0	0	null	null
+1	大河小记者的隶属	《<a>大河报</a>》作文工作室	0	1	大河报作文工作室	null	隶属 大河小记者	0	0	null	null
+1	天书问道的小说进度	连载	0	0	null	null	小说进度 天书问道	0	0	null	null
+1	吴珩的出生地	剑浦	0	1	剑浦	null	出生地 吴珩	0	0	null	null
+1	在世界与世界的中心的厂商	Lump of Sugar	0	0	null	null	厂商 在世界与世界的中心	0	0	null	null
+1	叶氏宗祠（安徽省安庆市宗祠）的类型	宗祠	0	0	null	null	类型 叶氏宗祠（安徽省安庆市宗祠）	0	0	null	null
+1	大金FTXD25FV2CN的空调匹数	1P	0	1	1P	null	空调匹数 大金FTXD25FV2CN	0	0	null	null
+1	国际公司理财的出版社	中国建筑工业出版社	0	0	null	null	出版社 国际公司理财	0	0	null	null
+1	大众1L概念车的油箱容积	6.5升	0	1	6.5升	null	油箱容积 大众1L概念车	0	0	null	null
+1	合肥市阳光地带的物业类别	普通公寓	0	0	null	null	物业类别 合肥市阳光地带	0	0	null	null
+1	叔孙的拼音	shū sūn	0	0	null	null	拼音 叔孙	0	0	null	null
+1	吴煜（北京西苑医院肿瘤科主任医师）的职业	主任医师	0	0	null	null	职业 吴煜（北京西苑医院肿瘤科主任医师）	0	0	null	null
+1	复仇公主三人组的中文名	复仇公主三人组	0	0	null	null	中文名 复仇公主三人组	0	0	null	null
+1	大头儿子和小头爸爸：玩具医院的书名	大头儿子和小头爸爸：玩具医院	0	0	null	null	书名 大头儿子和小头爸爸：玩具医院	0	0	null	null
+1	周景安（遵化市政协专委一办副主任）的信仰	共产主义	0	0	null	null	信仰 周景安（遵化市政协专委一办副主任）	0	0	null	null
+1	后城的连载网站	红袖添香网	0	0	null	null	连载网站 后城	0	0	null	null
+1	壁柜的中文名	壁柜	0	0	null	null	中文名 壁柜	0	0	null	null
+1	土豆眼膜的适宜人群	大众	0	0	null	null	适宜人群 土豆眼膜	0	0	null	null
+1	夏真真的饰演	<a>张檬</a>	0	1	张檬	null	饰演 夏真真	0	0	null	null
+1	天津市河西区第六幼儿园的学校类型	幼儿园	0	0	null	null	学校类型 天津市河西区第六幼儿园	0	0	null	null
+1	同有iSUM520的中文名	同有iSUM520	0	0	null	null	中文名 同有iSUM520	0	0	null	null
+1	天才教授的发行日期	2006.02.15	0	1	2006年2月15日	null	发行日期 天才教授	0	0	null	null
+1	合肥市南岗中学的类型	中学	0	0	null	null	类型 合肥市南岗中学	0	0	null	null
+1	崇左市江州区江南第一小学的始建于	1957年9月	0	1	1957年9月	null	始建于 崇左市江州区江南第一小学	0	0	null	null
+1	头孢拉定的是否处方药	处方药	0	1	处方药	null	是否处方药 头孢拉定	0	0	null	null
+1	山东烟台建文职业学院的所属地区	中国山东	0	1	中国山东烟台市	null	所属地区 山东烟台建文职业学院	0	0	null	null
+1	嬷嬷河的小说进度	已完结	0	0	null	null	小说进度 嬷嬷河	0	0	null	null
+1	小小小正太：儿子，你别太拽！的作者	恋上殇	0	0	null	null	作者 小小小正太：儿子，你别太拽！	0	0	null	null
+1	妥的外文名	Properly	0	1	Properly	null	外文名 妥	0	0	null	null
+1	山西太铁联合物流有限公司的注册资本	9404万元	0	1	9404万人民币	null	注册资本 山西太铁联合物流有限公司	0	0	null	null
+1	天门市地方税务局的地点	天门市	0	0	null	null	地点 天门市地方税务局	0	0	null	null
+1	宏观经济学原理第4版的出版时间	2010-12-1	0	0	null	null	出版时间 宏观经济学原理第4版	0	0	null	null
+1	宗亲宴的朝代	清	0	1	清朝	null	朝代 宗亲宴	0	0	null	null
+1	川岛DH-8100B的功率	2100W	0	1	2100W	null	功率 川岛DH-8100B	0	0	null	null
+1	密卷2010：数学2的开本	16	0	0	null	null	开本 密卷2010：数学2	0	0	null	null
+1	孙星衍的主要成就	清著名藏书家	0	0	null	null	主要成就 孙星衍	0	0	null	null
+1	小学作文14个知识点必备的书名	小学作文14个知识点必备	0	0	null	null	书名 小学作文14个知识点必备	0	0	null	null
+1	宰金珉的职业	教授	0	0	null	null	职业 宰金珉	0	0	null	null
+1	左海学派的创始人	<a>陈寿祺</a>	0	1	陈寿祺	null	创始人 左海学派	0	0	null	null
+1	巧克力大理石吐司的主要营养成分	蛋白质	0	1	蛋白质	null	主要营养成分 巧克力大理石吐司	0	0	null	null
+1	小考拉冒险记的中文名	小考拉冒险记	0	0	null	null	中文名 小考拉冒险记	0	0	null	null
+1	宜宾竹海酒店的酒店地址	宜宾市长宁县竹海镇万岭服务区	0	0	null	null	酒店地址 宜宾竹海酒店	0	0	null	null
+1	女儿国轶事的连载网站	云中书城	0	0	null	null	连载网站 女儿国轶事	0	0	null	null
+1	小公主的折纸书——人物篇的定价	15.8	0	0	null	null	定价 小公主的折纸书——人物篇	0	0	null	null
+1	希瑞亚的国籍	印度	0	1	印度	null	国籍 希瑞亚	0	1	印度	null
+1	就爱淘券网的上线时间	2009年10月	0	1	2009年10月	null	上线时间 就爱淘券网	0	0	null	null
+1	嵌入式串口服务器的类别	串口链接	0	0	null	null	类别 嵌入式串口服务器	0	0	null	null
+1	尹隽的中文名	尹隽	0	0	null	null	中文名 尹隽	0	0	null	null
+1	寨头水村的耕地	600多亩	0	1	600亩	null	耕地 寨头水村	0	0	null	null
+1	夹芯板上安装的中文名	夹芯板上安装	0	0	null	null	中文名 夹芯板上安装	0	0	null	null
+1	工业统计学（第三版）的定价	18.80	0	0	null	null	定价 工业统计学（第三版）	0	0	null	null
+1	奔腾PCG2101的功率	2100W	0	1	2100W	null	功率 奔腾PCG2101	0	0	null	null
+1	帽状宽胸蛛的亚纲	柄腹亚纲	0	0	null	null	亚纲 帽状宽胸蛛	0	0	null	null
+1	太，上，皇的小妻子的连载网站	小说吧	0	0	null	null	连载网站 太，上，皇的小妻子	0	0	null	null
+1	宽铃钩蛾的拉丁学名	LEPIDOPTERA	0	1	Macrocilix maia (Leech，1888)	null	拉丁学名 宽铃钩蛾	0	0	null	null
+1	孙志林（浙江大学教授）的职业	浙江大学教授	0	0	null	null	职业 孙志林（浙江大学教授）	0	0	null	null
+1	对不起，纯属误会的中文名	对不起,纯属误会	0	0	null	null	中文名 对不起，纯属误会	0	0	null	null
+1	学园都市的叛逆之光的小说进度	连载	0	0	null	null	小说进度 学园都市的叛逆之光	0	0	null	null
+1	子弹壳工艺品的拼音	zǐ dàn ké gōng yì pǐn	0	0	null	null	拼音 子弹壳工艺品	0	0	null	null
+1	奥兰多国际大道索奈斯特ES套房酒店的房间数量	146	0	0	null	null	房间数量 奥兰多国际大道索奈斯特ES套房酒店	0	0	null	null
+1	她的召唤的主演	<a>吴闵硕</a>、<a>尹珍瑞</a>	0	0	null	null	主演 她的召唤	0	0	null	null
+1	平凡的修炼日子的中文名	平凡的修炼日子	0	0	null	null	中文名 平凡的修炼日子	0	0	null	null
+1	带肩比的中文名	带肩比	0	0	null	null	中文名 带肩比	0	0	null	null
+1	川海·汇景龙湾的楼盘名	川海·汇景龙湾	0	0	null	null	楼盘名 川海·汇景龙湾	0	0	null	null
+1	孙广相的民族	汉族	0	1	汉族	null	民族 孙广相	0	0	null	null
+1	宿怨论的中文名	宿怨论	0	0	null	null	中文名 宿怨论	0	0	null	null
+1	安卓聚宝盆的中文名	安卓聚宝盆	0	0	null	null	中文名 安卓聚宝盆	0	0	null	null
+1	守规则的人发展更好：企业员工三大纪律八项注意的出版社	求真出版社	0	0	null	null	出版社 守规则的人发展更好：企业员工三大纪律八项注意	0	0	null	null
+1	巴厘奈水疗宾馆的酒店星级	3星级	0	1	三星级	null	酒店星级 巴厘奈水疗宾馆	0	0	null	null
+1	席子坡村的行政区类别	村	0	0	null	null	行政区类别 席子坡村	0	0	null	null
+1	工装裤的特点	耐磨	1	0	null	什么是工装裤_百度知道	特点 工装裤	0	0	null	null
+1	寺西村（安徽凤台县顾桥镇下辖村）的人口	2725人	0	0	null	null	人口 寺西村（安徽凤台县顾桥镇下辖村）	0	0	null	null
+1	奇榜村的外文名称	QiBang	0	1	QiBang	null	外文名称 奇榜村	0	0	null	null
+1	常州市天翔特种玻璃有限公司的类型	公司	0	0	null	null	类型 常州市天翔特种玻璃有限公司	0	0	null	null
+1	对面的帅锅接招，嘿霍的作者	欣小祈	0	1	欣小祈	null	作者 对面的帅锅接招，嘿霍	0	0	null	null
+1	干豇豆红烧肉的口味	咸香	0	1	咸香	null	口味 干豇豆红烧肉	1	0	null	1.五花肉切成小块,放入沸水中焯2分钟后捞出,用水冲去浮沫,沥干水分
+1	孤单枪神的小说进度	连载	0	0	null	null	小说进度 孤单枪神	0	0	null	null
+1	展望（汉语词语）的拼音	zhǎnwàng	0	0	null	null	拼音 展望（汉语词语）	0	0	null	null
+1	宫运生的国籍	中国	0	0	null	null	国籍 宫运生	0	0	null	null
+1	安群涛的国籍	中国	0	1	中国	null	国籍 安群涛	0	0	null	null
+1	夺命来客的影片名称	夺命来客	0	0	null	null	影片名称 夺命来客	0	0	null	null
+1	宿迁市光明家政服务部的备案	公安	0	0	null	null	备案 宿迁市光明家政服务部	0	0	null	null
+1	小型诺威奇梗的门	脊索动物门	0	0	null	null	门 小型诺威奇梗	0	0	null	null
+1	姚明辉（桂平市机关事务局办公室主任）的民族	汉族	0	0	null	null	民族 姚明辉（桂平市机关事务局办公室主任）	0	0	null	null
+1	学园默示录之崩坏的世界的中文名	学园默示录之崩坏的世界	0	0	null	null	中文名 学园默示录之崩坏的世界	0	0	null	null
+1	小学奥数训练全类举一反三的页数	136	0	1	136页	null	页数 小学奥数训练全类举一反三	0	0	null	null
+1	媚骨生香眷温床的中文名	媚骨生香眷温床	0	0	null	null	中文名 媚骨生香眷温床	0	0	null	null
+1	妖男，你别嚣张！的作者	lulu369038786	0	0	null	null	作者 妖男，你别嚣张！	0	0	null	null
+1	山豆根小煤炱的产地	中国	0	1	中国	null	产地 山豆根小煤炱	0	0	null	null
+1	尼梅特的身高	182厘米	0	1	182厘米	null	身高 尼梅特	0	0	null	null
+1	工科无机化学实验的页数	97	0	1	97页	null	页数 工科无机化学实验	0	0	null	null
+1	审判证据的出版时间	2003-8	0	1	2003年8月	null	出版时间 审判证据	0	0	null	null
+1	孔毓琼的所处时代	康熙十四年	0	1	康熙十四年	null	所处时代 孔毓琼	0	0	null	null
+1	天籁之歌的连载网站	起点中文网	0	0	null	null	连载网站 天籁之歌	0	0	null	null
+0	女王（辽宁卫视新节目《北方影院》打造的自制电影）的制片人	白彩云	0	0	null	null	制片人 女王（辽宁卫视新节目《北方影院》打造的自制电影）	0	0	null	null
+1	太壶寺大殿的气候类型	温带季风性气候	0	0	null	null	气候类型 太壶寺大殿	0	0	null	null
+1	太阳底下（2003年孙燕姿演唱歌曲）的发行时间	2003年08月	0	0	null	null	发行时间 太阳底下（2003年孙燕姿演唱歌曲）	0	0	null	null
+1	左权将军家书的出版时间	2002-5	0	1	2002年5月	null	出版时间 左权将军家书	0	0	null	null
+1	天语B909的网络类型	双卡单模	0	0	null	null	网络类型 天语B909	0	0	null	null
+1	嵊州市恒一机械有限公司的类型	机械	0	0	null	null	类型 嵊州市恒一机械有限公司	0	0	null	null
+1	宜都市松木坪镇青山坡煤矿的成立时间	一九七二年	0	1	1972年	null	成立时间 宜都市松木坪镇青山坡煤矿	0	0	null	null
+1	孙丽岩（厦门大学法学院副教授）的出生日期	1975年	0	0	null	null	出生日期 孙丽岩（厦门大学法学院副教授）	0	0	null	null
+1	天路公考网上冲浪的ISBN	9787113100056	0	0	null	null	ISBN 天路公考网上冲浪	0	0	null	null
+1	威廉·达文南特的性别	男	0	1	男	null	性别 威廉·达文南特	0	1	男	null
+1	威尔士新港学院的英文名	University of Wales College, Newport	0	1	University of Wales College, Newport	null	英文名 威尔士新港学院	1	0	null	威尔士新港大学英文名是什么? - 立思辰留学
+1	奈梅西斯Q的制造	由天戏弥勒的姐姐制造	0	0	null	null	制造 奈梅西斯Q	0	0	null	null
+1	实用维生素矿物质补充剂手册的出版时间	1	0	1	1年	null	出版时间 实用维生素矿物质补充剂手册	0	0	null	null
+1	小机灵学英语·第2册的出版时间	2003-7-1	0	1	2003年7月1日	null	出版时间 小机灵学英语·第2册	0	0	null	null
+1	宋代法律体系与中华法系的作者	<a>吕志兴</a>	0	1	吕志兴	null	作者 宋代法律体系与中华法系	0	0	null	null
+1	巨龙IP Board-85的中文名	巨龙IP Board-85	0	0	null	null	中文名 巨龙IP Board-85	0	0	null	null
+1	平客（中国著名传媒人、主持人、乐评人）的职业	传媒人	0	0	null	null	职业 平客（中国著名传媒人、主持人、乐评人）	0	0	null	null
+1	巷口村（江西大余县新城镇巷口村）的地理位置	江西省赣州市<a>大余县</a>新城镇东部	0	0	null	null	地理位置 巷口村（江西大余县新城镇巷口村）	0	0	null	null
+1	就你还写小说呢的作者	kangala	0	0	null	null	作者 就你还写小说呢	0	0	null	null
+1	子耳彝族乡的所属地区	<a>四川</a>省甘孜藏族自治州<a>九龙县</a>	0	1	四川省甘孜藏族自治州九龙县	null	所属地区 子耳彝族乡	0	0	null	null
+1	太吉自然村的面积	3.48平方公里	0	1	3.48平方千米	null	面积 太吉自然村	0	0	null	null
+1	少林五祖（民间传说）的出生地	江西	0	0	null	null	出生地 少林五祖（民间传说）	0	0	null	null
+1	实验校的风流往事的小说进度	连载	0	0	null	null	小说进度 实验校的风流往事	0	0	null	null
+1	子夜不语阴阳之战的连载网站	新浪读书	0	0	null	null	连载网站 子夜不语阴阳之战	0	0	null	null
+1	小三的小三的作者	周海君	0	1	周海君	null	作者 小三的小三	0	0	null	null
+1	岳强（莆田市景凤山饮用水厂长）的民族	汉	0	0	null	null	民族 岳强（莆田市景凤山饮用水厂长）	0	0	null	null
+1	巫骑的小说进度	连载	0	0	null	null	小说进度 巫骑	0	0	null	null
+1	希腊政治理论（上·下）的出版时间	2011-1	0	1	2011年1月	null	出版时间 希腊政治理论（上·下）	0	0	null	null
+1	少年心性的连载网站	晋江文学城	0	0	null	null	连载网站 少年心性	0	0	null	null
+1	安妮·塞克斯顿的国籍	美国	0	1	美国	null	国籍 安妮·塞克斯顿	0	1	美国	null
+1	恋情十二点的作者	天层	0	0	null	null	作者 恋情十二点	0	0	null	null
+1	御姐玫瑰:特别版的开发商	TAMSOFT	0	0	null	null	开发商 御姐玫瑰:特别版	0	0	null	null
+1	戛纳花园酒店的周围景观	城堡博物馆、影节宫、戛纳电影节、星光大道、自由林荫道、棕榈海滩赌场、节庆会议宫、梅纳迪耶街、圣玛格丽特岛、戛纳港口、小十字大道	0	0	null	null	周围景观 戛纳花园酒店	0	0	null	null
+1	廖鹏（东南大学港航系副教授）的性别	男	0	0	null	null	性别 廖鹏（东南大学港航系副教授）	0	0	null	null
+1	悟玄篇的作品类型	气功内丹术著作	0	0	null	null	作品类型 悟玄篇	0	0	null	null
+1	抢救维纳斯的开本	：32 开	0	0	null	null	开本 抢救维纳斯	0	0	null	null
+1	恩施民居的作者	北京大学建筑学研究中心 聚落研究小组                       /            湖北省住房和城乡建设厅                       /            湖北省恩施土家族苗族自治州住房和城乡建设委员会                       /            王昀 方海 马磊 丁晨 宋可 张杨 杨远帆等	0	0	null	null	作者 恩施民居	0	0	null	null
+1	情别阑珊处的中文名	情别阑珊处	0	0	null	null	中文名 情别阑珊处	0	0	null	null
+1	怒海潜航的中文名	怒海潜航	0	0	null	null	中文名 怒海潜航	0	0	null	null
+1	德洛尔酒店的房间数量	11	0	0	null	null	房间数量 德洛尔酒店	0	0	null	null
+1	我属于中国的艺人	彭丽媛	0	0	null	null	艺人 我属于中国	0	0	null	null
+1	异界修圣的中文名	异界修圣	0	0	null	null	中文名 异界修圣	0	0	null	null
+1	张迁营村的海拔	1680米	0	1	1680米	null	海拔 张迁营村	0	0	null	null
+1	强婚刺铃蟾的中文学名	强婚刺铃蟾	0	0	null	null	中文学名 强婚刺铃蟾	0	0	null	null
+1	我的中国梦（网络文化活动）的主办	中国青年网	0	0	null	null	主办 我的中国梦（网络文化活动）	0	0	null	null
+1	拿利亚路卡斯的英文名	LucasSebastianNania	0	1	LucasSebastianNania	null	英文名 拿利亚路卡斯	0	0	null	null
+1	应变：迷悟之间的出版社	<a>中华书局</a>	0	0	null	null	出版社 应变：迷悟之间	0	0	null	null
+1	广艺的简称	<a>广艺</a>	0	1	广艺
+                                                                                                                 (GXAU)	null	简称 广艺	1	0	null	广西艺术学院是一本吗_高三网
+0	我和我的鬼男友的连载网站	红袖添香网	0	0	null	null	连载网站 我和我的鬼男友	0	0	null	null
+1	广州格丽特建材有限公司的中文名	广州格丽特建材有限公司	0	0	null	null	中文名 广州格丽特建材有限公司	0	0	null	null
+1	忍界·大唐忍者秘史的中文名	忍界·大唐忍者秘史	0	0	null	null	中文名 忍界·大唐忍者秘史	0	0	null	null
+1	微电影广告的中文名	微电影广告	0	0	null	null	中文名 微电影广告	0	0	null	null
+1	库里米拉的中文名	库里米拉	0	0	null	null	中文名 库里米拉	0	0	null	null
+1	开口型平圆头抽芯铆钉 12级的标准号	GB/T 12618.3-2006	0	0	null	null	标准号 开口型平圆头抽芯铆钉 12级	0	0	null	null
+1	应对与安全的ISBN	9787300053745	0	0	null	null	ISBN 应对与安全	0	0	null	null
+1	微积分辅导及习题全解修订版的出版时间	2007年08月	0	1	2007年8月	null	出版时间 微积分辅导及习题全解修订版	0	0	null	null
+1	广州市彼博会议服务有限公司的简称	彼博会务	0	1	彼博会务	null	简称 广州市彼博会议服务有限公司	0	0	null	null
+1	彩珠绣的第二条	展示方式	0	0	null	null	第二条 彩珠绣	0	0	null	null
+1	总裁老公的脸好大的小说进度	连载	0	0	null	null	小说进度 总裁老公的脸好大	0	0	null	null
+1	张锐（中国农业大学副研究员）的国籍	中国	0	0	null	null	国籍 张锐（中国农业大学副研究员）	0	0	null	null
+1	张小占村的中文名	张小占村	0	0	null	null	中文名 张小占村	0	0	null	null
+1	德累斯顿陆军军官学校的创办时间	1956年	0	1	1956年	null	创办时间 德累斯顿陆军军官学校	0	0	null	null
+1	徐克勤（中国科学院院士地质学家）的出生日期	1907年3月	0	0	null	null	出生日期 徐克勤（中国科学院院士地质学家）	0	0	null	null
+1	戴尔Inspiron 灵越 14（Ins14VD-1318）的中文名	戴尔Inspiron 灵越 14（Ins14VD-1318）	0	0	null	null	中文名 戴尔Inspiron 灵越 14（Ins14VD-1318）	0	0	null	null
+1	御灵女神的作者	灵颖儿	0	1	颖儿	null	作者 御灵女神	0	0	null	null
+1	成都金星大酒店的中文名	成都金星大酒店	0	0	null	null	中文名 成都金星大酒店	0	0	null	null
+1	我家有条美女蛇的中文名	我家有条美女蛇	0	0	null	null	中文名 我家有条美女蛇	0	0	null	null
+1	彭继军的民族	汉族	0	1	汉族	null	民族 彭继军	0	0	null	null
+1	幽冥地皇的小说进度	连载	0	0	null	null	小说进度 幽冥地皇	0	0	null	null
+1	恕鸳鸯的小说进度	连载	0	0	null	null	小说进度 恕鸳鸯	0	0	null	null
+1	我，机器人（2DVD9 铁盒珍藏版）的定价	108.0	0	0	null	null	定价 我，机器人（2DVD9 铁盒珍藏版）	0	0	null	null
+1	户用沼气高效使用技术一点通的出版社	科学出版社	0	0	null	null	出版社 户用沼气高效使用技术一点通	0	0	null	null
+1	慧莲功的要点	以佛心、他心是我心、以小腹为中心划圆圈	0	0	null	null	要点 慧莲功	0	0	null	null
+1	广州市番禺区钟村广德饰品厂的公司名称	广州市番禺区钟村广德饰品厂	0	0	null	null	公司名称 广州市番禺区钟村广德饰品厂	0	0	null	null
+1	当冯蘅遇见斯内普的作者	Belinda	0	1	Belinda	null	作者 当冯蘅遇见斯内普	0	0	null	null
+1	店头镇（陕西省黄陵县店头镇）的中文名	店头镇	0	0	null	null	中文名 店头镇（陕西省黄陵县店头镇）	0	0	null	null
+1	张宇晨的民族	汉族	0	1	汉族	null	民族 张宇晨	0	0	null	null
+1	广乙、广丙的时间	1887年、1888年	0	1	1888年，1887年	null	时间 广乙、广丙	0	0	null	null
+1	拉里·莫斯的国籍	美国	0	1	美国	null	国籍 拉里·莫斯	0	0	null	null
+1	德克士（盐市口店）的人均价格	22	0	0	null	null	人均价格 德克士（盐市口店）	0	0	null	null
+1	我的心灵牧场的歌曲语言	华语	0	0	null	null	歌曲语言 我的心灵牧场	0	0	null	null
+1	御灵之陆的中文名	御灵之陆	0	0	null	null	中文名 御灵之陆	0	0	null	null
+1	战气之颠的小说进度	连载	0	0	null	null	小说进度 战气之颠	0	0	null	null
+1	志高KFR-25GW/MD(M76A)+1的适用面积	10-15㎡	0	0	null	null	适用面积 志高KFR-25GW/MD(M76A)+1	0	0	null	null
+1	拜尔（郑州拜尔口腔医院）的总部地点	郑州市市中心	0	0	null	null	总部地点 拜尔（郑州拜尔口腔医院）	0	0	null	null
+1	拍拍手我爱你的小说进度	连载	0	0	null	null	小说进度 拍拍手我爱你	0	0	null	null
+1	微机控制万能试验机的位移分辨率	0.01mm	0	1	0.01毫米	null	位移分辨率 微机控制万能试验机	0	0	null	null
+1	异世双龙传的连载网站	起点中文网	0	0	null	null	连载网站 异世双龙传	0	0	null	null
+1	强氧RS1500S G2的中文名	强氧RS1500S G2	0	0	null	null	中文名 强氧RS1500S G2	0	0	null	null
+1	惊爆火暴龙的商品重量	118 g	0	1	118克	null	商品重量 惊爆火暴龙	0	0	null	null
+1	彭吉东的出生日期	1963.3-	0	0	null	null	出生日期 彭吉东	0	0	null	null
+1	心智图笔记的软件名称	心智图笔记	0	0	null	null	软件名称 心智图笔记	0	0	null	null
+1	弑神列传的类型	东方玄幻	0	0	null	null	类型 弑神列传	0	0	null	null
+1	慧丰寺的原名	极乐集福寺	0	1	极乐集福寺	null	原名 慧丰寺	0	0	null	null
+1	我不是Cinderell的作者	幽冥唯以	0	0	null	null	作者 我不是Cinderell	0	0	null	null
+1	微星GX710的处理器型号	AMD	0	0	null	null	处理器型号 微星GX710	0	0	null	null
+1	成都市如家快捷酒店（人民公园店）的商业区域	市中心文化区	0	0	null	null	商业区域 成都市如家快捷酒店（人民公园店）	0	0	null	null
+1	拯救金小麦的小说进度	连载	0	0	null	null	小说进度 拯救金小麦	0	0	null	null
+1	慧日雅和尚赞的文学体裁	词	0	1	词	null	文学体裁 慧日雅和尚赞	0	0	null	null
+1	庙北山村的中文名	庙北山村	0	0	null	null	中文名 庙北山村	0	0	null	null
+1	恶意接管的所属范畴	经济行为	0	0	null	null	所属范畴 恶意接管	0	0	null	null
+1	成都圣仕达清洁设备有限公司的公司性质	有限公司	0	0	null	null	公司性质 成都圣仕达清洁设备有限公司	0	0	null	null
+1	扁果毛茛的门	被子植物门(Magnoliophyta)	0	1	被子植物门(Magnoliophyta)	null	门 扁果毛茛	0	0	null	null
+1	建筑可视化教材水晶石实训系列：室内表现的书名	建筑可视化教材水晶石实训系列：室内表现	0	0	null	null	书名 建筑可视化教材水晶石实训系列：室内表现	0	0	null	null
+1	徐光华（南京理工大学教授）的国籍	中国	0	0	null	null	国籍 徐光华（南京理工大学教授）	0	0	null	null
+1	幽灵船上找数字的外文名	Ghost Ship Find Numbers	0	1	Ghost Ship Find Numbers	null	外文名 幽灵船上找数字	0	0	null	null
+1	我的第一本心灵能量书的出版时间	2012年6月1日	0	1	2012年6月1日	null	出版时间 我的第一本心灵能量书	0	0	null	null
+1	扬子（青年演员）的中文名	杨子	0	0	null	null	中文名 扬子（青年演员）	0	0	null	null
+1	彩虹桥酒店的酒店星级	3星级	0	1	三星级	null	酒店星级 彩虹桥酒店	0	0	null	null
+1	成龙的特技的片长	96分钟	0	1	1小时36分钟	null	片长 成龙的特技	0	0	null	null
+1	张亚婷的出生日期	1973年10月	0	1	1973年10月	null	出生日期 张亚婷	0	1	1973年10月	null
+1	张棉军的国籍	中国	0	1	中国	null	国籍 张棉军	0	1	中国	null
+1	情陷夜郎故国的连载网站	红袖添香网	0	0	null	null	连载网站 情陷夜郎故国	0	0	null	null
+1	庞义华的职务	黑龙江省纪委副书记	0	0	null	null	职务 庞义华	0	0	null	null
+1	张之洞（唐浩明编著图书）的ISBN	978-7-5155-0046-1	0	0	null	null	ISBN 张之洞（唐浩明编著图书）	0	0	null	null
+1	我学精神病的作者	N幕席雨	0	0	null	null	作者 我学精神病	0	0	null	null
+1	惑晓的中文名	惑晓	0	0	null	null	中文名 惑晓	0	0	null	null
+1	幽灵之王的ISBN	9787501604715	0	0	null	null	ISBN 幽灵之王	0	0	null	null
+1	康宝C16-22I的控制方式	电脑式控制	0	0	null	null	控制方式 康宝C16-22I	0	0	null	null
+1	憩折山市的作者	袁甫	0	1	袁甫	null	作者 憩折山市	0	0	null	null
+1	把话说到别人的心窝里的小说进度	连载	0	0	null	null	小说进度 把话说到别人的心窝里	0	0	null	null
+1	微星Z240 MD512T D3B的中文名	微星Z240 MD512T D3B	0	0	null	null	中文名 微星Z240 MD512T D3B	0	0	null	null
+1	德宝斋的创办者	李诚甫	0	1	李诚甫	null	创办者 德宝斋	0	0	null	null
+1	戏妻的小说进度	已完结	0	0	null	null	小说进度 戏妻	0	0	null	null
+1	广西大学学生女性协会的倡导	促进社会协调发展、性别平等	0	0	null	null	倡导 广西大学学生女性协会	0	0	null	null
+1	恶魔公主的游戏类型	装扮小游戏	0	1	装扮类	null	游戏类型 恶魔公主	0	0	null	null
+1	康佳LED46IS97N的屏幕尺寸	46英寸	0	0	null	null	屏幕尺寸 康佳LED46IS97N	0	0	null	null
+1	慢慢悠悠日本游的中文名	慢慢悠悠日本游	0	0	null	null	中文名 慢慢悠悠日本游	0	0	null	null
+1	成就一生金口才的出版时间	2008年	0	1	2008年	null	出版时间 成就一生金口才	0	0	null	null
+1	庞非的主要成就	现供职于遵义广播电视台、记者、编辑。系遵义市作家协会理事	0	0	null	null	主要成就 庞非	0	0	null	null
+1	扩大再生产投资的释义	扩大企业生产经营规模进行的投资	0	1	扩大企业生产经营规模进行的投资	null	释义 扩大再生产投资	0	0	null	null
+1	最后的机器人的中文名	最后的机器人	0	0	null	null	中文名 最后的机器人	0	0	null	null
+1	政府电子文档管理的作者	陈次白	0	1	陈次白	null	作者 政府电子文档管理	0	0	null	null
+1	新疆交通科学研究院的中文名	新疆交通科学研究院	0	0	null	null	中文名 新疆交通科学研究院	0	0	null	null
+1	普通混凝土用砂、石质量及检验方法标准的出版社	中国建筑工业出版社	0	0	null	null	出版社 普通混凝土用砂、石质量及检验方法标准	1	0	null	《普通混凝土用砂石质量及检验方法标准》_百度知道
+1	新沙甸回族乡的中文名	新沙甸回族乡	0	0	null	null	中文名 新沙甸回族乡	0	0	null	null
+1	机电测控系列实验教材·微机接口实验教程的书名	机电测控系列实验教材·微机接口实验教程	0	0	null	null	书名 机电测控系列实验教材·微机接口实验教程	0	0	null	null
+1	新奇立体手工：超酷车辆的ISBN	7122098451	0	0	null	null	ISBN 新奇立体手工：超酷车辆	0	0	null	null
+1	曹知谛的职业	画家	0	0	null	null	职业 曹知谛	0	0	null	null
+0	李翔一的国籍	中国	0	0	null	null	国籍 李翔一	0	0	null	null
+1	新型办公电器故障快速检修实例精选的书名	新型办公电器故障快速检修实例精选	0	0	null	null	书名 新型办公电器故障快速检修实例精选	0	0	null	null
+1	杜塞尔多夫的漂魂的作者	殇喜	0	0	null	null	作者 杜塞尔多夫的漂魂	0	0	null	null
+1	方明（北冀书苑名誉苑长）的国籍	中国	0	0	null	null	国籍 方明（北冀书苑名誉苑长）	0	0	null	null
+1	晨光烧饼（盘古路店）的餐馆名称	晨光烧饼(盘古路店)	0	0	null	null	餐馆名称 晨光烧饼（盘古路店）	0	0	null	null
+1	杜蘅汤的处方来源	方出《肘后方》卷四	0	0	null	null	处方来源 杜蘅汤	0	0	null	null
+1	星界的战旗3 OVA的英文名	Seikai no Senki III	0	1	Seikai no Senki III	null	英文名 星界的战旗3 OVA	0	0	null	null
+1	机械制图测绘实训指导的ISBN	978-7-5611-5160-0	0	0	null	null	ISBN 机械制图测绘实训指导	0	0	null	null
+1	敏感高中生的秘密爱情：初恋这味道的中文名	敏感高中生的秘密爱情：初恋这味道	0	0	null	null	中文名 敏感高中生的秘密爱情：初恋这味道	0	0	null	null
+1	朱利恩·德·萨特的国籍	比利时	0	1	比利时	null	国籍 朱利恩·德·萨特	0	0	null	null
+1	日本刑事诉讼法通论的页数	411	0	1	411页	null	页数 日本刑事诉讼法通论	0	0	null	null
+1	旗舰出海的作者	郭飞	0	1	郭飞	null	作者 旗舰出海	0	0	null	null
+1	李贵扬的中文名	李贵扬	0	0	null	null	中文名 李贵扬	0	0	null	null
+1	朱邦伍的出生日期	1893	0	0	null	null	出生日期 朱邦伍	0	0	null	null
+1	曾麟舒的毕业院校	中央戏剧学院	0	1	中央戏剧学院	null	毕业院校 曾麟舒	0	1	中央戏剧学院	null
+1	星辰变续之星辰碎的作者	轮回一千次	0	0	null	null	作者 星辰变续之星辰碎	0	0	null	null
+1	新科技英语的开本	16开	0	0	null	null	开本 新科技英语	0	0	null	null
+1	杨国庆（河北省保定市发展和改革委员会副主任）的职业	河北省保定市发展和改革委员会副主任	0	0	null	null	职业 杨国庆（河北省保定市发展和改革委员会副主任）	0	0	null	null
+1	教育学专业基础实战练习的出版社	北京师范大学出版社	0	0	null	null	出版社 教育学专业基础实战练习	0	0	null	null
+1	李世成（新乡市国土局副局长）的职业	新乡市国土局副局长	0	0	null	null	职业 李世成（新乡市国土局副局长）	0	0	null	null
+1	无锡学富贷网络科技有限公司的公司口号	普惠金融  阳光金融”	0	0	null	null	公司口号 无锡学富贷网络科技有限公司	0	0	null	null
+1	新赌神传奇的中文名	新赌神传奇	0	0	null	null	中文名 新赌神传奇	0	0	null	null
+1	李诗诗的出版时间	2007-5-1	0	1	2007年5月1日	null	出版时间 李诗诗	0	0	null	null
+1	机械法则的小说进度	连载	0	0	null	null	小说进度 机械法则	0	0	null	null
+1	曾燕伟的学历	材料专业工学硕士	0	0	null	null	学历 曾燕伟	0	0	null	null
+1	新竹老爷大饭店的房间数量	208	0	0	null	null	房间数量 新竹老爷大饭店	0	0	null	null
+1	政教处的目的	为学生全面素质提高起导向作用	0	0	null	null	目的 政教处	0	0	null	null
+1	新川的身份	超能力者	0	1	超能力者	null	身份 新川	0	0	null	null
+1	杰佛瑞迪佛的黑色礼物的定价	NT$350	0	0	null	null	定价 杰佛瑞迪佛的黑色礼物	0	0	null	null
+1	李远友的出生日期	1964年	0	0	null	null	出生日期 李远友	0	0	null	null
+1	无过便是功，无怨便是德的中文名	无过便是功、无怨便是德	0	0	null	null	中文名 无过便是功，无怨便是德	0	0	null	null
+1	李晶（南开大学外国语学院副教授）的国籍	中国	0	0	null	null	国籍 李晶（南开大学外国语学院副教授）	0	0	null	null
+1	明清文法理论研究的出版时间	2007-10-01	0	1	2007年10月1日	null	出版时间 明清文法理论研究	0	0	null	null
+1	日本语教育振兴协会的中文名	日本语教育振兴协会	0	0	null	null	中文名 日本语教育振兴协会	0	0	null	null
+1	春来秋去望江南的中文名	春来秋去望江南	0	0	null	null	中文名 春来秋去望江南	0	0	null	null
+1	朝中措张允济子满啐的作者	蒲道源	0	1	蒲道源	null	作者 朝中措张允济子满啐	0	0	null	null
+1	杨三省的出生日期	1963年01月	0	1	1963年1月	null	出生日期 杨三省	0	1	1963年1月	null
+1	杨芙莲的出生日期	1965年12月22日	0	1	1965年12月22日(摩羯座)	null	出生日期 杨芙莲	0	1	1965年12月22日(摩羯座)	null
+1	智酷H6的操作系统	Android 4.0	0	0	null	null	操作系统 智酷H6	0	0	null	null
+1	曾玉惠的中文名	曾玉惠	0	0	null	null	中文名 曾玉惠	0	0	null	null
+1	条码扫描器安卓版的外文名	Barcode Scanner	0	1	Barcode Scanner	null	外文名 条码扫描器安卓版	0	0	null	null
+1	无限修行的作者	huangdaxia	0	0	null	null	作者 无限修行	0	0	null	null
+1	明代韬略的出版社	长江文艺出版社	0	0	null	null	出版社 明代韬略	0	0	null	null
+1	故宫经典：明清宫廷宝具的出版时间	2008-04-01	0	1	2008年4月1日	null	出版时间 故宫经典：明清宫廷宝具	0	0	null	null
+1	朵拉救白雪公主的如何开始	加载后点开始	1	0	null	1.操作方法:游戏使用鼠标操作,移动鼠标控制朵拉运动。	如何开始 朵拉救白雪公主	0	0	null	null
+1	斑爷要h的小说进度	连载	0	0	null	null	小说进度 斑爷要h	0	0	null	null
+1	曲维光的中文名	曲维光	0	0	null	null	中文名 曲维光	0	0	null	null
+1	极速狂徒的中文名	极速狂徒	0	0	null	null	中文名 极速狂徒	0	0	null	null
+1	撕碎的红舞裙的ISBN	9787537127196	0	0	null	null	ISBN 撕碎的红舞裙	0	0	null	null
+1	文化接触的分类	同化、融合、涵化	0	0	null	null	分类 文化接触	0	0	null	null
+1	政治科学研究方法的出版时间	2006-5-1	0	1	2006年5月1日	null	出版时间 政治科学研究方法	0	0	null	null
+1	有碼的日本称为	“修正”	0	0	null	null	日本称为 有碼	0	0	null	null
+1	机械工程英语教程的作者	张力	0	1	张力	null	作者 机械工程英语教程	0	0	null	null
+1	放笔的释义	纵笔	0	0	null	null	释义 放笔	0	0	null	null
+1	星坠大地，天降天机的连载网站	晋江文学城	0	0	null	null	连载网站 星坠大地，天降天机	0	0	null	null
+1	数学三年级下册素质教育新学案·的出版时间	2003-12-01	0	1	2003年12月1日	null	出版时间 数学三年级下册素质教育新学案·	0	0	null	null
+1	杏仁燕麦酥的菜名	杏仁燕麦酥	0	0	null	null	菜名 杏仁燕麦酥	0	0	null	null
+1	新花园村的行政区类别	村	0	0	null	null	行政区类别 新花园村	0	0	null	null
+1	昊天大厦的地区	长沙	0	0	null	null	地区 昊天大厦	0	0	null	null
+1	望蓬莱的职业	诗人	0	0	null	null	职业 望蓬莱	0	0	null	null
+1	摄影大师之道：数码单反摄影从入门到完全精通的ISBN	9787894764416	0	0	null	null	ISBN 摄影大师之道：数码单反摄影从入门到完全精通	0	0	null	null
+1	时白林黄梅戏音乐唱腔选集的中文名	时白林黄梅戏音乐唱腔选集	0	0	null	null	中文名 时白林黄梅戏音乐唱腔选集	0	0	null	null
+1	无爻的连载网站	起点中文网	0	0	null	null	连载网站 无爻	0	0	null	null
+1	李荣娣的性别	女	0	1	女	null	性别 李荣娣	0	0	null	null
+1	无机盐的特指	<a>无机化合物</a>中的<a>盐类</a>	0	0	null	null	特指 无机盐	0	0	null	null
+1	曲力的毕业院校	山西医科大学医学系	0	1	山西医科大学医学系	null	毕业院校 曲力	0	1	山西医科大学医学系	null
+1	最新个人所得税疑难解答的作者	李晶	0	1	李晶	null	作者 最新个人所得税疑难解答	0	0	null	null
+1	李清（湖南售假农民）的出生地	<a>桂阳县</a>	0	0	null	null	出生地 李清（湖南售假农民）	0	0	null	null
+1	最高人民法院关于加强和改进人民法院督促检查工作的若干意见的中文名	最高人民法院关于加强和改进人民法院督促检查工作的若干意见	0	0	null	null	中文名 最高人民法院关于加强和改进人民法院督促检查工作的若干意见	0	0	null	null
+1	杨超凡色彩静物/美术高考名家教学典范的定价	35.80元	0	0	null	null	定价 杨超凡色彩静物/美术高考名家教学典范	0	0	null	null
+1	李祥鹤的性别	男	0	1	男	null	性别 李祥鹤	0	0	null	null
+1	望山桥的中文名	望山桥	0	0	null	null	中文名 望山桥	0	0	null	null
+1	斟尚（厦门）酒业有限公司的主要原料	小麦、高粱	0	0	null	null	主要原料 斟尚（厦门）酒业有限公司	0	0	null	null
+1	斑点蓝舌石龙子的中文学名	斑点蓝舌石龙子	0	0	null	null	中文学名 斑点蓝舌石龙子	0	0	null	null
+1	斯帕拉图斯青年旅馆的酒店星级	3星级	0	1	三星级	null	酒店星级 斯帕拉图斯青年旅馆	0	0	null	null
+1	李步膺的出生地	湖南安化	0	1	湖南安化	null	出生地 李步膺	0	0	null	null
+1	权利竞争：控制行政裁量权的制度选择的出版社	人民大学出版社	0	0	null	null	出版社 权利竞争：控制行政裁量权的制度选择	0	0	null	null
+1	收蛋行动的主要角色	佛瑞德	0	1	佛瑞德	null	主要角色 收蛋行动	0	0	null	null
+1	杨桥村（安徽省合肥市肥西县柿树岗乡杨桥村）的所属地区	安徽省合肥市肥西县	0	0	null	null	所属地区 杨桥村（安徽省合肥市肥西县柿树岗乡杨桥村）	0	0	null	null
+1	李元素（唐朝武德令）的初为	武德令	0	0	null	null	初为 李元素（唐朝武德令）	0	0	null	null
+1	新古典之家的出版社	辽宁科学技术出版社	0	0	null	null	出版社 新古典之家	0	0	null	null
+1	收灵者的作者	独行闪电	0	1	独行闪电	null	作者 收灵者	0	0	null	null
+1	日本侧齿叶蜂的门	节肢动物门	0	0	null	null	门 日本侧齿叶蜂	0	0	null	null
+0	林大茂（福建梅列经济开发区管委会主任）的民族	汉族	0	0	null	null	民族 林大茂（福建梅列经济开发区管委会主任）	0	0	null	null
+1	月魔女的猫窝的小说进度	连载	0	0	null	null	小说进度 月魔女的猫窝	0	0	null	null
+1	最贵狗墓的相关报到时间	2012年10月21日	0	0	null	null	相关报到时间 最贵狗墓	0	0	null	null
+1	新编日语学习指导（上外版）的定价	22.00元	0	0	null	null	定价 新编日语学习指导（上外版）	0	0	null	null
+1	春末闲谈之时空一的作者	李英	0	0	null	null	作者 春末闲谈之时空一	0	0	null	null
+1	文本文件的拼音	wén běn wén jiàn	0	0	null	null	拼音 文本文件	0	0	null	null
+1	杨兵（中国科学院工程热物理研究所研究员）的职称	副研究员	0	0	null	null	职称 杨兵（中国科学院工程热物理研究所研究员）	0	0	null	null
+1	李璞（儿科专家资深儿童健康管理顾问）的中文名	李璞	0	0	null	null	中文名 李璞（儿科专家资深儿童健康管理顾问）	0	0	null	null
+1	斑胸植盲蝽的界	动物界	0	0	null	null	界 斑胸植盲蝽	0	0	null	null
+1	李洪波（迪奥公司造型设计师）的毕业院校	大连大学	0	0	null	null	毕业院校 李洪波（迪奥公司造型设计师）	0	0	null	null
+1	气缸的中文名	气缸	0	0	null	null	中文名 气缸	0	0	null	null
+1	沉言：最后爱上你的小说进度	连载	0	0	null	null	小说进度 沉言：最后爱上你	0	0	null	null
+1	深圳好运达汽车租赁发展有限公司的经营范围	汽车租赁服务	0	0	null	null	经营范围 深圳好运达汽车租赁发展有限公司	0	0	null	null
+1	梦在青春在的页数	304	0	1	304页	null	页数 梦在青春在	0	0	null	null
+1	民生数据的真相的页数	245	0	1	245页	null	页数 民生数据的真相	0	0	null	null
+1	海珍珠的别名	海珠、南珠	0	1	南珠、海珠	null	别名 海珍珠	0	0	null	null
+1	柯灵蒂涅四世公寓酒店的酒店地址	Val Claret, 73320 蒂涅	0	0	null	null	酒店地址 柯灵蒂涅四世公寓酒店	0	0	null	null
+1	桂洲社区的面积	0.7平方公里	0	1	0.7平方千米	null	面积 桂洲社区	0	0	null	null
+1	淳化县图书馆的阅览室座位	50个	0	0	null	null	阅览室座位 淳化县图书馆	0	0	null	null
+1	林明富的逝世日期	1934	0	0	null	null	逝世日期 林明富	0	0	null	null
+1	沈家门海鲜酒楼（平凉路东宫店）的餐馆名称	沈家门海鲜酒楼(平凉路东宫店)	0	0	null	null	餐馆名称 沈家门海鲜酒楼（平凉路东宫店）	0	0	null	null
+1	梦的彼方的连载网站	起点中文网	0	0	null	null	连载网站 梦的彼方	0	0	null	null
+1	海蛏炒鸭蛋的菜名	海蛏炒鸭蛋	1	0	null	1.新鲜海蛏,盐水浸泡吐沙,去壳取肉。	菜名 海蛏炒鸭蛋	0	0	null	null
+1	河南沃原律师事务所的中文名	河南沃原律师事务所	0	0	null	null	中文名 河南沃原律师事务所	0	0	null	null
+1	毒隐翅虫的科	隐翅虫科	0	0	null	null	科 毒隐翅虫	0	0	null	null
+1	淮安府署的地理位置	江苏省淮安市淮安区东门大街38	0	1	江苏省淮安市淮安区东门大街38	null	地理位置 淮安府署	0	0	null	null
+1	江湖教父成长记的中文名	江湖教父成长记	0	0	null	null	中文名 江湖教父成长记	0	0	null	null
+1	武汉双凤亭的结构	木石	0	1	木石	null	结构 武汉双凤亭	0	0	null	null
+1	毛里西奥·派瓦·科斯塔的中文名	毛里西奥·派瓦·科斯塔	0	0	null	null	中文名 毛里西奥·派瓦·科斯塔	0	0	null	null
+1	油松针枯病的症状	针叶由暗绿变为灰绿	0	1	针叶由暗绿变为灰绿	null	症状 油松针枯病	0	0	null	null
+1	沁雪传的连载网站	红袖添香网	0	0	null	null	连载网站 沁雪传	0	0	null	null
+1	梁召镇的面积	73.9平方千米	0	1	73.9平方千米	null	面积 梁召镇	0	0	null	null
+1	楚水的小说作者	毕飞宇	0	1	毕飞宇	null	小说作者 楚水	0	0	null	null
+1	流浪在未来的网游的中文名	流浪在未来的网游	0	0	null	null	中文名 流浪在未来的网游	0	0	null	null
+1	沈国荣（浙江省海盐县原副县长）的国籍	中国	0	0	null	null	国籍 沈国荣（浙江省海盐县原副县长）	0	0	null	null
+0	武行宇内的中文名	武行宇内	0	0	null	null	中文名 武行宇内	0	0	null	null
+1	枸杞石决明酒的中文名	枸杞石决明酒	0	0	null	null	中文名 枸杞石决明酒	0	0	null	null
+1	氯化聚氯乙烯(PVC-C)管的中文名	氯化聚氯乙烯(PVC-C)管	0	0	null	null	中文名 氯化聚氯乙烯(PVC-C)管	0	0	null	null
+1	沉郁墨恋的作者	晴天暖暖	0	0	null	null	作者 沉郁墨恋	0	0	null	null
+1	汐留意大利街三井花园酒店的酒店星级	4星级	0	1	四星级	null	酒店星级 汐留意大利街三井花园酒店	0	0	null	null
+1	汽车维修工高级培训教材的出版时间	2002-01-01	0	1	2002年1月1日	null	出版时间 汽车维修工高级培训教材	0	0	null	null
+1	樊三新的毕业院校	吉林工业大学	0	1	吉林工业大学	null	毕业院校 樊三新	0	0	null	null
+1	泡沫冷压机的中文名	泡沫冷压机	0	0	null	null	中文名 泡沫冷压机	0	0	null	null
+1	求学资讯网的专注于	搭建专业求学、招生资讯平台	0	0	null	null	专注于 求学资讯网	0	0	null	null
+1	海禾20的中文名	海禾20	0	0	null	null	中文名 海禾20	0	0	null	null
+1	果糖-1,6-双磷酸的中文名	果糖-1,6-双磷酸	0	0	null	null	中文名 果糖-1,6-双磷酸	0	0	null	null
+1	深坑酒店的地理位置	上海天马山	0	0	null	null	地理位置 深坑酒店	0	0	null	null
+1	氰铁酸的中文名	氰铁酸	0	0	null	null	中文名 氰铁酸	0	0	null	null
+1	江西蓝天学院新能源与材料工程系的所属地区	江西	0	1	江西	null	所属地区 江西蓝天学院新能源与材料工程系	0	0	null	null
+1	沙之赌徒的中文名	沙之赌徒	0	0	null	null	中文名 沙之赌徒	0	0	null	null
+1	永恒之光（网络小说）的作者	癞蛤蟆王子	0	0	null	null	作者 永恒之光（网络小说）	0	0	null	null
+1	洪武祭祀碑的宽	1。43米	0	0	null	null	宽 洪武祭祀碑	0	0	null	null
+1	栗褐色链霉菌阿巴变种的孢子丝	螺旋形	0	0	null	null	孢子丝 栗褐色链霉菌阿巴变种	0	0	null	null
+1	海防村的物业公司	上海江宁物业公司	0	1	上海江宁物业公司	null	物业公司 海防村	0	0	null	null
+1	沪糯1号的品种	糯玉米早熟三交种	0	0	null	null	品种 沪糯1号	0	0	null	null
+1	混子求生记的中文名	混子求生记	0	0	null	null	中文名 混子求生记	0	0	null	null
+1	海会禅寺的地理位置	苏州	1	0	null	海会寺-360百科	地理位置 海会禅寺	0	0	null	null
+1	查亚特的姓名	查亚特	0	0	null	null	姓名 查亚特	0	0	null	null
+1	波利雅可夫的性别	男	0	1	男	null	性别 波利雅可夫	0	0	null	null
+1	步步惊心之我是若曦的中文名	步步惊心之我是若曦	0	0	null	null	中文名 步步惊心之我是若曦	0	0	null	null
+1	沃血的小说类别	奇幻修真	0	0	null	作者：心冰	小说类别 沃血	0	0	null	null
+1	森林生态站工程项目建设标准的中文名	森林生态站工程项目建设标准	0	0	null	null	中文名 森林生态站工程项目建设标准	0	0	null	null
+1	格尔木藏青工业园的中文名	格尔木藏青工业园	0	0	null	null	中文名 格尔木藏青工业园	0	0	null	null
+1	梅林苑的容积率	1.24	0	1	1.24%	null	容积率 梅林苑	0	0	null	null
+1	浊泽之战的时间	公元前369年	0	1	公元前369年	null	时间 浊泽之战	0	0	null	null
+1	水牛儿（歌手满江演唱的歌曲）的歌曲原唱	满江	0	0	null	null	歌曲原唱 水牛儿（歌手满江演唱的歌曲）	0	0	null	null
+1	毕歌拉与葛密儿的出版社	台灣商務	0	0	null	null	出版社 毕歌拉与葛密儿	0	0	null	null
+1	果子的坠落的小说进度	连载	0	0	null	null	小说进度 果子的坠落	0	0	null	null
+1	淡溪镇的下辖地区	淡溪社区、西林村、马岙村	0	0	null	null	下辖地区 淡溪镇	0	0	null	null
+1	查理九世：恶魔医务室的书名	查理九世：恶魔医务室	0	0	null	null	书名 查理九世：恶魔医务室	0	0	null	null
+1	海南省工业学校的创办时间	1986年至今	0	1	1986年至今	null	创办时间 海南省工业学校	0	0	null	null
+1	根切的根切的后果	齿根厚度变薄	1	0	null	齿轮根切会有什么后果_百度知道	根切的后果 根切	1	0	null	齿轮根切会有什么后果_百度知道
+1	江山人的崇学	就是重学善思	0	0	null	null	崇学 江山人	0	0	null	null
+1	汉鎏金鋈银铜竹节熏炉的口径	9厘米	0	1	9厘米	null	口径 汉鎏金鋈银铜竹节熏炉	0	0	null	null
+1	洛杉矶古城的地理位置	Union Station洛杉矶火车站对面	0	1	Union Station洛杉矶火车站对面	null	地理位置 洛杉矶古城	0	0	null	null
+1	海南石山羊火锅的中文名	海南石山羊火锅	0	0	null	null	中文名 海南石山羊火锅	0	0	null	null
+1	武汉市诉讼档案馆的初建时间	1950年	0	1	1950年	null	初建时间 武汉市诉讼档案馆	0	0	null	null
+1	梨花雪后（套装上下册）的出版社	百花文艺	0	0	null	null	出版社 梨花雪后（套装上下册）	0	0	null	null
+1	汤姆·韦利斯的职业	运动员 足球	0	0	null	null	职业 汤姆·韦利斯	0	0	null	null
+1	涡轮钻具的作用	钻探取心	0	0	null	null	作用 涡轮钻具	1	0	null	1.概述 涡轮钻具是一种液动马达,涡轮壳体里面装有多级成对的涡轮定转子,工作时钻井液在泵的作用下首先进入涡轮定子,涡轮定子使钻井液具有一定的方向和速度进入涡轮转子,...
+1	汉庭连锁酒店（北京马甸桥店）的商业区域	北三环	0	0	null	null	商业区域 汉庭连锁酒店（北京马甸桥店）	0	0	null	null
+1	沽源县食品药品监督管理局的中文名	沽源县食品药品监督管理局	0	0	null	null	中文名 沽源县食品药品监督管理局	0	0	null	null
+1	梁放的出生地	广东<a>梅州市梅县区</a>	0	1	广东梅州市梅县区	null	出生地 梁放	0	0	null	null
+1	浪子神剑的连载网站	起点中文网	0	0	null	null	连载网站 浪子神剑	0	0	null	null
+1	栗子（栗属植物）的纲	<a>双子叶植物纲</a>	0	0	null	null	纲 栗子（栗属植物）	0	0	null	null
+1	汤黎的代表作品	《晚清历史人物研究》	0	1	晚清历史人物研究	null	代表作品 汤黎	0	0	null	null
+1	深圳市英菲尼奥科技有限公司的公司性质	有限公司	0	0	null	null	公司性质 深圳市英菲尼奥科技有限公司	0	0	null	null
+1	椰香芋泥车轮饼的口味	鲜嫩可口	0	1	鲜嫩可口	null	口味 椰香芋泥车轮饼	0	0	null	null
+1	汽车驾驶经验思维与驾驶的出版时间	1900-01-01	0	1	2003年1月	null	出版时间 汽车驾驶经验思维与驾驶	0	0	null	null
+1	淡墨诗散文选的出版社	内蒙古文化出版社、内蒙古出版集团	0	0	null	null	出版社 淡墨诗散文选	0	0	null	null
+1	永恒的圣洁的小说进度	连载	0	0	null	null	小说进度 永恒的圣洁	0	0	null	null
+1	浙江杭叉集团股份有限公司的外文名称	HANGCHA GROUP CO.,LTD	0	1	HANGCHA GROUP CO.,LTD	null	外文名称 浙江杭叉集团股份有限公司	0	0	null	null
+1	汉字词语有意思的ISBN	9789866679070	0	0	null	null	ISBN 汉字词语有意思	0	0	null	null
+1	河口镇茶滩小学的中文名	河口镇茶滩小学	0	0	null	null	中文名 河口镇茶滩小学	0	0	null	null
+1	武林第一小女子之我是小人加女子的连载网站	云中书城	0	0	null	null	连载网站 武林第一小女子之我是小人加女子	0	0	null	null
+1	武汉锐科的地点	武汉	0	0	null	null	地点 武汉锐科	0	0	null	null
+1	污水运营管理系统的简介	水务综合运营管理系统具有8项	0	0	null	null	简介 污水运营管理系统	0	0	null	null
+1	毛益民（山西省委办公厅副主任）的出生日期	1964年12月	0	0	null	null	出生日期 毛益民（山西省委办公厅副主任）	0	0	null	null
+1	河南教育学院学报（自然科学版）的定价	40.00	0	0	null	null	定价 河南教育学院学报（自然科学版）	0	0	null	null
+1	案例导读：消费者权益保护法及配套规定适用与解析的页数	332页	0	1	332页	null	页数 案例导读：消费者权益保护法及配套规定适用与解析	0	0	null	null
+1	校哈哈的网站名称	校哈哈	0	0	null	null	网站名称 校哈哈	0	0	null	null
+1	次韵清溪樊主簿的作品名称	次韵清溪樊主簿	0	0	null	null	作品名称 次韵清溪樊主簿	0	0	null	null
+1	浮生非梦的作者	华胥花朵	0	0	null	null	作者 浮生非梦	0	0	null	null
+1	汶上县食品药品监督管理局的类别	县政府工作部门	0	0	null	null	类别 汶上县食品药品监督管理局	0	0	null	null
+1	消化内镜诊疗关键的作者	<a>邹晓平</a>	0	1	邹晓平	null	作者 消化内镜诊疗关键	0	0	null	null
+1	森格藏布江的源出	狮泉河	0	0	null	null	源出 森格藏布江	0	0	null	null
+1	沙皇巨炮的制造时间	1586年	0	1	1586年	null	制造时间 沙皇巨炮	0	0	null	null
+1	深圳市欣赛通科技有限公司的总部地点	深圳市	0	1	深圳市	null	总部地点 深圳市欣赛通科技有限公司	0	0	null	null
+1	水利工程建设项目档案验收管理办法的颁发部门	水利部	0	0	null	null	颁发部门 水利工程建设项目档案验收管理办法	1	0	null	1.第一章 总则 第一条根据水利部《水利工程建设项目档案管理规定》(水办[2005]480号)...
+1	江城月的小说进度	连载	0	0	null	null	小说进度 江城月	0	0	null	null
+1	海女（职业名称）的地区	日本、韩国	0	0	null	null	地区 海女（职业名称）	0	0	null	null
+1	满月狗儿坪的林地	2200公顷	0	1	2200公顷	null	林地 满月狗儿坪	0	0	null	null
+1	猎婚1的连载网站	新浪读书	0	0	null	null	连载网站 猎婚1	0	0	null	null
+1	甜王三号的品种类别	西瓜	0	0	null	null	品种类别 甜王三号	0	0	null	null
+1	爱你纯属意外的作者	桔梗九月	0	0	null	null	作者 爱你纯属意外	0	0	null	null
+1	电业局家属院的容积率	2	0	1	2%	null	容积率 电业局家属院	0	0	null	null
+1	焚灭深渊的中文名	焚灭深渊	0	0	null	null	中文名 焚灭深渊	0	0	null	null
+1	猎国:生命魔法的作者	<a>跳舞</a>	0	1	跳舞	null	作者 猎国:生命魔法	0	0	null	null
+0	珱姬的职业	动漫作品《滑头鬼之孙》人物	0	0	null	null	职业 珱姬	0	0	null	null
+1	爱，未说出口的小说进度	连载	0	0	null	null	小说进度 爱，未说出口	0	0	null	null
+1	演讲与论文集的书名	演讲与论文集	0	0	null	null	书名 演讲与论文集	0	0	null	null
+1	爱上他是她的作者	cklm8878	0	1	cklm8878	null	作者 爱上他是她	0	0	null	null
+1	王祖德的主管部门	教育厅	0	1	教育厅	null	主管部门 王祖德	0	0	null	null
+1	爱美教主的漫画作者	咲坂芽亚	0	0	null	null	漫画作者 爱美教主	0	0	null	null
+1	白菜虾仁包的调料	精盐4克、料酒5克	0	0	null	null	调料 白菜虾仁包	0	0	null	null
+1	猫狸山自然村的面积	2.50平方公里	0	1	2.50平方千米	null	面积 猫狸山自然村	0	0	null	null
+1	玩具卡：认物卡的出版社	吉林美术出版社	0	0	null	null	出版社 玩具卡：认物卡	0	0	null	null
+1	漫流村的行政区类别	乡村	0	0	null	null	行政区类别 漫流村	0	0	null	null
+1	白狐痴恋的连载网站	小说吧	0	0	null	null	连载网站 白狐痴恋	0	0	null	null
+1	爱上另一个自己2的作者	清荷	0	0	null	null	作者 爱上另一个自己2	0	0	null	null
+0	潘春炉的出生日期	1963年2月	0	0	null	null	出生日期 潘春炉	0	0	null	null
+1	白俄罗斯足球先生的奖励对象	最杰出球员	0	0	null	null	奖励对象 白俄罗斯足球先生	0	0	null	null
+0	爱的阵痛的书号	134002	0	0	null	null	书号 爱的阵痛	0	0	null	null
+1	瑟维特扎内酒店的房间数量	12	0	0	null	null	房间数量 瑟维特扎内酒店	0	0	null	null
+1	清天绝醒的主要成分	清天植物提取生物酶原液	0	0	null	null	主要成分 清天绝醒	0	0	null	null
+1	白云山道教音乐的中文名	白云山道教音乐	0	0	null	null	中文名 白云山道教音乐	0	0	null	null
+1	田存德的国籍	中华人民共和国	0	1	中国	null	国籍 田存德	0	1	中国	null
+1	游庐山黄崖遇雨记的创作年代	<a>清代</a>	0	1	清代	null	创作年代 游庐山黄崖遇雨记	0	0	null	null
+1	灰调曲村的行政区类别	山西	0	0	null	null	行政区类别 灰调曲村	0	0	null	null
+0	王建国（原山西吕梁孝义市人民政府市长）的入党时间	1988年11月	0	0	null	null	入党时间 王建国（原山西吕梁孝义市人民政府市长）	0	0	null	null
+1	潘军小说论（第2辑）的ISBN	9787811105544	0	0	null	null	ISBN 潘军小说论（第2辑）	0	0	null	null
+1	生物多靶点消癌法的中文名	生物多靶点消癌法	0	0	null	null	中文名 生物多靶点消癌法	0	0	null	null
+1	生药学实验指导的开本	16开	0	0	null	null	开本 生药学实验指导	0	0	null	null
+1	皮埃尔·贝尔西斯的中文名	皮埃尔·贝尔西斯	0	0	null	null	中文名 皮埃尔·贝尔西斯	0	0	null	null
+1	王京丛的国籍	中国	0	1	中国	null	国籍 王京丛	0	0	null	null
+1	盘 鳝的菜名	盘 鳝	0	0	null	null	菜名 盘 鳝	0	0	null	null
+1	清蒸荷包红鲤鱼的是否含防腐剂	否	0	0	null	null	是否含防腐剂 清蒸荷包红鲤鱼	0	0	null	null
+1	球蜑螺的分布区域	主要分布于台湾	0	1	台北县贡寮乡澳底	null	分布区域 球蜑螺	0	0	null	null
+1	王双歧胶囊的中文名	王双歧胶囊	0	0	null	null	中文名 王双歧胶囊	0	0	null	null
+1	爱在一米内的连载网站	晋江文学城	0	0	null	null	连载网站 爱在一米内	0	0	null	null
+1	痞痞至尊的专属公主的中文名	痞痞至尊的专属公主	0	0	null	null	中文名 痞痞至尊的专属公主	0	0	null	null
+1	爱发狂（郑伊健国语歌曲）的歌曲语言	国语	0	0	null	null	歌曲语言 爱发狂（郑伊健国语歌曲）	0	0	null	null
+1	狭翅短肠蕨的门	蕨类植物门	0	1	蕨类植物门	null	门 狭翅短肠蕨	0	0	null	null
+1	潞川之战的伤亡情况	俘斩燕军十五万	0	0	null	null	伤亡情况 潞川之战	0	0	null	null
+1	登临重庆的定价	24.00元	0	0	null	null	定价 登临重庆	0	0	null	null
+1	焰夜蛾的科	夜蛾科	0	0	null	null	科 焰夜蛾	0	0	null	null
+1	珍宝岛1969的出版社	中国文化出版社	0	0	null	null	出版社 珍宝岛1969	0	0	null	null
+1	王浣（漫画家插画师）的国籍	中国	0	0	null	null	国籍 王浣（漫画家插画师）	0	0	null	null
+1	爱是不归路的中文名	爱是不归路	0	0	null	null	中文名 爱是不归路	0	0	null	null
+1	爱听娃早教机的中文名	爱听娃早教机	0	0	null	null	中文名 爱听娃早教机	0	0	null	null
+1	烟台市足球裁判委员会的位置	烟台市	0	1	烟台市	null	位置 烟台市足球裁判委员会	0	0	null	null
+1	盐酸特拉唑嗪滴丸的药品名称	盐酸特拉唑嗪滴丸	0	0	null	null	药品名称 盐酸特拉唑嗪滴丸	0	0	null	null
+1	狂妄仙侠的小说进度	连载	0	0	null	null	小说进度 狂妄仙侠	0	0	null	null
+1	现代化与日常生活批判的作者	衣俊卿 著	0	1	衣俊卿	null	作者 现代化与日常生活批判	0	0	null	null
+1	爱情等于爱加悲伤的小说进度	连载	0	0	null	null	小说进度 爱情等于爱加悲伤	0	0	null	null
+1	疯狂聚便宜的版本	安卓手机版、电脑版	0	0	null	null	版本 疯狂聚便宜	0	0	null	null
+1	现代纺纱技术的作者	杨锁迁	0	1	杨锁	null	作者 现代纺纱技术	0	0	null	null
+1	焦糖巴西的拉丁学名	Caramel Pink	0	1	Caramel Pink	null	拉丁学名 焦糖巴西	0	0	null	null
+1	爱在千帆过尽时的首发	<a>磨铁中文网</a>	0	0	null	null	首发 爱在千帆过尽时	0	0	null	null
+1	甘肃纬天电子有限责任公司的中文名	甘肃纬天电子有限责任公司	0	0	null	null	中文名 甘肃纬天电子有限责任公司	0	0	null	null
+1	清河哀王的本名	<a>刘乘</a>	0	0	null	null	本名 清河哀王	0	0	null	null
+1	澳大利亚地方政府：改革与创新的出版社	吉林大学出版社	0	0	null	null	出版社 澳大利亚地方政府：改革与创新	0	0	null	null
+1	潮汕肉饼炒剪刀菜的时间	10-30分钟	0	0	null	null	时间 潮汕肉饼炒剪刀菜	0	0	null	null
+1	甜菜泉蝇的目	双翅目	0	0	null	null	目 甜菜泉蝇	0	0	null	null
+1	王玉川的出生地	上海奉贤县	0	1	上海奉贤县	null	出生地 王玉川	0	1	上海奉贤县	null
+1	烽道的作者	漂liu	0	0	null	null	作者 烽道	0	0	null	null
+1	玄炎心经的中文名	玄炎心经	0	0	null	null	中文名 玄炎心经	0	0	null	null
+0	焦家洼村（山西省绛县么里镇下辖村）的人口	506口人	0	0	null	null	人口 焦家洼村（山西省绛县么里镇下辖村）	0	0	null	null
+1	激爱罗曼史的漫画作者	柚木菟田野	0	0	null	null	漫画作者 激爱罗曼史	0	0	null	null
+1	清铁力木画桌的优点	有价廉物美	0	0	null	null	优点 清铁力木画桌	0	0	null	null
+1	游太平山的文学体裁	<a>五言诗</a>	0	1	五言诗	null	文学体裁 游太平山	0	0	null	null
+1	游天台山日记的文学体裁	<a>游记</a>	0	1	散文	null	文学体裁 游天台山日记	0	0	null	null
+1	激励你一生的哲理故事的书名	激励你一生的哲理故事	0	0	null	null	书名 激励你一生的哲理故事	0	0	null	null
+1	狐旋舞的作者	爱是浅樱	0	0	null	null	作者 狐旋舞	0	0	null	null
+1	王玥（模特王玥）的中文名	王玥	0	0	null	null	中文名 王玥（模特王玥）	0	0	null	null
+1	爱新觉罗·毓麒的逝世日期	1949年10月	0	0	null	null	逝世日期 爱新觉罗·毓麒	0	0	null	null
+1	爱书就会赢的书名	爱书就会赢	0	0	null	null	书名 爱书就会赢	0	0	null	null
+1	焦作市维联精细化工有限公司的公司性质	私营	0	0	null	null	公司性质 焦作市维联精细化工有限公司	0	0	null	null
+1	熊伟（武汉理工大学教授）的职位	教授	0	0	null	null	职位 熊伟（武汉理工大学教授）	0	0	null	null
+1	王爷的绣娘妃的连载网站	纵横中文网	0	0	null	null	连载网站 王爷的绣娘妃	0	0	null	null
+0	田鼠新沙螨的属	新沙螨属	0	0	null	null	属 田鼠新沙螨	0	0	null	null
+1	热敷疗法的类型	用热的物体置于痛处来减轻疼痛	0	0	null	null	类型 热敷疗法	0	0	null	null
+1	狂乐激斗的游戏平台	2344小游戏	0	0	null	null	游戏平台 狂乐激斗	0	0	null	null
+0	爱尚生活坊：生活妙招1500例的出版时间	2011-03-01	0	0	null	null	出版时间 爱尚生活坊：生活妙招1500例	0	0	null	null
+1	牛结核病的常见病因	牛型结核分枝杆菌	0	0	null	null	常见病因 牛结核病	0	0	null	null
+1	清华紫光7 7120ED的中文名	清华紫光7 7120ED	0	0	null	null	中文名 清华紫光7 7120ED	0	0	null	null
+1	湖北卫视的成立时间	1960年	0	0	null	null	成立时间 湖北卫视	0	0	null	null
+1	王府国际旅行社的营业时间	周一至周五9:00-18:00	0	0	null	null	营业时间 王府国际旅行社	0	0	null	null
+1	游戏大师（手机游戏助手）的研发团队	福建游迷网络科技有限公司	0	0	null	null	研发团队 游戏大师（手机游戏助手）	0	0	null	null
+1	特技狂飙之重装上阵的游戏类型	RAC 赛车游戏	0	1	赛车类	null	游戏类型 特技狂飙之重装上阵	0	0	null	null
+1	渝君重庆火锅（新欣大厦店）的营业时间	正常营业时间	0	0	null	null	营业时间 渝君重庆火锅（新欣大厦店）	0	0	null	null
+0	电能计量装置二次接线判读的书名	电能计量装置二次接线判读	0	0	null	null	书名 电能计量装置二次接线判读	0	0	null	null
+1	狱血魔神在斗破的中文名	狱血魔神在斗破	0	0	null	null	中文名 狱血魔神在斗破	0	0	null	null
+1	盆景制作技艺-休闲文化书库的装帧	平装	0	0	null	null	装帧 盆景制作技艺-休闲文化书库	0	0	null	null
+1	白宝堂的出生地	宁夏回族自治区固原县城关镇	0	1	宁夏回族自治区固原县城关镇	null	出生地 白宝堂	0	0	null	null
+1	牛肉方火腿的难易程度	较难	0	0	null	null	难易程度 牛肉方火腿	0	0	null	null
+0	爱国者JH2801无线网络摄像机的最大帧频	：25FPS	0	0	null	null	最大帧频 爱国者JH2801无线网络摄像机	0	0	null	null
+1	牛仔闯天关的游戏大小	4.12M	0	1	4.12M	null	游戏大小 牛仔闯天关	0	0	null	null
+1	用品质书写青春的出版时间	2011-5	0	1	2011年5月	null	出版时间 用品质书写青春	0	0	null	null
+1	湘攸大碗菜馆（福田店）的地区	深圳市	0	0	null	null	地区 湘攸大碗菜馆（福田店）	0	0	null	null
+1	爱之戒痕的中文名	爱之戒痕	0	0	null	null	中文名 爱之戒痕	0	0	null	null
+1	游中国-大美西藏旅游卡的对应	佛器图形	0	0	null	null	对应 游中国-大美西藏旅游卡	0	0	null	null
+1	美联首义尚景的开发商	湖北中天华昌房地产开发有限公司	0	1	湖北中天华昌房地产开发有限公司	null	开发商 美联首义尚景	0	0	null	null
+1	第一电动网的网站名称	第一电动网	0	0	null	null	网站名称 第一电动网	0	0	null	null
+1	网游之剑歌天下的小说类别	虚拟网游	0	0	null	null	小说类别 网游之剑歌天下	0	0	null	null
+0	祭奠———那血色情殇的小说进度	连载	0	0	null	null	小说进度 祭奠———那血色情殇	0	0	null	null
+1	素手镯的连载网站	起点中文网	0	0	null	null	连载网站 素手镯	0	0	null	null
+1	维东7区富美兴酒店的英文名称	Vien Dong District 7 Phu My Hung	0	1	Vien Dong District 7 Phu My Hung	null	英文名称 维东7区富美兴酒店	0	0	null	null
+1	石家庄市光明路小学的类别	小学	0	0	null	null	类别 石家庄市光明路小学	0	0	null	null
+1	绝非一场梦的小说进度	连载	0	0	null	null	小说进度 绝非一场梦	0	0	null	null
+1	约书亚.拉尼尔.马丁的出生日期	1799年12月5日	0	1	1799年12月5日(射手座)	null	出生日期 约书亚.拉尼尔.马丁	0	1	1799年12月5日(射手座)	null
+1	网游之璎珞无双的连载网站	起点中文网	0	0	null	null	连载网站 网游之璎珞无双	0	0	null	null
+1	维尔克的出生日期	1985-07-11	0	1	1985年7月11日	null	出生日期 维尔克	0	0	null	null
+1	福州市信任社会工作服务中心的外文名	Fuzhou trust social work service center	0	1	Fuzhou Trust Social Work Service Center	null	外文名 福州市信任社会工作服务中心	0	0	null	null
+1	翻译诗学散论的ISBN	9787543642577	0	0	null	null	ISBN 翻译诗学散论	0	0	null	null
+1	直流地电位梯度法的类型	梯度法	0	0	null	null	类型 直流地电位梯度法	0	0	null	null
+1	石湖村站的始建于	1925年	0	1	1925年	null	始建于 石湖村站	0	0	null	null
+1	秭归星锐足球俱乐部的所属地区	湖北省宜昌市秭归县	0	1	湖北省宜昌市秭归县	null	所属地区 秭归星锐足球俱乐部	0	0	null	null
+0	美的冷柜BD\BC-100KMQ的属性	家用迷你型<a>冷柜</a>	0	0	null	null	属性 美的冷柜BD\BC-100KMQ	0	0	null	null
+1	破碎的世界 5的连载网站	幻剑书盟	0	0	null	null	连载网站 破碎的世界 5	0	0	null	null
+1	红油鸡的中文名	红油鸡	0	0	null	null	中文名 红油鸡	0	0	null	null
+1	绿芭蕉的作者	百里三千	1	0	null	绿芭蕉小说作品大全_作者绿芭蕉最新作品列表 - 海豚文学网	作者 绿芭蕉	1	0	null	绿芭蕉小说作品大全_作者绿芭蕉最新作品列表 - 海豚文学网
+0	老问题的出版时间	2014-03	0	0	null	null	出版时间 老问题	0	0	null	null
+0	禾高意的中文名	禾高意	0	0	null	null	中文名 禾高意	0	0	null	null
+1	私立侦探下泽唯的对白语言	日语中字	0	0	null	null	对白语言 私立侦探下泽唯	0	0	null	null
+1	考题大观：高考数学的装帧	平装	0	0	null	null	装帧 考题大观：高考数学	0	0	null	null
+1	福海蝴蝶沟的距	福海县城150公里左右	0	1	福海县城150公里左右	null	距 福海蝴蝶沟	0	0	null	null
+1	精致白领生活的中文名	精致白领生活	0	0	null	null	中文名 精致白领生活	0	0	null	null
+1	约翰尼·托的主要成就	在泰缅边境地区制造了多起恐怖事件	0	0	null	null	主要成就 约翰尼·托	0	0	null	null
+1	羌活退翳丸的中文名	羌活退翳丸	0	0	null	null	中文名 羌活退翳丸	0	0	null	null
+1	票据无因性的别名	票据行为的抽象性或无色性	0	0	null	null	别名 票据无因性	0	0	null	null
+1	约翰尼·布林的中文名	约翰尼·布林	0	0	null	null	中文名 约翰尼·布林	0	0	null	null
+1	约堡情缘的主演	<a>袁志博</a>	0	0	null	null	主演 约堡情缘	0	0	null	null
+0	磐正AK790GS 128M的主芯片组	AMD 780G	0	0	null	null	主芯片组 磐正AK790GS 128M	0	0	null	null
+1	继天童颖禅师度后上堂说偈的文学体裁	五言律诗	0	1	五言律诗	null	文学体裁 继天童颖禅师度后上堂说偈	0	0	null	null
+1	石迳村（地名）的耕地面积	979.7亩	0	0	null	null	耕地面积 石迳村（地名）	0	0	null	null
+1	罗布桑的代表作品	《征服西北的皇帝宝迪莫尔根》	0	1	征服西北的皇帝宝迪莫尔根	null	代表作品 罗布桑	0	0	null	null
+1	社区家政网的总部地点	合肥	0	1	合肥	null	总部地点 社区家政网	0	0	null	null
+0	老虎岭社区的气候类型	环境优美、绿树成荫	0	0	null	null	气候类型 老虎岭社区	0	0	null	null
+1	维纳斯战记的出品年份	1989	0	0	null	null	出品年份 维纳斯战记	0	0	null	null
+1	绝对唯心主义的中文名	绝对唯心主义	0	0	null	null	中文名 绝对唯心主义	0	0	null	null
+1	耕升 GT440 红缨版的芯片厂商	NVIDIA	0	0	null	null	芯片厂商 耕升 GT440 红缨版	0	0	null	null
+1	给小熊吃饼干2的游戏大小	2272K	0	1	2272K	null	游戏大小 给小熊吃饼干2	0	0	null	null
+1	童话中的婚礼的游戏大小	1100K	0	1	1100K	null	游戏大小 童话中的婚礼	0	0	null	null
+1	真的什么都可以的小说进度	连载	0	0	null	null	小说进度 真的什么都可以	0	0	null	null
+0	科技型大学衍生公司价值形成机理的出版社	<a>上</a>海交通大学出	0	0	null	null	出版社 科技型大学衍生公司价值形成机理	0	0	null	null
+1	砬子河乘降所的始建时间	1965年	0	0	null	null	始建时间 砬子河乘降所	0	0	null	null
+1	网游之从零进化的小说主人公	丁云	0	0	null	null	小说主人公 网游之从零进化	0	0	null	null
+1	网眼Server 721的工作湿度	&lt; 90%	0	1	< 90%	null	工作湿度 网眼Server 721	0	0	null	null
+1	福德老爷的中文名	福德老爷	0	0	null	null	中文名 福德老爷	0	0	null	null
+1	穿越之妃我倾城的小说进度	连载	0	0	null	null	小说进度 穿越之妃我倾城	0	0	null	null
+1	相楽郡的神名帐	社名	0	0	null	null	神名帐 相楽郡	0	0	null	null
+1	等爬河自然村的所属地区	云南省临沧市镇康县南伞镇轩岗村委会	0	1	云南省临沧市镇康县南伞镇轩岗村委会	null	所属地区 等爬河自然村	0	0	null	null
+0	美国《科学》杂志公布2009十大科学突破的内容	2009十大科学突破	0	0	null	null	内容 美国《科学》杂志公布2009十大科学突破	0	0	null	null
+1	网游之蛮蛮当立的作者	血煞魔王	0	1	血煞魔王	null	作者 网游之蛮蛮当立	0	0	null	null
+1	祭祀和平的中文名	祭祀和平	0	0	null	null	中文名 祭祀和平	0	0	null	null
+0	红妆玉美人的英文名	Hong Zhuang Yu Mei Ren	0	0	null	null	英文名 红妆玉美人	0	0	null	null
+1	罗曼·贝雷佐夫斯基的出生地	亚美尼亚	0	1	亚美尼亚	null	出生地 罗曼·贝雷佐夫斯基	0	0	null	null
+1	美味水煮肉片的调料	食盐适量 味精适量	1	0	null	1.准备猪里脊肉一块,放到清水中清洗几次,清洗干净,改刀切成一角硬币厚就可以。(注意:为了更...	调料 美味水煮肉片	0	0	null	null
+1	短梗南蛇藤的科	卫矛科	0	1	卫矛科	null	科 短梗南蛇藤	0	0	null	null
+1	福南村（天门市拖市镇村落）的语言	<a>天门话</a>	0	0	null	null	语言 福南村（天门市拖市镇村落）	0	0	null	null
+1	穿越之改写三国历史的中文名	穿越之改写三国历史	0	0	null	null	中文名 穿越之改写三国历史	0	0	null	null
+1	美罗思比萨（浙桥路店）的营业时间	10:30-22:30	0	0	null	null	营业时间 美罗思比萨（浙桥路店）	0	0	null	null
+1	神之手·辉的编剧	深沢正树	0	1	深泽正树，饭田让治	null	编剧 神之手·辉	0	0	null	null
+1	红楼雾瘴的出版时间	1997年3月	0	1	1997年3月	null	出版时间 红楼雾瘴	0	0	null	null
+1	破神论的作者	幻影之风	0	0	null	null	作者 破神论	0	0	null	null
+1	睿晟无水文的外文名	ruishengwushuiwen	0	1	ruishengwushuiwen	null	外文名 睿晟无水文	0	0	null	null
+1	罪恶之城之黑玫瑰的作者	老二家的虱子	0	0	null	null	作者 罪恶之城之黑玫瑰	0	0	null	null
+1	网游之遨游三国的作者	M入戏	0	0	null	null	作者 网游之遨游三国	0	0	null	null
+1	第三束阳光的中文名	第三束阳光	0	0	null	null	中文名 第三束阳光	0	0	null	null
+1	美国雷斯顿国际石油集团的公司名称	美国雷斯顿国际石油集团	0	0	null	null	公司名称 美国雷斯顿国际石油集团	0	0	null	null
+1	美国号航空母舰的外文名	USS United States CVA-58	0	1	USS United States	null	外文名 美国号航空母舰	0	0	null	null
+1	简·莫顿的中文名	简·莫顿	0	0	null	null	中文名 简·莫顿	0	0	null	null
+1	穿越时空的冒险的出版社	大象出版社	0	0	null	null	出版社 穿越时空的冒险	0	0	null	null
+1	科密C-638的碎纸	220mm	0	0	null	null	碎纸 科密C-638	0	0	null	null
+1	绝代有佳人之红临的连载网站	云中书城	0	0	null	null	连载网站 绝代有佳人之红临	0	0	null	null
+1	继往开来的中文名	继往开来	1	0	null	继往开来_贾宏灏_新浪博客	中文名 继往开来	0	0	null	null
+1	精确战略十二步的作者	布鲁诺、（美）科乐蓝	0	1	阿尔伯特	null	作者 精确战略十二步	0	0	null	null
+1	米港三角洲的功能	稻米、蔬菜、瓜果生产区域之一	0	0	null	null	功能 米港三角洲	0	0	null	null
+1	美国23岁独臂女孩的外文名	Nicole Kelly	0	1	Nicole Kelly	null	外文名 美国23岁独臂女孩	0	0	null	null
+1	矿山生态植被恢复技术的出版时间	2009-10-1	0	1	2009年10月1日	null	出版时间 矿山生态植被恢复技术	0	0	null	null
+1	结束后，开始前的中文名	结束后,开始前	0	0	null	null	中文名 结束后，开始前	0	0	null	null
+1	翰墨的出自	《典论·论文》	0	1	《典论·论文》	null	出自 翰墨	0	0	null	null
+1	神魔墓的作者	情风明月	0	0	null	null	作者 神魔墓	0	0	null	null
+1	综漫之时空管理者的连载网站	云中书城	0	0	null	null	连载网站 综漫之时空管理者	0	0	null	null
+1	磁器口三姐猫儿面的掌门人	唐三姐	0	0	null	null	掌门人 磁器口三姐猫儿面	0	0	null	null
+1	索尼E15118ECW的内存容量	4GB	0	1	4GB	null	内存容量 索尼E15118ECW	0	0	null	null
+1	美式橄榄球世界杯的外文名	American Football World Cup	0	1	American Football World Cup	null	外文名 美式橄榄球世界杯	0	0	null	null
+1	红星蓝瓶二锅头的规格	150、250、500、750（毫升）	0	1	150、250、500、750（毫升）	null	规格 红星蓝瓶二锅头	0	0	null	null
+1	罗斯塔姆住宿加早餐旅馆的酒店地址	Rostwaldstrasse 12, 83471 贝希特斯加登	0	0	null	null	酒店地址 罗斯塔姆住宿加早餐旅馆	0	0	null	null
+1	硬脂酸钴的CASNO	1002-88-6	0	0	null	null	CASNO 硬脂酸钴	0	0	null	null
+1	矿井维修电工-初级·中级·高级的作者	《矿井维修电工》编委会	0	0	null	null	作者 矿井维修电工-初级·中级·高级	0	0	null	null
+1	网游之青楼绝色的小说进度	连载	0	0	null	null	小说进度 网游之青楼绝色	0	0	null	null
+1	石浦城隍庙的地理位置	象山县石浦镇旧城西门内	0	1	象山县石浦镇旧城西门内	null	地理位置 石浦城隍庙	0	0	null	null
+1	秦志英的出生日期	1964年	0	0	null	null	出生日期 秦志英	0	0	null	null
+1	老友狗狗的发行公司	香港电视广播有限公司	0	1	香港电视广播有限公司	null	发行公司 老友狗狗	0	0	null	null
+1	群殴水浒的发行阶段	正式版	0	0	null	null	发行阶段 群殴水浒	0	0	null	null
+0	罗家洲的中文名	罗家洲	0	0	null	null	中文名 罗家洲	0	0	null	null
+0	美少女战士第六部：十字星战士的连载网站	晋江文学城	0	0	null	null	连载网站 美少女战士第六部：十字星战士	0	0	null	null
+1	穿越之大周武帝的作者	共三生	0	0	null	null	作者 穿越之大周武帝	0	0	null	null
+1	石头苔藓的小说进度	已完结	0	0	null	null	小说进度 石头苔藓	0	0	null	null
+1	美容大改造的游戏站点	<a>4399小游戏</a>	0	0	null	null	游戏站点 美容大改造	0	0	null	null
+1	第64届美国电影电视金球奖的直播	NBC电视台	0	0	null	null	直播 第64届美国电影电视金球奖	0	0	null	null
+1	融程花园酒店自助餐厅的营业时间	午市12:00-14:00晚市18:00-21:00	0	0	null	null	营业时间 融程花园酒店自助餐厅	0	0	null	null
+0	语文新课程研究性学习与审美教育的副标题	走向智慧语文的思考与实践	0	0	null	null	副标题 语文新课程研究性学习与审美教育	0	0	null	null
+0	荷花名都的中文名	荷花名都	0	0	null	null	中文名 荷花名都	0	0	null	null
+1	讲吃的装帧	平装	0	0	null	null	装帧 讲吃	0	0	null	null
+1	豁然雾解的读音	huò rán wù jiě	0	0	null	null	读音 豁然雾解	0	0	null	null
+0	芹菜（中国内地画手）的血型	A	0	0	null	null	血型 芹菜（中国内地画手）	0	0	null	null
+1	行尸走肉第五章：时间紧迫的游戏类型	：动作冒险	0	1	冒险类、动作类	null	游戏类型 行尸走肉第五章：时间紧迫	0	0	null	null
+1	蛾身螭纹双劙璧的特点	十二个时辰会变化十二种颜色	0	0	null	null	特点 蛾身螭纹双劙璧	0	0	null	null
+1	背旮旯儿的外文名	nook	0	1	nook	null	外文名 背旮旯儿	0	0	null	null
+1	芦上坟村的中文名	芦上坟村	0	0	null	null	中文名 芦上坟村	0	0	null	null
+1	虹桥晶邸的占地面积	60000平方米	0	1	60000平方米	null	占地面积 虹桥晶邸	0	0	null	null
+1	藏精丹补肾丸的性状	气微、品为深棕色蜜丸	0	0	null	null	性状 藏精丹补肾丸	0	0	null	null
+1	肉苁蓉汽锅鸡的菜名	肉苁蓉汽锅鸡	0	0	null	null	菜名 肉苁蓉汽锅鸡	0	0	null	null
+1	花之仙踪的连载网站	起点中文网	0	0	null	null	连载网站 花之仙踪	0	0	null	null
+1	葡萄干戚风瑞士卷的口味	脆甜	0	1	脆甜	null	口味 葡萄干戚风瑞士卷	0	0	null	null
+1	莲藕牛蒡龙骨汤的配料	<a>牛蒡</a>1根、红枣8粒	0	0	null	null	配料 莲藕牛蒡龙骨汤	0	0	null	null
+1	蛋奶山楂布丁的口味	奶香	0	1	奶香	null	口味 蛋奶山楂布丁	0	0	null	null
+0	艾利·巴巴尔伊的国籍	国籍：塞尔维亚	0	0	null	null	国籍 艾利·巴巴尔伊	0	0	null	null
+0	谷文照的出生日期	1921年12月出生	0	0	null	null	出生日期 谷文照	0	0	null	null
+1	论语中英文对照的出版社	中华书局	0	0	null	null	出版社 论语中英文对照	0	0	null	null
+1	英语视听说综合教程的出版社	浙江大学出版社	0	1	浙江大学出版社	null	出版社 英语视听说综合教程	0	0	null	null
+1	自后的中文名	自后	0	0	null	null	中文名 自后	0	0	null	null
+1	艾伯特·米塞尔的出生日期	1986年10月01日	0	1	1986年10月1日	null	出生日期 艾伯特·米塞尔	0	0	null	null
+1	苏塞别墅酒店的中文名	苏塞别墅酒店	0	0	null	null	中文名 苏塞别墅酒店	0	0	null	null
+1	观澜街的地理位置	广东省深圳市宝安区	0	1	广东省深圳市宝安区	null	地理位置 观澜街	1	0	null	跪求深圳观澜的地理位置,文字详解_百度知道
+0	至尊召唤：网游之圣霸王座的作者	双儿宝贝	0	0	null	null	作者 至尊召唤：网游之圣霸王座	0	0	null	null
+1	苏阿迪耶酒店公寓的英文名称	The Suadiye Residence	0	1	The Suadiye Residence	null	英文名称 苏阿迪耶酒店公寓	0	0	null	null
+0	苹果eMAC G4 M8951CH/A的屏幕尺寸	17英寸	0	0	null	null	屏幕尺寸 苹果eMAC G4 M8951CH/A	0	0	null	null
+1	自在（黄思婷演唱歌曲）的发行时间	2004年12月	0	0	null	null	发行时间 自在（黄思婷演唱歌曲）	0	0	null	null
+1	蔓荆子（中药）的中文学名	蔓荆子	0	0	null	null	中文学名 蔓荆子（中药）	0	0	null	null
+1	芜湖天云生物有限公司的公司性质	民营	0	0	null	null	公司性质 芜湖天云生物有限公司	0	0	null	null
+1	苏格拉底（巴西足球运动员）的别名	足球博士	0	0	null	null	别名 苏格拉底（巴西足球运动员）	0	0	null	null
+1	艾伯特罗伊德的作者	爱幻想的少年	0	1	少年	null	作者 艾伯特罗伊德	0	0	null	null
+1	视力残疾的或称	视觉敏锐度	0	1	视觉敏锐度	null	或称 视力残疾	0	0	null	null
+1	英汉证券投资词典的类型	英汉	0	0	null	null	类型 英汉证券投资词典	0	0	null	null
+1	让美女尖叫的中文名	让美女尖叫	0	0	null	null	中文名 让美女尖叫	0	0	null	null
+1	艾尔莎7300GT钛金版的芯片位宽	256bit	0	1	256bit	null	芯片位宽 艾尔莎7300GT钛金版	0	0	null	null
+0	行楷每天30分钟-钢笔书法自学速成的副标题	行楷每天30分钟	0	0	null	null	副标题 行楷每天30分钟-钢笔书法自学速成	0	0	null	null
+1	西安菲特猎头公司的中文名	西安菲特猎头公司	0	0	null	null	中文名 西安菲特猎头公司	0	0	null	null
+1	芋小满（蓝色港湾店）的地区	北京市	0	0	null	null	地区 芋小满（蓝色港湾店）	0	0	null	null
+1	莲庄镇的面积	81.8平方公里	0	1	76.39平方千米	null	面积 莲庄镇	0	0	null	null
+1	胡成中的民族	汉	0	1	汉族	null	民族 胡成中	0	1	汉族	null
+1	芭比公主礼服秀的内容主题	礼服秀	0	0	null	null	内容主题 芭比公主礼服秀	0	0	null	null
+1	荒塘瑶族乡的面积	158平方公里	0	1	158平方千米	null	面积 荒塘瑶族乡	0	0	null	null
+1	装饰装修工程质量竣工资料实例的定价	128.00元	0	0	null	null	定价 装饰装修工程质量竣工资料实例	0	0	null	null
+1	至再至三的出处	《<a>尚书</a>·多方	0	0	null	null	出处 至再至三	0	0	null	null
+1	胭脂翠绿，落叶红的作者	亓雨晴	0	0	null	null	作者 胭脂翠绿，落叶红	0	0	null	null
+1	自我效能（上下册）的页数	918	0	1	918页	null	页数 自我效能（上下册）	0	0	null	null
+1	胡新桥（电子科技大学博士）的性别	男	0	0	null	null	性别 胡新桥（电子科技大学博士）	0	0	null	null
+1	若有来生为你倾天下的连载网站	红袖添香网	0	0	null	null	连载网站 若有来生为你倾天下	0	0	null	null
+0	董萍实新书写的开本	16	0	0	null	null	开本 董萍实新书写	0	0	null	null
+1	蒸汽机兄弟的游戏类型	射击类	0	1	射击类	null	游戏类型 蒸汽机兄弟	0	0	null	null
+1	谢代陈的出生地	海南省文昌市	0	1	海南省文昌市	null	出生地 谢代陈	0	0	null	null
+1	被命运玩弄的魔之子的小说进度	暂停	0	0	null	null	小说进度 被命运玩弄的魔之子	0	0	null	null
+1	苟红药的小说进度	连载	0	0	null	null	小说进度 苟红药	0	0	null	null
+1	解铭的职业	导演	0	1	导演	null	职业 解铭	0	1	导演	null
+1	谭伯彦的国籍	中国	0	1	中国	null	国籍 谭伯彦	0	0	null	null
+1	裕华酒楼的地区	深圳市	0	0	null	null	地区 裕华酒楼	0	0	null	null
+1	蒲台村的外文名称	Pu station village	0	1	Pu station village	null	外文名称 蒲台村	0	0	null	null
+1	设计表现-产品手绘表现技法的ISBN	9787040256857	0	0	null	null	ISBN 设计表现-产品手绘表现技法	0	0	null	null
+1	蓝色药水完整版的游戏大小	5329K	0	1	5329K	null	游戏大小 蓝色药水完整版	0	0	null	null
+1	西天际-万重山里万里程的出版时间	2009-7-1	0	1	2009年7月1日	null	出版时间 西天际-万重山里万里程	0	0	null	null
+1	花为谁妍的作者	万里帆	0	0	null	null	作者 花为谁妍	0	0	null	null
+0	艺术设计专业基础教程：设计制图的出版社	辽宁美术出版社	0	0	null	null	出版社 艺术设计专业基础教程：设计制图	0	0	null	null
+1	请说一声——“我爱你”的小说进度	连载	0	0	null	null	小说进度 请说一声——“我爱你”	0	0	null	null
+1	詹姆斯·科林斯的所属运动队	威尔士、西汉姆联<a>足球俱乐部</a>	0	1	西汉姆联足球俱乐部	null	所属运动队 詹姆斯·科林斯	0	0	null	null
+1	聪明的人会说智慧的人会听的出版时间	2009-8-1	0	1	2009年8月1日	null	出版时间 聪明的人会说智慧的人会听	0	0	null	null
+1	西康滋补汤锅的餐馆名称	西康滋补汤锅	0	0	null	null	餐馆名称 西康滋补汤锅	0	0	null	null
+1	西湖（广西省桂林市西湖）的水面面积	700多亩	0	0	null	null	水面面积 西湖（广西省桂林市西湖）	0	0	null	null
+1	舟山市廷佐小学的创办时间	1924年	0	1	1924年	null	创办时间 舟山市廷佐小学	0	0	null	null
+1	至尊——最后增幅的作者	遗伤D九尾狐	0	1	遗伤D九尾狐	null	作者 至尊——最后增幅	0	0	null	null
+1	胡斯托·何塞·德·乌尔基萨的出生日期	1854年3月5日	0	1	1801年10月18日(天秤座)	null	出生日期 胡斯托·何塞·德·乌尔基萨	0	1	1801年10月18日(天秤座)	null
+1	胡嘉爱的身高	165cm	0	1	165cm	null	身高 胡嘉爱	0	1	165cm	null
+1	诺贝尔真正想要什么的ISBN	9787119068640	0	0	null	null	ISBN 诺贝尔真正想要什么	0	0	null	null
+0	西营村（山西省大同市阳高县东小村镇下辖村）的中文名	西营村	0	0	null	null	中文名 西营村（山西省大同市阳高县东小村镇下辖村）	0	0	null	null
+1	营定街村的下辖地区	21个村民小组	0	0	null	null	下辖地区 营定街村	0	0	null	null
+1	花生枣蜜汤的配料	大枣,蜂蜜	0	0	null	null	配料 花生枣蜜汤	0	0	null	null
+1	职场会话懂这些就够了的书名	职场会话懂这些就够了	0	0	null	null	书名 职场会话懂这些就够了	0	0	null	null
+1	象牙塔内的“成长白皮书”的连载网站	新浪读书	0	0	null	null	连载网站 象牙塔内的“成长白皮书”	0	0	null	null
+1	胡大孝的所教学科	化  学	0	0	null	null	所教学科 胡大孝	0	0	null	null
+1	话山县的分类	地区	0	0	null	null	分类 话山县	0	0	null	null
+1	蓝色困惑的副标题	神秘莫测的海洋奇谜	0	0	null	null	副标题 蓝色困惑	0	0	null	null
+1	诛仙传说之诛仙续的小说进度	暂停	0	0	null	null	小说进度 诛仙传说之诛仙续	0	0	null	null
+1	萨姆·沃纳梅克的外文名	Sam Wanamaker	0	1	Sam Wanamaker	null	外文名 萨姆·沃纳梅克	0	0	null	null
+1	苏亚雷斯（西班牙前首相）的出生日期	<a>1932年</a><a>9月25日</a>	0	0	null	null	出生日期 苏亚雷斯（西班牙前首相）	0	0	null	null
+1	肖拉瓦萨海滨酒店的酒店星级	4星级	0	1	四星级	null	酒店星级 肖拉瓦萨海滨酒店	0	0	null	null
+1	花朵的呢喃的小说进度	连载	0	0	null	null	小说进度 花朵的呢喃	0	0	null	null
+1	菅子的ISBN	9784480425133	0	0	null	null	ISBN 菅子	0	0	null	null
+1	行走在都市里的人的书名	行走在都市里的人	0	0	null	null	书名 行走在都市里的人	0	0	null	null
+1	脑筋急转弯精选大全的ISBN	9787506465403	0	0	null	null	ISBN 脑筋急转弯精选大全	0	0	null	null
+1	西城外村的中文名	西城外村	0	0	null	null	中文名 西城外村	0	0	null	null
+1	象牙新村的建筑形式	多层	0	0	null	null	建筑形式 象牙新村	0	0	null	null
+1	草原上的小木屋（上下）的装帧	平装	0	0	null	null	装帧 草原上的小木屋（上下）	0	0	null	null
+1	菩提落夏的连载网站	起点中文网	0	0	null	null	连载网站 菩提落夏	0	0	null	null
+1	设备监理工程师的国家	工业发达国家	0	1	工业发达国家	null	国家 设备监理工程师	0	0	null	null
+1	腹黑校草杠上天才校花的小说进度	连载	0	0	null	null	小说进度 腹黑校草杠上天才校花	0	0	null	null
+1	薛祥（明初尚书）的性别	男	0	0	null	null	性别 薛祥（明初尚书）	0	0	null	null
+1	豆豉苦瓜炒肉的中文名	豆豉苦瓜炒肉	0	0	null	null	中文名 豆豉苦瓜炒肉	0	0	null	null
+1	芜湖市博英制药的类别	现代制药企业	0	0	null	null	类别 芜湖市博英制药	0	0	null	null
+1	芥菜生姜牛肉汤的做法	切碎、生姜去皮	0	0	null	null	做法 芥菜生姜牛肉汤	0	0	null	null
+1	诗经要籍提要的出版社	<a>学苑出版社</a>	0	0	null	null	出版社 诗经要籍提要	0	0	null	null0	邓稼先-100位新中国成立以来感动中国人物的ISBN	9787547211038	0	0	null	null	ISBN 邓稼先-100位新中国成立以来感动中国人物	0	0	null	null
+1	赠写真求赞者的作者	方信孺	0	1	方信孺	null	作者 赠写真求赞者	0	0	null	null
+1	阴阳大战记的地区	日本	0	0	null	null	地区 阴阳大战记	0	0	null	null
+1	重生之盛世华章的作者	寞忘红尘	0	1	寞忘红尘	null	作者 重生之盛世华章	0	0	null	null
+1	都市罪恶档案的中文名	都市罪恶档案	0	0	null	null	中文名 都市罪恶档案	0	0	null	null
+1	运城市地方税务局的中文名	运城市地方税务局	0	0	null	null	中文名 运城市地方税务局	0	0	null	null
+0	辣妹女警花的制片地区	台湾	0	0	null	null	制片地区 辣妹女警花	0	0	null	null
+1	遗失的爱情之不落留痕的中文名	遗失的爱情之不落留痕	0	0	null	null	中文名 遗失的爱情之不落留痕	0	0	null	null
+1	金鹏 VW31的网络模式	WCDMA、GSM	0	0	null	null	网络模式 金鹏 VW31	0	0	null	null
+1	郭贝勒氏家族墓地的地址	讷河市龙河镇新生活村五屯的坡地	0	0	null	null	地址 郭贝勒氏家族墓地	0	0	null	null
+0	赵多武的主要成就	中国书画家协会理事	0	0	null	null	主要成就 赵多武	0	0	null	null
+1	这一生我只为一人的连载网站	晋江文学城	0	0	null	null	连载网站 这一生我只为一人	0	0	null	null
+0	金瞳结界师的连载网站	潇湘书院	0	0	null	null	连载网站 金瞳结界师	0	0	null	null
+1	道魔一家的小说进度	连载	0	0	null	null	小说进度 道魔一家	0	0	null	null
+1	辉南县的车牌代码	吉E	0	1	吉E	null	车牌代码 辉南县	0	0	null	null
+1	铳骑士的游戏原名	銃騎士Cutie☆Bullet	0	0	null	null	游戏原名 铳骑士	0	0	null	null
+1	郑州路保生物科技有限公司的外文名称	LUBAO	0	1	LUBAO	null	外文名称 郑州路保生物科技有限公司	0	0	null	null
+1	郑志侠的出生地	金寨	0	1	金寨	null	出生地 郑志侠	0	0	null	null
+1	透明（美国图书）的出版时间	2009-10-01	0	0	null	null	出版时间 透明（美国图书）	0	0	null	null
+1	重屏之女儿殇的小说进度	连载	0	0	null	null	小说进度 重屏之女儿殇	0	0	null	null
+1	重穹的连载网站	起点中文网	0	0	null	null	连载网站 重穹	0	0	null	null
+1	追荐的中文名	追荐	0	0	null	null	中文名 追荐	0	0	null	null
+1	超级无敌兑兑兑的总推荐	207	0	0	null	null	总推荐 超级无敌兑兑兑	0	0	null	null
+1	财宏村的所属地区	湖南省邵阳市寸石镇	0	1	湖南省邵阳市寸石镇	null	所属地区 财宏村	0	0	null	null
+1	阙月之惜我往昔的连载网站	潇湘书院	0	0	null	null	连载网站 阙月之惜我往昔	0	0	null	null
+1	赖殿才的国籍	中国	0	1	中国	null	国籍 赖殿才	0	0	null	null
+1	遂初堂的地址	<a>宁寿宫</a><a>花园</a><a>中轴线</a>上	0	0	null	null	地址 遂初堂	0	0	null	null
+1	超时空群侠传的小说进度	连载	0	0	null	null	小说进度 超时空群侠传	0	0	null	null
+1	郑大发的中文名	郑大发	0	0	null	null	中文名 郑大发	0	0	null	null
+1	返回灵境的入口：寻幽访古篇的定价	NT$ 240	0	0	null	null	定价 返回灵境的入口：寻幽访古篇	0	0	null	null
+1	金龙天下的连载网站	17k小说网	0	0	null	null	连载网站 金龙天下	0	0	null	null
+1	辣汁农家爽口鸡的中文名	辣汁农家爽口鸡	0	0	null	null	中文名 辣汁农家爽口鸡	0	0	null	null
+0	重塑心灵：NLP：一门使人成功快乐的学问的语言类型	简体中文	0	0	null	null	语言类型 重塑心灵：NLP：一门使人成功快乐的学问	0	0	null	null
+1	金恒生i8500的产品类型	企业级	0	0	null	null	产品类型 金恒生i8500	0	0	null	null
+0	钱义林的中文名	钱义林	0	0	null	null	中文名 钱义林	0	0	null	null
+1	郑宝忠的职称	主任医师	0	1	;主任医师	null	职称 郑宝忠	0	1	;主任医师	null
+1	赫尔拿的国籍	阿根廷	0	1	阿根廷	null	国籍 赫尔拿	0	0	null	null
+1	走不完的传销路的小说进度	连载	0	0	null	null	小说进度 走不完的传销路	0	0	null	null
+1	释德根的逝世日期	1970	0	1	1970年	null	逝世日期 释德根	0	1	1970年	null
+0	长沙自平衡多级泵制造有限公司的经营范围	水泵、自平衡多级泵、多级离心泵	0	0	null	null	经营范围 长沙自平衡多级泵制造有限公司	0	0	null	null
+0	郝晓娟的国籍	中华人民共和国	0	0	null	null	国籍 郝晓娟	0	0	null	null
+1	那个图书馆的作者	夏陌浅叶	0	1	夏陌浅叶	null	作者 那个图书馆	0	0	null	null
+0	达莎·瓦西列娃：神秘女孩的个人档案的中文名	达莎·瓦西列娃：神秘女孩的个人档案	0	0	null	null	中文名 达莎·瓦西列娃：神秘女孩的个人档案	0	0	null	null
+1	迈拓91360U4的硬盘容量	13.6GB	0	1	13.6GB	null	硬盘容量 迈拓91360U4	0	0	null	null
+1	赵濯华的国籍	中国	0	1	中国	null	国籍 赵濯华	0	1	中国	null
+1	钩毛鳃裂虫的亚科	裂虫亚科	0	0	null	null	亚科 钩毛鳃裂虫	0	0	null	null
+1	重生之成仙的小说进度	连载	0	0	null	null	小说进度 重生之成仙	0	0	null	null
+1	贪戒的ISBN	9787504465832	0	0	null	null	ISBN 贪戒	0	0	null	null
+1	赵匡胤演义的作者	孙惠文                       /            刘兰芳	0	1	刘兰芳、孙惠文	null	作者 赵匡胤演义	1	0	null	评书 粤语_赵匡胤演义 粤语评书 - 全集
+1	金达双核引擎A9静音版的中文名	金达双核引擎A9静音版	0	0	null	null	中文名 金达双核引擎A9静音版	0	0	null	null
+1	费雪小姐探案集的制片地区	<a>澳大利亚</a>	0	0	null	null	制片地区 费雪小姐探案集	0	0	null	null
+1	郑州市黄河游览区的始建于	是20世纪70年代	0	1	是20世纪70年代	null	始建于 郑州市黄河游览区	0	0	null	null
+1	郭景儒的国籍	中国	0	1	中国	null	国籍 郭景儒	0	0	null	null
+1	送韩都护还边的作品出处	《<a>全唐诗</a>》	0	0	null	null	作品出处 送韩都护还边	0	0	null	null
+1	逸岭锦江的装修情况	毛坯	0	0	null	null	装修情况 逸岭锦江	0	0	null	null
+1	赌徒回忆录的作者	丰色人生	0	0	null	null	作者 赌徒回忆录	0	0	null	null
+1	阴谋（谭剑飞创作诗歌）的文学体裁	现代诗	0	0	null	null	文学体裁 阴谋（谭剑飞创作诗歌）	0	0	null	null
+1	郭德祥的出生日期	1935年	0	0	null	null	出生日期 郭德祥	0	0	null	null
+1	郑州商都文化的出版社	河南人民出版社	0	0	null	null	出版社 郑州商都文化	0	0	null	null
+1	铜都卫士的中文名	铜都卫士	0	0	null	null	中文名 铜都卫士	0	0	null	null
+1	速冻蔬菜的制作过程	采用优质的蔬菜进行烫漂	1	0	null	如何制作速冻蔬菜_百度知道	制作过程 速冻蔬菜	1	0	null	如何制作速冻蔬菜_百度知道
+1	酱肉花生糯米饭的适宜人群	老少皆宜	0	0	null	null	适宜人群 酱肉花生糯米饭	0	0	null	null
+1	载荷谱的释义	飞行器各个结构部位所受的<a>载荷</a>	0	1	飞行器各个结构部位所受的载荷	null	释义 载荷谱	0	0	null	null
+1	重生之汐莲的写作进程	新书上传	0	0	null	null	写作进程 重生之汐莲	0	0	null	null
+1	长春工业大学图书馆的员工数	74人	0	0	null	null	员工数 长春工业大学图书馆	0	0	null	null
+1	那迁自然村的中文名	那迁自然村	0	0	null	null	中文名 那迁自然村	0	0	null	null
+1	道之紫玉笛的中文名	道之紫玉笛	0	0	null	null	中文名 道之紫玉笛	0	0	null	null
+1	邵阳蓝印花布的遗产类别	传统手工技艺	0	0	null	null	遗产类别 邵阳蓝印花布	0	0	null	null
+1	跨文化外语教学的丛书	外教社跨文化交际丛书	0	0	null	null	丛书 跨文化外语教学	0	0	null	null
+1	阳道九阴的作者	绿色的棉花糖	0	0	null	null	作者 阳道九阴	0	0	null	null
+1	贝茨氏拟态的大多见于	鳞翅目昆虫	0	0	null	null	大多见于 贝茨氏拟态	0	0	null	null
+1	贵州黎平经济开发区的中文名	贵州黎平经济开发区	0	0	null	null	中文名 贵州黎平经济开发区	0	0	null	null
+1	鑫国茂减速机有限公司的开发产品	卷杨系列、液压回转	0	0	null	null	开发产品 鑫国茂减速机有限公司	0	0	null	null
+1	近世中国经济生活与宗族教育的ISBN	9787532048540	0	0	null	null	ISBN 近世中国经济生活与宗族教育	0	0	null	null
+1	赵锋佩的职业	官员	0	1	官员	null	职业 赵锋佩	0	1	官员	null
+1	那年我十八的中文名	那年我十八	0	0	null	null	中文名 那年我十八	0	0	null	null
+1	金融系的学科基础	高等数学、概率、线性代数	0	0	null	null	学科基础 金融系	0	0	null	null
+1	赵涌（重庆医科大学病理学教授）的国籍	中国	0	0	null	null	国籍 赵涌（重庆医科大学病理学教授）	0	0	null	null
+1	贤者之孝二百四十首·张九龄的创作年代	宋朝	0	1	宋朝	null	创作年代 贤者之孝二百四十首·张九龄	0	0	null	null
+1	郡级驱逐舰的中文名	郡级驱逐舰	0	0	null	null	中文名 郡级驱逐舰	0	0	null	null
+1	越沙曼曼的小说进度	连载	0	0	null	null	小说进度 越沙曼曼	0	0	null	null
+0	长江中下游地工常见森林昆虫与蜘蛛的出版社	<a>东北林业大学出版社</a>	0	0	null	null	出版社 长江中下游地工常见森林昆虫与蜘蛛	0	0	null	null
+1	那段情谁伤了谁的小说进度	连载	0	0	null	null	小说进度 那段情谁伤了谁	0	0	null	null
+1	铁拳小子20的定价	75(元)	0	0	null	null	定价 铁拳小子20	0	0	null	null
+1	长袖曼舞的作品状态	连载中	0	0	null	null	作品状态 长袖曼舞	0	0	null	null
+1	邓振和的中文名	邓振和	0	0	null	null	中文名 邓振和	0	0	null	null
+0	阻性板计数器的本质	一种新型探测器	0	0	null	null	本质 阻性板计数器	0	0	null	null
+1	钱刚（甘肃兰州诗人）的中文名	钱刚	0	0	null	null	中文名 钱刚（甘肃兰州诗人）	0	0	null	null
+1	进盛中学的办学理念	奠基成功人生	0	0	null	null	办学理念 进盛中学	0	0	null	null
+1	阿努拉德普勒县的中文名	阿努拉德普勒县	0	0	null	null	中文名 阿努拉德普勒县	0	0	null	null
+1	邪意无线的作者	亦雪封晨	0	0	null	null	作者 邪意无线	0	0	null	null
+1	金仲和的民族	汉族	0	1	汉族	null	民族 金仲和	0	1	汉族	null
+0	败犬的爱情白皮书的连载网站	云中书城	0	0	null	null	连载网站 败犬的爱情白皮书	0	0	null	null
+0	长喜英语：大学英语四级考试新题型词汇周计划的出版时间	2014-01-01	0	0	null	null	出版时间 长喜英语：大学英语四级考试新题型词汇周计划	0	0	null	null
+1	蹇威的性别	男	0	1	男	null	性别 蹇威	0	0	null	null
+1	透视对手的ISBN	9787508270951	0	0	null	null	ISBN 透视对手	0	0	null	null
+1	醉答乐天的创作年代	唐朝	0	1	唐代	null	创作年代 醉答乐天	0	0	null	null
+1	走进毛泽东的出品公司	中央新闻纪录电影制片厂	0	1	中央新闻纪录电影制片厂	null	出品公司 走进毛泽东	0	0	null	null
+1	锤打猫头鹰分的游戏类型	<a>动作</a>	0	1	动作类	null	游戏类型 锤打猫头鹰分	0	0	null	null
+1	速8酒店（北京西直门店）的酒店星级	二星级	0	1	二星级	null	酒店星级 速8酒店（北京西直门店）	0	0	null	null
+1	长融国际融资租赁有限责任公司的中文名	长融国际融资租赁有限责任公司	0	0	null	null	中文名 长融国际融资租赁有限责任公司	0	0	null	null
+1	面向模式的软件架构卷5的出版社	人民邮电出版社	0	0	null	null	出版社 面向模式的软件架构卷5	0	0	null	null
+0	马丁（NBA纽约尼克斯篮球运动员）的外文名	Kenyon Martin	0	0	null	null	外文名 马丁（NBA纽约尼克斯篮球运动员）	0	0	null	null
+1	雄师:二战全景谋略长稿的简称	《雄师》	0	0	null	null	简称 雄师:二战全景谋略长稿	0	0	null	null
+1	陈麒先的民族	汉族	0	1	汉族	null	民族 陈麒先	0	0	null	null
+1	饮血江湖饮血剑的中文名	饮血江湖饮血剑	0	0	null	null	中文名 饮血江湖饮血剑	0	0	null	null
+1	雁山纪游七首·寿昌寺的作者	薛嵎	0	1	薛嵎	null	作者 雁山纪游七首·寿昌寺	0	0	null	null
+0	顶级服饰珠宝皮具：永恒的奢华传奇的中文名	顶级服饰珠宝皮具:永恒的奢华传奇	0	0	null	null	中文名 顶级服饰珠宝皮具：永恒的奢华传奇	0	0	null	null
+1	魔者独尊的中文名	魔者独尊	0	0	null	null	中文名 魔者独尊	0	0	null	null
+1	高丽栗糕的文献	《居家必用事类全集》	0	0	null	null	文献 高丽栗糕	0	0	null	null
+1	革命到底的主演	赵凯 Kai Zhao、吴军Jun Wu、杨紫婷Ziting Yang、王冰Bing Wang、郑昊Hao Zheng	0	0	null	null	主演 革命到底	0	0	null	null
+1	鞍山皮影戏的主要道具	驴皮	0	0	null	null	主要道具 鞍山皮影戏	0	0	null	null
+1	黄浦新苑一期至三期的物业公司	上实物业	0	1	上实物业	null	物业公司 黄浦新苑一期至三期	0	0	null	null
+0	非常梦——中国古代历史上的22个奇梦的小说进度	已完结	0	0	null	null	小说进度 非常梦——中国古代历史上的22个奇梦	0	0	null	null
+1	马赛莉的出生日期	1956年	0	1	1956年	null	出生日期 马赛莉	0	1	1956年	null
+1	雨中过临溪古堠的创作年代	宋	0	1	宋代	null	创作年代 雨中过临溪古堠	0	0	null	null
+0	魔杰Q30的扬声器单元	2x2英寸	0	0	null	null	扬声器单元 魔杰Q30	0	0	null	null
+1	鲜虾蔬菜土豆沙拉的主要原料	猪<a>里脊</a>、鸡蛋	0	0	null	null	主要原料 鲜虾蔬菜土豆沙拉	0	0	null	null
+1	高戈尔台餐饮酒店的周围景观	鹰巢、耶拿峰、贝希特斯加登城区、贝希特斯加登盐矿、贝希特斯加登火车站	0	0	null	null	周围景观 高戈尔台餐饮酒店	0	0	null	null
+1	雨海村的面积	511亩	0	1	511亩	null	面积 雨海村	0	0	null	null
+1	陆肖军的出生地	天津市人	0	0	null	null	出生地 陆肖军	0	0	null	null
+1	飞利浦SHE2643的中文名	飞利浦SHE2643	0	0	null	null	中文名 飞利浦SHE2643	0	0	null	null
+1	香桦的拉丁学名	Betula insignis Franch.	0	1	Betula insignis Franch.	null	拉丁学名 香桦	0	0	null	null
+0	韩庄村（河南省封丘县王村乡下辖村）的养殖	猪、鸡	0	0	null	null	养殖 韩庄村（河南省封丘县王村乡下辖村）	0	0	null	null
+0	雷霆战机（韩国Jamie制作3D飞行射击类游戏）的中文名	雷霆战机	0	0	null	null	中文名 雷霆战机（韩国Jamie制作3D飞行射击类游戏）	0	0	null	null
+0	霍德里比亚宾馆酒店的中文名	霍德里比亚宾馆酒店	0	0	null	null	中文名 霍德里比亚宾馆酒店	0	0	null	null
+1	雏菊联盟的联盟召开大会	2002年3月	0	0	null	null	联盟召开大会 雏菊联盟	0	0	null	null
+1	飧泄的中医学名	飧泄	0	0	null	null	中医学名 飧泄	0	0	null	null
+0	陌上风景80后版《红楼梦》 上部完的作者	夕殿萤飞	0	0	null	null	作者 陌上风景80后版《红楼梦》 上部完	0	0	null	null
+1	食店的结构	偏正式<a>合成词</a>	0	1	偏正式合成词	null	结构 食店	0	0	null	null
+1	黄鹤楼的一游的小说进度	已完结	0	0	null	null	小说进度 黄鹤楼的一游	0	0	null	null
+1	陡沟乡的中文名	陡沟乡	0	0	null	null	中文名 陡沟乡	0	0	null	null
+1	颜氏家族的拼音	yán shì jiā zú	0	0	null	null	拼音 颜氏家族	0	0	null	null
+1	黄水谣的填词	<a>冼星海</a>	0	1	光未然	null	填词 黄水谣	0	0	null	null
+1	麻婆豆腐盖饭的材料	嫩豆腐1盒、猪绞肉30公克	1	0	null	1.将豆腐切成2cm左右的小方块，放入沸水中，加入少许食盐；Tips：如果喜欢嫩豆腐，也可以...	材料 麻婆豆腐盖饭	0	0	null	null
+1	鞠清远的中文名	鞠清远	0	0	null	null	中文名 鞠清远	0	0	null	null
+1	零起点：计算机综合培训教程的装帧	平装	0	0	null	null	装帧 零起点：计算机综合培训教程	0	0	null	null
+1	魔盗Online的发行商	盛大	0	1	盛大	null	发行商 魔盗Online	0	0	null	null
+1	鲸之歌的书名	鲸之歌	0	0	null	null	书名 鲸之歌	0	0	null	null
+1	魏岗镇的行政区类别	镇	0	0	null	null	行政区类别 魏岗镇	0	0	null	null
+0	食肉男的反义	食草男	0	0	null	null	反义 食肉男	0	0	null	null
+0	魑魅御手异闻录的连载网站	起点中文网	0	0	null	null	连载网站 魑魅御手异闻录	0	0	null	null
+0	雪豹同人我是竹下俊的小说进度	连载	0	0	null	null	小说进度 雪豹同人我是竹下俊	0	0	null	null
+1	陆东海的民族	壮族	0	1	壮族	null	民族 陆东海	0	0	null	null
+1	龙幡的种类	种类有多种。	0	0	null	null	种类 龙幡	0	0	null	null
+1	魔灵寂的中文名	魔灵寂	0	0	null	null	中文名 魔灵寂	0	0	null	null
+0	黑金帝国（1999年称雄导演香港电影）的中文名	黑金帝国	0	0	null	null	中文名 黑金帝国（1999年称雄导演香港电影）	0	0	null	null
+1	静待玫瑰开满的小说进度	连载	0	0	null	null	小说进度 静待玫瑰开满	0	0	null	null
+1	麻辣女兵之无尽的痛苦与承诺的小说进度	连载	0	0	null	null	小说进度 麻辣女兵之无尽的痛苦与承诺	0	0	null	null
+1	飞扬的魔法雪花的小说进度	连载	0	0	null	null	小说进度 飞扬的魔法雪花	0	0	null	null
+1	青少年人际交往的101个误区的页数	202	0	1	202页	null	页数 青少年人际交往的101个误区	0	0	null	null
+1	青年之家旅馆的英文名称	Home Youth Hostel	0	1	Home Youth Hostel	null	英文名称 青年之家旅馆	0	0	null	null
+1	餐桌转盘的主要类别	三类	0	0	null	null	主要类别 餐桌转盘	0	0	null	null
+1	驮腰村的面积	17011亩	0	1	17011亩	null	面积 驮腰村	0	0	null	null
+1	难以上青天的连载网站	纵横中文网	0	0	null	null	连载网站 难以上青天	0	0	null	null
+0	陈乔夫的中文名	陈乔夫	0	0	null	null	中文名 陈乔夫	0	0	null	null
+0	阿波罗69的资费提示	完全免费	0	0	null	null	资费提示 阿波罗69	0	0	null	null
+1	韩文媛的出生地	<a>阳泉郊区</a>后沟村	0	1	阳泉郊区后沟村	null	出生地 韩文媛	0	0	null	null
+0	韩尚道的产品	首尔脆饼	0	0	null	null	产品 韩尚道	0	0	null	null
+1	飘渺尘仙的作者	龙之天空	0	1	龙之天空	null	作者 飘渺尘仙	0	0	null	null
+1	青州市国家税务局的成立单位	原青州市税务局	0	0	null	null	成立单位 青州市国家税务局	0	0	null	null
+0	陈志杰（上海铁路通信工厂总工程师）的中文名	陈志杰	0	0	null	null	中文名 陈志杰（上海铁路通信工厂总工程师）	0	0	null	null
+1	黑暗中的笑声的出版社	<a>上海译文出版社</a>	0	0	null	null	出版社 黑暗中的笑声	0	0	null	null
+1	雪门轮回的小说进度	连载	0	0	null	null	小说进度 雪门轮回	0	0	null	null
+1	龙骧凤矫的成语结构	联合式	0	0	null	null	成语结构 龙骧凤矫	0	0	null	null
+1	黄秋龙的逝世日期	1979年2月17日	0	1	1979年2月17日	null	逝世日期 黄秋龙	0	0	null	null
+1	难逃冷酷撒旦的连载网站	云中书城	0	0	null	null	连载网站 难逃冷酷撒旦	0	0	null	null
+1	鬼灵精事件簿的作者	夏希のたね                       /            犬洞あん	0	0	null	null	作者 鬼灵精事件簿	0	0	null	null
+0	龙胆膳食公寓酒店的酒店地址	Sternallee 164, 5360 圣沃尔夫冈	0	0	null	null	酒店地址 龙胆膳食公寓酒店	0	0	null	null
+1	风火大帝的作者	一村两店	0	0	null	null	作者 风火大帝	0	0	null	null
+1	香葱奶酪玛芬的养生优点	营养丰富含大量钙质	0	0	null	null	养生优点 香葱奶酪玛芬	0	0	null	null
+1	陈鹏林的国籍	中国	0	1	中国	null	国籍 陈鹏林	0	0	null	null
+0	阿姆斯特丹皇家音乐厅管弦乐团的主要成就	世界十大交响乐团之一	0	0	null	null	主要成就 阿姆斯特丹皇家音乐厅管弦乐团	0	0	null	null
+1	鹿寨县安全生产监督管理局的中文名	鹿寨县安全生产监督管理局	0	0	null	null	中文名 鹿寨县安全生产监督管理局	0	0	null	null
+0	雅可夫（《圣斗士星矢》中人物）的出生地	俄罗斯	0	0	null	null	出生地 雅可夫（《圣斗士星矢》中人物）	0	0	null	null
+0	鬼刃狂杀的作者	魅力哥	0	0	null	null	作者 鬼刃狂杀	0	0	null	null
+1	顿特二十四首练习曲与随想曲的出版时间	第1版 (2006年8月1日)	0	1	2006年8月1日
+                                                                                                                 (第1版)	null	出版时间 顿特二十四首练习曲与随想曲	0	0	null	null
+1	雏菊的主题曲的连载网站	红袖添香网	0	0	null	null	连载网站 雏菊的主题曲	0	0	null	null
+1	黄玉池的民族	汉族	0	1	汉族	null	民族 黄玉池	0	0	null	null
+1	魔王你就从了我吧的作者	沫离稀	0	0	null	null	作者 魔王你就从了我吧	0	0	null	null
+1	顽皮主母的小说进度	连载	0	0	null	null	小说进度 顽皮主母	0	0	null	null
+1	魔法少女冒险的游戏平台	pc	0	0	null	null	游戏平台 魔法少女冒险	0	0	null	null
+1	青岛市农合农产品专业合作社的地点	青岛市	0	0	null	null	地点 青岛市农合农产品专业合作社	0	0	null	null
+1	黄金屋中颜如玉的小说进度	连载	0	0	null	null	小说进度 黄金屋中颜如玉	0	0	null	null
+1	雅漾清透美白精华乳的中文名	雅漾清透美白精华乳	0	0	null	null	中文名 雅漾清透美白精华乳	0	0	null	null
+1	领跑健康：你应该了解的健康知识的作者	<a>叶寿东</a>	0	0	null	null	作者 领跑健康：你应该了解的健康知识	0	0	null	null
+1	高丝兰皙欧的产地	日本	0	1	日本	null	产地 高丝兰皙欧	0	0	null	null
+1	马玉兰（农艺师）的出生日期	1957年	0	0	null	null	出生日期 马玉兰（农艺师）	0	0	null	null
+1	雪夜煮酒话金瓶：金瓶梅方家谭的页数	466页	0	0	null	null	页数 雪夜煮酒话金瓶：金瓶梅方家谭	0	0	null	null
+1	陕西永陵的景点级别	全国重点文物保护单位	0	0	null	null	景点级别 陕西永陵	0	0	null	null
+0	高级综合英语教程的ISBN	9787040278415	0	0	null	null	ISBN 高级综合英语教程	0	0	null	null
+1	魔王狠妖孽的中文名	魔王狠妖孽	0	0	null	null	中文名 魔王狠妖孽	0	0	null	null
+1	陈小虬的职业	戏剧表演者	0	1	戏剧表演者	null	职业 陈小虬	0	0	null	null
+0	马坊村（北京市昌平区小汤山镇下辖村）的人口	2423人	0	0	null	null	人口 马坊村（北京市昌平区小汤山镇下辖村）	0	0	null	null
+1	风流痕，拂过的旧夏天的作者	司槿流音	0	1	司槿流音	null	作者 风流痕，拂过的旧夏天	0	0	null	null
+1	顾霭云的职业	原公安一所副研究员	0	0	null	null	职业 顾霭云	0	0	null	null
+0	阿尔卡特OmniAccess 512的端口数量	15	0	0	null	null	端口数量 阿尔卡特OmniAccess 512	0	0	null	null
+1	马路方锡卡的身高	176厘米	0	1	176厘米	null	身高 马路方锡卡	0	0	null	null
+1	项目信息管理规划的中文名	项目信息管理规划	0	0	null	null	中文名 项目信息管理规划	0	0	null	null
+0	顾学德的职业	会士	0	0	null	null	职业 顾学德	0	0	null	null
+0	青色火焰（电视剧）的其它译名	青之炎	0	0	null	null	其它译名 青色火焰（电视剧）	0	0	null	null
+1	黄静邦的性别	男	0	0	null	null	性别 黄静邦	0	0	null	null
+1	（鱼兆）两极虫的目	双壳目	0	0	null	null	目 （鱼兆）两极虫	0	0	null	null
+1	［中吕］普天乐的中文名	［中吕］普天乐	0	0	null	null	中文名 ［中吕］普天乐	0	0	null	null
+0	（高职高专）现代企业内部控制概论的定价	29.80元	0	0	null	null	定价 （高职高专）现代企业内部控制概论	0	0	null	null
+0	：杀手太子妃的作者	钰芯	0	0	null	null	作者 ：杀手太子妃	0	0	null	null
+1	：穿了也要爱的连载网站	晋江文学城	0	0	null	null	连载网站 ：穿了也要爱	0	0	null	null
+1	：殇到最后成离歌的作者	wiat	0	0	null	null	作者 ：殇到最后成离歌	0	0	null	null
+1	：死角的小说进度	暂停	0	0	null	null	小说进度 ：死角	0	0	null	null
+1	ＸＹＺ－神龙炮的星级	8	0	0	null	null	星级 ＸＹＺ－神龙炮	0	0	null	null
+1	：胭脂雪的中文名	:胭脂雪	0	0	null	null	中文名 ：胭脂雪	0	0	null	null
+1	Ｉ优974的品种	水稻	0	0	null	null	品种 Ｉ优974	0	0	null	null
+1	ＭＧＰ－７９Ａ式９ｍｍ冲锋枪的国别	秘鲁	0	0	null	null	国别 ＭＧＰ－７９Ａ式９ｍｍ冲锋枪	0	0	null	null
